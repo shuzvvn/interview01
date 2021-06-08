@@ -1,0 +1,2166 @@
+CHROM	POS	REF	ALT	FILTER	Consequence	SYMBOL	Gene	Feature	HGVSc	HGVSp
+chr1	13649	G	C	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	WASH7P	653635	NR_024540.1		
+chr1	13649	G	C	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	MIR6859-1	102466751	NR_106918.1		
+chr1	13649	G	C	VQSRTrancheSNP99.95to100.00	non_coding_transcript_exon_variant	DDX11L1	100287102	NR_046018.2	NR_046018.2:n.892G>C	
+chr1	13752	T	C	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	WASH7P	653635	NR_024540.1		
+chr1	13752	T	C	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	MIR6859-1	102466751	NR_106918.1		
+chr1	13752	T	C	VQSRTrancheSNP99.95to100.00	non_coding_transcript_exon_variant	DDX11L1	100287102	NR_046018.2	NR_046018.2:n.995T>C	
+chr1	14653	C	T	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	DDX11L1	100287102	NR_046018.2		
+chr1	14653	C	T	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	MIR6859-1	102466751	NR_106918.1		
+chr1	14653	C	T	VQSRTrancheSNP99.95to100.00	non_coding_transcript_exon_variant	WASH7P	653635	NR_024540.1	NR_024540.1:n.1478G>A	
+chr1	14677	G	A	VQSRTrancheSNP99.90to99.95	non_coding_transcript_exon_variant	WASH7P	653635	NR_024540.1	NR_024540.1:n.1454C>T	
+chr1	14677	G	A	VQSRTrancheSNP99.90to99.95	downstream_gene_variant	MIR6859-1	102466751	NR_106918.1		
+chr1	14677	G	A	VQSRTrancheSNP99.90to99.95	downstream_gene_variant	DDX11L1	100287102	NR_046018.2		
+chr1	14932	G	T	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	DDX11L1	100287102	NR_046018.2		
+chr1	14932	G	T	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	MIR6859-1	102466751	NR_106918.1		
+chr1	14932	G	T	VQSRTrancheSNP99.95to100.00	intron_variant&non_coding_transcript_variant	WASH7P	653635	NR_024540.1	NR_024540.1:n.1301+38C>A	
+chr1	14937	T	C	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	DDX11L1	100287102	NR_046018.2		
+chr1	14937	T	C	VQSRTrancheSNP99.95to100.00	intron_variant&non_coding_transcript_variant	WASH7P	653635	NR_024540.1	NR_024540.1:n.1301+33A>G	
+chr1	14937	T	C	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	MIR6859-1	102466751	NR_106918.1		
+chr1	16841	G	T	VQSRTrancheSNP99.95to100.00	intron_variant&non_coding_transcript_variant	WASH7P	653635	NR_024540.1	NR_024540.1:n.921+17C>A	
+chr1	16841	G	T	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	MIR6859-1	102466751	NR_106918.1		
+chr1	16841	G	T	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	DDX11L1	100287102	NR_046018.2		
+chr1	16957	G	T	VQSRTrancheSNP99.95to100.00	non_coding_transcript_exon_variant	WASH7P	653635	NR_024540.1	NR_024540.1:n.822C>A	
+chr1	16957	G	T	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	MIR6859-1	102466751	NR_106918.1		
+chr1	16957	G	T	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	DDX11L1	100287102	NR_046018.2		
+chr1	19322	C	T	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	DDX11L1	100287102	NR_046018.2		
+chr1	19322	C	T	VQSRTrancheSNP99.95to100.00	intron_variant&non_coding_transcript_variant	WASH7P	653635	NR_024540.1	NR_024540.1:n.205-956G>A	
+chr1	19322	C	T	VQSRTrancheSNP99.95to100.00	upstream_gene_variant	MIR6859-1	102466751	NR_106918.1		
+chr1	63093	G	A	VQSRTrancheSNP99.95to100.00	intergenic_variant					
+chr1	69270	A	G	VQSRTrancheSNP99.80to99.90	regulatory_region_variant			ENSR00000918279		
+chr1	69270	A	G	VQSRTrancheSNP99.80to99.90	synonymous_variant	OR4F5	79501	NM_001005484.1	NM_001005484.1:c.180A>G	NP_001005484.1:p.Ser60%3D
+chr1	69511	A	G	VQSRTrancheSNP99.90to99.95	missense_variant	OR4F5	79501	NM_001005484.1	NM_001005484.1:c.421A>G	NP_001005484.1:p.Thr141Ala
+chr1	101158	T	C	VQSRTrancheSNP99.95to100.00	intergenic_variant					
+chr1	131315	T	C	VQSRTrancheSNP99.95to100.00	regulatory_region_variant			ENSR00000918285		
+chr1	131315	T	C	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	LOC729737	729737	NR_039983.2		
+chr1	133129	G	A	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	LOC729737	729737	NR_039983.2		
+chr1	133483	G	T	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	LOC729737	729737	NR_039983.2		
+chr1	136048	C	T	VQSRTrancheSNP99.90to99.95	non_coding_transcript_exon_variant	LOC729737	729737	NR_039983.2	NR_039983.2:n.4199G>A	
+chr1	138156	G	T	VQSRTrancheSNP99.95to100.00	regulatory_region_variant			ENSR00000918287		
+chr1	138156	G	T	VQSRTrancheSNP99.95to100.00	non_coding_transcript_exon_variant	LOC729737	729737	NR_039983.2	NR_039983.2:n.2091C>A	
+chr1	139213	A	G	VQSRTrancheSNP99.90to99.95	regulatory_region_variant			ENSR00000249765		
+chr1	139213	A	G	VQSRTrancheSNP99.90to99.95	TF_binding_site_variant			ENSM00526020698		
+chr1	139213	A	G	VQSRTrancheSNP99.90to99.95	non_coding_transcript_exon_variant	LOC729737	729737	NR_039983.2	NR_039983.2:n.1034T>C	
+chr1	139233	C	A	VQSRTrancheSNP99.90to99.95	regulatory_region_variant			ENSR00000249765		
+chr1	139233	C	A	VQSRTrancheSNP99.90to99.95	TF_binding_site_variant			ENSM00521907593		
+chr1	139233	C	A	VQSRTrancheSNP99.90to99.95	non_coding_transcript_exon_variant	LOC729737	729737	NR_039983.2	NR_039983.2:n.1014G>T	
+chr1	182480	G	A	VQSRTrancheSNP99.95to100.00	non_coding_transcript_exon_variant	LOC102725121	102725121	NR_148357.1	NR_148357.1:n.93G>A	
+chr1	182686	A	G	VQSRTrancheSNP99.80to99.90	non_coding_transcript_exon_variant	LOC102725121	102725121	NR_148357.1	NR_148357.1:n.299A>G	
+chr1	183358	G	C	VQSRTrancheSNP99.90to99.95	downstream_gene_variant	MIR6859-2	102465909	NR_107062.1		
+chr1	183358	G	C	VQSRTrancheSNP99.90to99.95	intron_variant&non_coding_transcript_variant	LOC102725121	102725121	NR_148357.1	NR_148357.1:n.468+118G>C	
+chr1	183598	C	G	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	MIR6859-2	102465909	NR_107062.1		
+chr1	183598	C	G	VQSRTrancheSNP99.95to100.00	intron_variant&non_coding_transcript_variant	LOC102725121	102725121	NR_148357.1	NR_148357.1:n.469-142C>G	
+chr1	183697	G	A	VQSRTrancheSNP99.90to99.95	downstream_gene_variant	MIR6859-2	102465909	NR_107062.1		
+chr1	183697	G	A	VQSRTrancheSNP99.90to99.95	intron_variant&non_coding_transcript_variant	LOC102725121	102725121	NR_148357.1	NR_148357.1:n.469-43G>A	
+chr1	183937	G	A	VQSRTrancheSNP99.90to99.95	non_coding_transcript_exon_variant	LOC102725121	102725121	NR_148357.1	NR_148357.1:n.666G>A	
+chr1	183937	G	A	VQSRTrancheSNP99.90to99.95	downstream_gene_variant	MIR6859-2	102465909	NR_107062.1		
+chr1	185275	G	C	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	LOC102725121	102725121	NR_148357.1		
+chr1	185275	G	C	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	MIR6859-2	102465909	NR_107062.1		
+chr1	185333	G	C	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	MIR6859-2	102465909	NR_107062.1		
+chr1	185333	G	C	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	LOC102725121	102725121	NR_148357.1		
+chr1	185336	C	T	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	LOC102725121	102725121	NR_148357.1		
+chr1	185336	C	T	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	MIR6859-2	102465909	NR_107062.1		
+chr1	187352	C	G	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	LOC102725121	102725121	NR_148357.1		
+chr1	187352	C	G	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	MIR6859-2	102465909	NR_107062.1		
+chr1	187485	G	A	VQSRTrancheSNP99.90to99.95	downstream_gene_variant	MIR6859-2	102465909	NR_107062.1		
+chr1	187485	G	A	VQSRTrancheSNP99.90to99.95	downstream_gene_variant	LOC102725121	102725121	NR_148357.1		
+chr1	187497	G	A	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	MIR6859-2	102465909	NR_107062.1		
+chr1	187497	G	A	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	LOC102725121	102725121	NR_148357.1		
+chr1	188062	A	C	VQSRTrancheSNP99.95to100.00	upstream_gene_variant	MIR6859-2	102465909	NR_107062.1		
+chr1	188062	A	C	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	LOC102725121	102725121	NR_148357.1		
+chr1	188118	C	T	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	LOC102725121	102725121	NR_148357.1		
+chr1	188118	C	T	VQSRTrancheSNP99.95to100.00	upstream_gene_variant	MIR6859-2	102465909	NR_107062.1		
+chr1	188289	G	A	VQSRTrancheSNP99.90to99.95	downstream_gene_variant	LOC102725121	102725121	NR_148357.1		
+chr1	188289	G	A	VQSRTrancheSNP99.90to99.95	upstream_gene_variant	MIR6859-2	102465909	NR_107062.1		
+chr1	189771	T	C	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	LOC102725121	102725121	NR_148357.1		
+chr1	189771	T	C	VQSRTrancheSNP99.95to100.00	upstream_gene_variant	MIR6859-2	102465909	NR_107062.1		
+chr1	264562	C	T	PASS	intergenic_variant					
+chr1	264627	A	G	VQSRTrancheSNP99.80to99.90	intergenic_variant					
+chr1	264681	A	G	VQSRTrancheSNP99.80to99.90	intergenic_variant					
+chr1	264730	T	A	PASS	intergenic_variant					
+chr1	277677	G	T	PASS	regulatory_region_variant			ENSR00000344305		
+chr1	277677	G	T	PASS	intergenic_variant					
+chr1	502747	G	C	VQSRTrancheSNP99.80to99.90	regulatory_region_variant			ENSR00000344344		
+chr1	502747	G	C	VQSRTrancheSNP99.80to99.90	intergenic_variant					
+chr1	505782	C	T	VQSRTrancheSNP99.95to100.00	intergenic_variant					
+chr1	722408	G	C	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	LOC100133331	100133331	NR_028327.1		
+chr1	727717	G	C	VQSRTrancheSNP99.95to100.00	regulatory_region_variant			ENSR00000344371		
+chr1	727717	G	C	VQSRTrancheSNP99.95to100.00	non_coding_transcript_exon_variant	LOC100133331	100133331	NR_028327.1	NR_028327.1:n.2315C>G	
+chr1	729454	T	G	VQSRTrancheSNP99.95to100.00	regulatory_region_variant			ENSR00000344372		
+chr1	729454	T	G	VQSRTrancheSNP99.95to100.00	non_coding_transcript_exon_variant	LOC100133331	100133331	NR_028327.1	NR_028327.1:n.578A>C	
+chr1	736829	G	A	VQSRTrancheSNP99.90to99.95	intergenic_variant					
+chr1	737283	T	G	VQSRTrancheSNP99.95to100.00	regulatory_region_variant			ENSR00000344377		
+chr1	737283	T	G	VQSRTrancheSNP99.95to100.00	regulatory_region_variant			ENSR00000344378		
+chr1	737283	T	G	VQSRTrancheSNP99.95to100.00	intergenic_variant					
+chr1	737409	C	T	VQSRTrancheSNP99.90to99.95	regulatory_region_variant			ENSR00000344377		
+chr1	737409	C	T	VQSRTrancheSNP99.90to99.95	regulatory_region_variant			ENSR00000344378		
+chr1	737409	C	T	VQSRTrancheSNP99.90to99.95	intergenic_variant					
+chr1	737443	C	G	VQSRTrancheSNP99.80to99.90	regulatory_region_variant			ENSR00000344377		
+chr1	737443	C	G	VQSRTrancheSNP99.80to99.90	regulatory_region_variant			ENSR00000344378		
+chr1	737443	C	G	VQSRTrancheSNP99.80to99.90	intergenic_variant					
+chr1	737474	G	C	VQSRTrancheSNP99.95to100.00	regulatory_region_variant			ENSR00000344377		
+chr1	737474	G	C	VQSRTrancheSNP99.95to100.00	regulatory_region_variant			ENSR00000344378		
+chr1	737474	G	C	VQSRTrancheSNP99.95to100.00	intergenic_variant					
+chr1	737505	A	C	VQSRTrancheSNP99.95to100.00	regulatory_region_variant			ENSR00000344377		
+chr1	737505	A	C	VQSRTrancheSNP99.95to100.00	regulatory_region_variant			ENSR00000344378		
+chr1	737505	A	C	VQSRTrancheSNP99.95to100.00	intergenic_variant					
+chr1	744866	G	A	VQSRTrancheSNP99.90to99.95	intergenic_variant					
+chr1	770988	A	G	PASS	intron_variant&non_coding_transcript_variant	LOC100288069	100288069	NR_033908.1	NR_033908.1:n.648-1276T>C	
+chr1	779968	T	G	PASS	regulatory_region_variant			ENSR00000000081		
+chr1	779968	T	G	PASS	upstream_gene_variant	LOC100288069	100288069	NR_033908.1		
+chr1	785417	G	A	VQSRTrancheSNP99.80to99.90	intergenic_variant					
+chr1	788418	CAG	C	PASS	intergenic_variant					
+chr1	805887	T	C	VQSRTrancheSNP99.80to99.90	intergenic_variant					
+chr1	817341	A	G	PASS	regulatory_region_variant			ENSR00000000085		
+chr1	817341	A	G	PASS	upstream_gene_variant	FAM87B	400728	NR_103536.1		
+chr1	817514	T	C	PASS	regulatory_region_variant			ENSR00000000085		
+chr1	817514	T	C	PASS	non_coding_transcript_exon_variant	FAM87B	400728	NR_103536.1	NR_103536.1:n.144T>C	
+chr1	820488	C	T	PASS	regulatory_region_variant			ENSR00000918348		
+chr1	820488	C	T	PASS	downstream_gene_variant	FAM87B	400728	NR_103536.1		
+chr1	820507	C	G	PASS	regulatory_region_variant			ENSR00000918348		
+chr1	820507	C	G	PASS	downstream_gene_variant	FAM87B	400728	NR_103536.1		
+chr1	820510	A	T	PASS	regulatory_region_variant			ENSR00000918348		
+chr1	820510	A	T	PASS	downstream_gene_variant	FAM87B	400728	NR_103536.1		
+chr1	822764	A	G	PASS	regulatory_region_variant			ENSR00000918349		
+chr1	822764	A	G	PASS	downstream_gene_variant	FAM87B	400728	NR_103536.1		
+chr1	822764	A	G	PASS	upstream_gene_variant	LINC01128	643837	NR_047519.1		
+chr1	822764	A	G	PASS	downstream_gene_variant	LINC00115	79854	NR_024321.1		
+chr1	826577	A	AT	VQSRTrancheINDEL99.95to100.00	regulatory_region_variant			ENSR00000000086		
+chr1	826577	A	AT	VQSRTrancheINDEL99.95to100.00	upstream_gene_variant	LINC01128	643837	NR_047519.1		
+chr1	826577	A	AT	VQSRTrancheINDEL99.95to100.00	non_coding_transcript_exon_variant	LINC00115	79854	NR_024321.1	NR_024321.1:n.945_946insA	
+chr1	826762	C	A	PASS	regulatory_region_variant			ENSR00000000086		
+chr1	826762	C	A	PASS	non_coding_transcript_exon_variant	LINC00115	79854	NR_024321.1	NR_024321.1:n.761G>T	
+chr1	826762	C	A	PASS	upstream_gene_variant	LINC01128	643837	NR_047519.1		
+chr1	826893	G	A	VQSRTrancheSNP99.90to99.95	regulatory_region_variant			ENSR00000000086		
+chr1	826893	G	A	VQSRTrancheSNP99.90to99.95	upstream_gene_variant	LINC01128	643837	NR_047519.1		
+chr1	826893	G	A	VQSRTrancheSNP99.90to99.95	non_coding_transcript_exon_variant	LINC00115	79854	NR_024321.1	NR_024321.1:n.630C>T	
+chr1	826940	C	T	VQSRTrancheSNP99.90to99.95	regulatory_region_variant			ENSR00000000086		
+chr1	826940	C	T	VQSRTrancheSNP99.90to99.95	upstream_gene_variant	LINC01128	643837	NR_047519.1		
+chr1	826940	C	T	VQSRTrancheSNP99.90to99.95	non_coding_transcript_exon_variant	LINC00115	79854	NR_024321.1	NR_024321.1:n.583G>A	
+chr1	827209	G	C	PASS	regulatory_region_variant			ENSR00000000086		
+chr1	827209	G	C	PASS	TF_binding_site_variant			ENSM00524693633		
+chr1	827209	G	C	PASS	non_coding_transcript_exon_variant	LINC00115	79854	NR_024321.1	NR_024321.1:n.314C>G	
+chr1	827209	G	C	PASS	upstream_gene_variant	LINC01128	643837	NR_047519.1		
+chr1	827212	C	G	PASS	regulatory_region_variant			ENSR00000000086		
+chr1	827212	C	G	PASS	TF_binding_site_variant			ENSM00189622066		
+chr1	827212	C	G	PASS	TF_binding_site_variant			ENSM00524693633		
+chr1	827212	C	G	PASS	upstream_gene_variant	LINC01128	643837	NR_047519.1		
+chr1	827212	C	G	PASS	non_coding_transcript_exon_variant	LINC00115	79854	NR_024321.1	NR_024321.1:n.311G>C	
+chr1	827221	T	C	PASS	regulatory_region_variant			ENSR00000000086		
+chr1	827221	T	C	PASS	TF_binding_site_variant			ENSM00189622066		
+chr1	827221	T	C	PASS	TF_binding_site_variant			ENSM00524693633		
+chr1	827221	T	C	PASS	non_coding_transcript_exon_variant	LINC00115	79854	NR_024321.1	NR_024321.1:n.302A>G	
+chr1	827221	T	C	PASS	upstream_gene_variant	LINC01128	643837	NR_047519.1		
+chr1	827252	T	A	PASS	regulatory_region_variant			ENSR00000000086		
+chr1	827252	T	A	PASS	non_coding_transcript_exon_variant	LINC00115	79854	NR_024321.1	NR_024321.1:n.271A>T	
+chr1	827252	T	A	PASS	upstream_gene_variant	LINC01128	643837	NR_047519.1		
+chr1	841742	A	T	VQSRTrancheSNP99.90to99.95	regulatory_region_variant			ENSR00000918351		
+chr1	841742	A	T	VQSRTrancheSNP99.90to99.95	non_coding_transcript_exon_variant	LINC01128	643837	NR_047526.1	NR_047526.1:n.830A>T	
+chr1	847601	C	T	PASS	intron_variant&non_coding_transcript_variant	LINC01128	643837	NR_047519.1	NR_047519.1:n.288-53C>T	
+chr1	847924	T	C	PASS	intron_variant&non_coding_transcript_variant	LINC01128	643837	NR_047519.1	NR_047519.1:n.440+118T>C	
+chr1	856883	A	G	PASS	regulatory_region_variant			ENSR00000918353		
+chr1	856883	A	G	PASS	non_coding_transcript_exon_variant	LINC01128	643837	NR_047519.1	NR_047519.1:n.4213A>G	
+chr1	856900	CTT	C	VQSRTrancheINDEL99.95to100.00	regulatory_region_variant			ENSR00000918353		
+chr1	856900	CTT	C	VQSRTrancheINDEL99.95to100.00	non_coding_transcript_exon_variant	LINC01128	643837	NR_047519.1	NR_047519.1:n.4231_4232del	
+chr1	857100	C	T	PASS	non_coding_transcript_exon_variant	LINC01128	643837	NR_047519.1	NR_047519.1:n.4430C>T	
+chr1	873251	G	A	PASS	regulatory_region_variant			ENSR00000344411		
+chr1	873251	G	A	PASS	intron_variant&non_coding_transcript_variant	FAM41C	284593	NR_027055.1	NR_027055.1:n.1101+861C>T	
+chr1	873542	G	A	PASS	intron_variant&non_coding_transcript_variant	FAM41C	284593	NR_027055.1	NR_027055.1:n.1101+570C>T	
+chr1	873548	C	T	VQSRTrancheSNP99.80to99.90	intron_variant&non_coding_transcript_variant	FAM41C	284593	NR_027055.1	NR_027055.1:n.1101+564G>A	
+chr1	873939	C	T	VQSRTrancheSNP99.90to99.95	intron_variant&non_coding_transcript_variant	FAM41C	284593	NR_027055.1	NR_027055.1:n.1101+173G>A	
+chr1	876887	A	G	PASS	regulatory_region_variant			ENSR00000344413		
+chr1	876887	A	G	PASS	upstream_gene_variant	FAM41C	284593	NR_027055.1		
+chr1	876904	C	G	PASS	regulatory_region_variant			ENSR00000344413		
+chr1	876904	C	G	PASS	upstream_gene_variant	FAM41C	284593	NR_027055.1		
+chr1	893591	A	G	PASS	intergenic_variant					
+chr1	893791	AAAAAAAAAAAATATATATATATATATATATATATAT	A	PASS	intergenic_variant					
+chr1	893953	G	A	PASS	intergenic_variant					
+chr1	895427	G	C	PASS	intergenic_variant					
+chr1	905888	A	G	PASS	intergenic_variant					
+chr1	907445	A	G	PASS	intergenic_variant					
+chr1	916333	C	T	PASS	downstream_gene_variant	LOC100130417	100130417	NR_122045.1		
+chr1	916377	A	G	PASS	downstream_gene_variant	LOC100130417	100130417	NR_122045.1		
+chr1	919397	A	G	PASS	regulatory_region_variant			ENSR00000918366		
+chr1	919397	A	G	PASS	non_coding_transcript_exon_variant	LOC100130417	100130417	NR_122045.1	NR_122045.1:n.296T>C	
+chr1	921096	A	G	PASS	regulatory_region_variant			ENSR00000249804		
+chr1	921096	A	G	PASS	regulatory_region_variant			ENSR00000344429		
+chr1	921096	A	G	PASS	TF_binding_site_variant			ENSM00522326553		
+chr1	921096	A	G	PASS	upstream_gene_variant	LOC100130417	100130417	NR_122045.1		
+chr1	921096	A	G	PASS	upstream_gene_variant	SAMD11	148398	NM_152486.3		
+chr1	922063	C	T	PASS	upstream_gene_variant	LOC100130417	100130417	NR_122045.1		
+chr1	922063	C	T	PASS	upstream_gene_variant	SAMD11	148398	NM_152486.3		
+chr1	924310	C	G	PASS	regulatory_region_variant			ENSR00000000105		
+chr1	924310	C	G	PASS	upstream_gene_variant	LOC100130417	100130417	NR_122045.1		
+chr1	924310	C	G	PASS	upstream_gene_variant	SAMD11	148398	NM_152486.3		
+chr1	924321	C	G	PASS	regulatory_region_variant			ENSR00000000105		
+chr1	924321	C	G	PASS	upstream_gene_variant	SAMD11	148398	NM_152486.3		
+chr1	924321	C	G	PASS	upstream_gene_variant	LOC100130417	100130417	NR_122045.1		
+chr1	924533	A	G	PASS	regulatory_region_variant			ENSR00000000105		
+chr1	924533	A	G	PASS	upstream_gene_variant	LOC100130417	100130417	NR_122045.1		
+chr1	924533	A	G	PASS	upstream_gene_variant	SAMD11	148398	NM_152486.3		
+chr1	926250	G	A	PASS	intron_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.72+237G>A	
+chr1	926713	T	C	PASS	regulatory_region_variant			ENSR00000344423		
+chr1	926713	T	C	PASS	intron_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.72+700T>C	
+chr1	926744	A	G	PASS	regulatory_region_variant			ENSR00000344423		
+chr1	926744	A	G	PASS	intron_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.72+731A>G	
+chr1	927003	C	T	PASS	intron_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.72+990C>T	
+chr1	928261	G	A	PASS	intron_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.73-1894G>A	
+chr1	928264	T	C	PASS	intron_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.73-1891T>C	
+chr1	928309	A	G	PASS	intron_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.73-1846A>G	
+chr1	929235	G	A	PASS	regulatory_region_variant			ENSR00000918367		
+chr1	929235	G	A	PASS	intron_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.73-920G>A	
+chr1	929987	G	T	PASS	intron_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.73-168G>T	
+chr1	930314	C	T	PASS	missense_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.232C>T	NP_689699.2:p.His78Tyr
+chr1	930939	G	A	PASS	intron_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.255-100G>A	
+chr1	931131	C	CCCCT	PASS	intron_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.305+54_305+57dup	
+chr1	932204	A	T	PASS	intron_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.305+1115A>T	
+chr1	933411	C	T	PASS	regulatory_region_variant			ENSR00000918368		
+chr1	933411	C	T	PASS	intron_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.305+2322C>T	
+chr1	933460	C	T	PASS	regulatory_region_variant			ENSR00000918368		
+chr1	933460	C	T	PASS	intron_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.306-2312C>T	
+chr1	933943	T	C	PASS	regulatory_region_variant			ENSR00000918368		
+chr1	933943	T	C	PASS	intron_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.306-1829T>C	
+chr1	933989	G	T	PASS	regulatory_region_variant			ENSR00000918368		
+chr1	933989	G	T	PASS	intron_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.306-1783G>T	
+chr1	933993	G	C	PASS	regulatory_region_variant			ENSR00000918368		
+chr1	933993	G	C	PASS	intron_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.306-1779G>C	
+chr1	934021	G	C	PASS	intron_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.306-1751G>C	
+chr1	935523	T	C	PASS	regulatory_region_variant			ENSR00000918369		
+chr1	935523	T	C	PASS	intron_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.306-249T>C	
+chr1	935835	C	G	PASS	regulatory_region_variant			ENSR00000918369		
+chr1	935835	C	G	PASS	synonymous_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.369C>G	NP_689699.2:p.Pro123%3D
+chr1	935954	G	T	PASS	regulatory_region_variant			ENSR00000918369		
+chr1	935954	G	T	PASS	intron_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.430+58G>T	
+chr1	938178	G	T	PASS	regulatory_region_variant			ENSR00000344437		
+chr1	938178	G	T	PASS	intron_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.431-862G>T	
+chr1	939547	A	G	PASS	regulatory_region_variant			ENSR00000344437		
+chr1	939547	A	G	PASS	downstream_gene_variant	NOC2L	26155	NM_015658.4		
+chr1	939547	A	G	PASS	intron_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.706+87A>G	
+chr1	939570	T	TCCCTGGAGGACC	PASS	regulatory_region_variant			ENSR00000344437		
+chr1	939570	T	TCCCTGGAGGACC	PASS	downstream_gene_variant	NOC2L	26155	NM_015658.4		
+chr1	939570	T	TCCCTGGAGGACC	PASS	intron_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.706+114_706+115insGGAGGACCCCCT	
+chr1	941119	A	G	PASS	regulatory_region_variant			ENSR00000000109		
+chr1	941119	A	G	PASS	downstream_gene_variant	NOC2L	26155	NM_015658.4		
+chr1	941119	A	G	PASS	intron_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.707-25A>G	
+chr1	942335	C	G	PASS	regulatory_region_variant			ENSR00000000109		
+chr1	942335	C	G	PASS	intron_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.986-75C>G	
+chr1	942335	C	G	PASS	downstream_gene_variant	NOC2L	26155	NM_015658.4		
+chr1	942402	C	G	PASS	regulatory_region_variant			ENSR00000000109		
+chr1	942402	C	G	PASS	splice_region_variant&intron_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.986-8C>G	
+chr1	942402	C	G	PASS	downstream_gene_variant	NOC2L	26155	NM_015658.4		
+chr1	942451	T	C	PASS	regulatory_region_variant			ENSR00000000109		
+chr1	942451	T	C	PASS	downstream_gene_variant	NOC2L	26155	NM_015658.4		
+chr1	942451	T	C	PASS	synonymous_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.1027T>C	NP_689699.2:p.Arg343%3D
+chr1	943526	CTTTT	C	PASS	regulatory_region_variant			ENSR00000000109		
+chr1	943526	CTTTT	C	PASS	regulatory_region_variant			ENSR00000918374		
+chr1	943526	CTTTT	C	PASS	intron_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.1690-153_1690-150del	
+chr1	943526	CTTTT	C	PASS	downstream_gene_variant	NOC2L	26155	NM_015658.4		
+chr1	943937	C	T	PASS	downstream_gene_variant	NOC2L	26155	NM_015658.4		
+chr1	943937	C	T	PASS	synonymous_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.1830C>T	NP_689699.2:p.Tyr610%3D
+chr1	944296	G	A	PASS	3_prime_UTR_variant	NOC2L	26155	NM_015658.4	NM_015658.4:c.*398C>T	
+chr1	944296	G	A	PASS	3_prime_UTR_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.*143G>A	
+chr1	944307	T	C	PASS	3_prime_UTR_variant	NOC2L	26155	NM_015658.4	NM_015658.4:c.*387A>G	
+chr1	944307	T	C	PASS	3_prime_UTR_variant	SAMD11	148398	NM_152486.3	NM_152486.3:c.*154T>C	
+chr1	944858	A	G	PASS	intron_variant	NOC2L	26155	NM_015658.4	NM_015658.4:c.2144-58T>C	
+chr1	944858	A	G	PASS	downstream_gene_variant	SAMD11	148398	NM_152486.3		
+chr1	945010	C	A	PASS	downstream_gene_variant	SAMD11	148398	NM_152486.3		
+chr1	945010	C	A	PASS	intron_variant	NOC2L	26155	NM_015658.4	NM_015658.4:c.2143+47G>T	
+chr1	948245	A	G	PASS	regulatory_region_variant			ENSR00000918376		
+chr1	948245	A	G	PASS	downstream_gene_variant	SAMD11	148398	NM_152486.3		
+chr1	948245	A	G	PASS	intron_variant	NOC2L	26155	NM_015658.4	NM_015658.4:c.1558-13T>C	
+chr1	948711	C	CACCCTGGTCCCCCTGGTCCCTTTGGCCCTGCACCTGGCTGG	PASS	downstream_gene_variant	SAMD11	148398	NM_152486.3		
+chr1	948711	C	CACCCTGGTCCCCCTGGTCCCTTTGGCCCTGCACCTGGCTGG	PASS	intron_variant	NOC2L	26155	NM_015658.4	NM_015658.4:c.1444-109_1444-108insCCAGCCAGGTGCAGGGCCAAAGGGACCAGGGGGACCAGGGT	
+chr1	950277	G	A	PASS	intron_variant	NOC2L	26155	NM_015658.4	NM_015658.4:c.1443+850C>T	
+chr1	951004	G	A	PASS	intron_variant	NOC2L	26155	NM_015658.4	NM_015658.4:c.1443+123C>T	
+chr1	951437	C	CATTTT	PASS	regulatory_region_variant			ENSR00000344439		
+chr1	951437	C	CATTTT	PASS	regulatory_region_variant			ENSR00000918377		
+chr1	951437	C	CATTTT	PASS	intron_variant	NOC2L	26155	NM_015658.4	NM_015658.4:c.1332-200_1332-199insAAAAT	
+chr1	952180	A	C	PASS	regulatory_region_variant			ENSR00000344439		
+chr1	952180	A	C	PASS	intron_variant	NOC2L	26155	NM_015658.4	NM_015658.4:c.1192-41T>G	
+chr1	952282	C	T	PASS	intron_variant	NOC2L	26155	NM_015658.4	NM_015658.4:c.1191+130G>A	
+chr1	952421	A	G	PASS	synonymous_variant	NOC2L	26155	NM_015658.4	NM_015658.4:c.1182T>C	NP_056473.3:p.Thr394%3D
+chr1	952840	G	A	PASS	intron_variant	NOC2L	26155	NM_015658.4	NM_015658.4:c.1003-240C>T	
+chr1	953259	T	C	PASS	synonymous_variant	NOC2L	26155	NM_015658.4	NM_015658.4:c.918A>G	NP_056473.3:p.Glu306%3D
+chr1	953279	T	C	PASS	missense_variant	NOC2L	26155	NM_015658.4	NM_015658.4:c.898A>G	NP_056473.3:p.Ile300Val
+chr1	953751	A	G	PASS	intron_variant	NOC2L	26155	NM_015658.4	NM_015658.4:c.888+31T>C	
+chr1	953778	G	C	PASS	splice_region_variant&intron_variant	NOC2L	26155	NM_015658.4	NM_015658.4:c.888+4C>G	
+chr1	953779	A	C	PASS	splice_region_variant&intron_variant	NOC2L	26155	NM_015658.4	NM_015658.4:c.888+3T>G	
+chr1	954258	G	C	PASS	intron_variant	NOC2L	26155	NM_015658.4	NM_015658.4:c.699-176C>G	
+chr1	954333	C	A	PASS	intron_variant	NOC2L	26155	NM_015658.4	NM_015658.4:c.699-251G>T	
+chr1	954571	A	G	PASS	intron_variant	NOC2L	26155	NM_015658.4	NM_015658.4:c.699-489T>C	
+chr1	957080	G	C	PASS	intron_variant	NOC2L	26155	NM_015658.4	NM_015658.4:c.354+19C>G	
+chr1	957080	G	C	PASS	upstream_gene_variant	KLHL17	339451	NM_198317.3		
+chr1	957365	G	A	PASS	upstream_gene_variant	KLHL17	339451	NM_198317.3		
+chr1	957365	G	A	PASS	intron_variant	NOC2L	26155	NM_015658.4	NM_015658.4:c.180-92C>T	
+chr1	960684	C	G	PASS	regulatory_region_variant			ENSR00000000111		
+chr1	960684	C	G	PASS	5_prime_UTR_variant	KLHL17	339451	NM_198317.3	NM_198317.3:c.-10C>G	
+chr1	960684	C	G	PASS	upstream_gene_variant	NOC2L	26155	NM_015658.4		
+chr1	961945	G	C	PASS	regulatory_region_variant			ENSR00000000111		
+chr1	961945	G	C	PASS	upstream_gene_variant	NOC2L	26155	NM_015658.4		
+chr1	961945	G	C	PASS	upstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	961945	G	C	PASS	synonymous_variant	KLHL17	339451	NM_198317.3	NM_198317.3:c.609G>C	NP_938073.1:p.Ala203%3D
+chr1	962060	G	A	PASS	intron_variant	KLHL17	339451	NM_198317.3	NM_198317.3:c.711+13G>A	
+chr1	962060	G	A	PASS	upstream_gene_variant	NOC2L	26155	NM_015658.4		
+chr1	962060	G	A	PASS	upstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	962184	T	C	PASS	upstream_gene_variant	NOC2L	26155	NM_015658.4		
+chr1	962184	T	C	PASS	upstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	962184	T	C	PASS	intron_variant	KLHL17	339451	NM_198317.3	NM_198317.3:c.711+137T>C	
+chr1	962350	C	T	PASS	splice_region_variant&intron_variant	KLHL17	339451	NM_198317.3	NM_198317.3:c.712-5C>T	
+chr1	962350	C	T	PASS	upstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	962350	C	T	PASS	upstream_gene_variant	NOC2L	26155	NM_015658.4		
+chr1	962943	T	C	PASS	upstream_gene_variant	NOC2L	26155	NM_015658.4		
+chr1	962943	T	C	PASS	upstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	962943	T	C	PASS	intron_variant	KLHL17	339451	NM_198317.3	NM_198317.3:c.1042+26T>C	
+chr1	963620	C	T	PASS	intron_variant	KLHL17	339451	NM_198317.3	NM_198317.3:c.1355+116C>T	
+chr1	963620	C	T	PASS	upstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	963620	C	T	PASS	upstream_gene_variant	NOC2L	26155	NM_015658.4		
+chr1	964548	G	C	PASS	upstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	964548	G	C	PASS	intron_variant	KLHL17	339451	NM_198317.3	NM_198317.3:c.1700+18G>C	
+chr1	964557	G	T	PASS	upstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	964557	G	T	PASS	intron_variant	KLHL17	339451	NM_198317.3	NM_198317.3:c.1700+27G>T	
+chr1	964558	G	C	PASS	upstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	964558	G	C	PASS	intron_variant	KLHL17	339451	NM_198317.3	NM_198317.3:c.1700+28G>C	
+chr1	964562	G	A	PASS	intron_variant	KLHL17	339451	NM_198317.3	NM_198317.3:c.1700+32G>A	
+chr1	964562	G	A	PASS	upstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	964609	A	C	PASS	upstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	964609	A	C	PASS	intron_variant	KLHL17	339451	NM_198317.3	NM_198317.3:c.1700+79A>C	
+chr1	964621	G	A	PASS	intron_variant	KLHL17	339451	NM_198317.3	NM_198317.3:c.1700+91G>A	
+chr1	964621	G	A	PASS	upstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	964629	C	G	PASS	upstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	964629	C	G	PASS	intron_variant	KLHL17	339451	NM_198317.3	NM_198317.3:c.1700+99C>G	
+chr1	964905	C	T	PASS	upstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	964905	C	T	PASS	intron_variant	KLHL17	339451	NM_198317.3	NM_198317.3:c.1701-58C>T	
+chr1	964906	A	G	PASS	intron_variant	KLHL17	339451	NM_198317.3	NM_198317.3:c.1701-57A>G	
+chr1	964906	A	G	PASS	upstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	964939	G	A	PASS	upstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	964939	G	A	PASS	intron_variant	KLHL17	339451	NM_198317.3	NM_198317.3:c.1701-24G>A	
+chr1	966426	G	C	PASS	regulatory_region_variant			ENSR00000000112		
+chr1	966426	G	C	PASS	upstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	966426	G	C	PASS	downstream_gene_variant	KLHL17	339451	NM_198317.3		
+chr1	966689	T	C	PASS	regulatory_region_variant			ENSR00000000112		
+chr1	966689	T	C	PASS	downstream_gene_variant	KLHL17	339451	NM_198317.3		
+chr1	966689	T	C	PASS	intron_variant	PLEKHN1	84069	NM_001367552.1	NM_001367552.1:c.84-15T>C	
+chr1	966748	C	T	PASS	regulatory_region_variant			ENSR00000000112		
+chr1	966748	C	T	PASS	downstream_gene_variant	KLHL17	339451	NM_198317.3		
+chr1	966748	C	T	PASS	missense_variant	PLEKHN1	84069	NM_001367552.1	NM_001367552.1:c.128C>T	NP_001354481.1:p.Ala43Val
+chr1	970892	A	C	PASS	synonymous_variant	PLEKHN1	84069	NM_001367552.1	NM_001367552.1:c.498A>C	NP_001354481.1:p.Ala166%3D
+chr1	970892	A	C	PASS	downstream_gene_variant	PERM1	84808	NM_001291366.2		
+chr1	972229	T	C	PASS	intron_variant	PLEKHN1	84069	NM_001367552.1	NM_001367552.1:c.902-59T>C	
+chr1	972229	T	C	PASS	downstream_gene_variant	PERM1	84808	NM_001291366.2		
+chr1	972242	G	C	PASS	downstream_gene_variant	PERM1	84808	NM_001291366.2		
+chr1	972242	G	C	PASS	intron_variant	PLEKHN1	84069	NM_001367552.1	NM_001367552.1:c.902-46G>C	
+chr1	972540	C	G	PASS	downstream_gene_variant	PERM1	84808	NM_001291366.2		
+chr1	972540	C	G	PASS	intron_variant	PLEKHN1	84069	NM_001367552.1	NM_001367552.1:c.1038+116C>G	
+chr1	972790	C	G	PASS	intron_variant	PLEKHN1	84069	NM_001367552.1	NM_001367552.1:c.1039-71C>G	
+chr1	972790	C	G	PASS	downstream_gene_variant	PERM1	84808	NM_001291366.2		
+chr1	973034	C	T	PASS	intron_variant	PLEKHN1	84069	NM_001367552.1	NM_001367552.1:c.1188+24C>T	
+chr1	973034	C	T	PASS	downstream_gene_variant	PERM1	84808	NM_001291366.2		
+chr1	973693	C	T	PASS	downstream_gene_variant	PERM1	84808	NM_001291366.2		
+chr1	973693	C	T	PASS	intron_variant	PLEKHN1	84069	NM_001367552.1	NM_001367552.1:c.1470+53C>T	
+chr1	973858	G	C	PASS	downstream_gene_variant	PERM1	84808	NM_001291366.2		
+chr1	973858	G	C	PASS	missense_variant	PLEKHN1	84069	NM_001367552.1	NM_001367552.1:c.1496G>C	NP_001354481.1:p.Arg499Pro
+chr1	973862	A	G	PASS	downstream_gene_variant	PERM1	84808	NM_001291366.2		
+chr1	973862	A	G	PASS	synonymous_variant	PLEKHN1	84069	NM_001367552.1	NM_001367552.1:c.1500A>G	NP_001354481.1:p.Gly500%3D
+chr1	973929	T	C	PASS	downstream_gene_variant	PERM1	84808	NM_001291366.2		
+chr1	973929	T	C	PASS	missense_variant	PLEKHN1	84069	NM_001367552.1	NM_001367552.1:c.1567T>C	NP_001354481.1:p.Ser523Pro
+chr1	973983	A	C	PASS	downstream_gene_variant	PERM1	84808	NM_001291366.2		
+chr1	973983	A	C	PASS	synonymous_variant	PLEKHN1	84069	NM_001367552.1	NM_001367552.1:c.1621A>C	NP_001354481.1:p.Arg541%3D
+chr1	974074	G	A	PASS	intron_variant	PLEKHN1	84069	NM_001367552.1	NM_001367552.1:c.1689+23G>A	
+chr1	974074	G	A	PASS	downstream_gene_variant	PERM1	84808	NM_001291366.2		
+chr1	974175	A	G	PASS	downstream_gene_variant	PERM1	84808	NM_001291366.2		
+chr1	974175	A	G	PASS	intron_variant	PLEKHN1	84069	NM_001367552.1	NM_001367552.1:c.1689+124A>G	
+chr1	974388	A	G	PASS	downstream_gene_variant	PERM1	84808	NM_001291366.2		
+chr1	974388	A	G	PASS	intron_variant	PLEKHN1	84069	NM_001367552.1	NM_001367552.1:c.1738+24A>G	
+chr1	975058	A	G	PASS	downstream_gene_variant	PERM1	84808	NM_001291366.2		
+chr1	975058	A	G	PASS	3_prime_UTR_variant	PLEKHN1	84069	NM_001367552.1	NM_001367552.1:c.*483A>G	
+chr1	975132	G	C	PASS	downstream_gene_variant	PERM1	84808	NM_001291366.2		
+chr1	975132	G	C	PASS	3_prime_UTR_variant	PLEKHN1	84069	NM_001367552.1	NM_001367552.1:c.*557G>C	
+chr1	975147	GAGAGA	G	PASS	3_prime_UTR_variant	PLEKHN1	84069	NM_001367552.1	NM_001367552.1:c.*585_*589del	
+chr1	975147	GAGAGA	G	PASS	downstream_gene_variant	PERM1	84808	NM_001291366.2		
+chr1	976215	A	G	PASS	regulatory_region_variant			ENSR00000344444		
+chr1	976215	A	G	PASS	regulatory_region_variant			ENSR00000344446		
+chr1	976215	A	G	PASS	TF_binding_site_variant			ENSM00498224013		
+chr1	976215	A	G	PASS	TF_binding_site_variant			ENSM00000166227		
+chr1	976215	A	G	PASS	TF_binding_site_variant			ENSM00205865120		
+chr1	976215	A	G	PASS	TF_binding_site_variant			ENSM00205660333		
+chr1	976215	A	G	PASS	missense_variant	PERM1	84808	NM_001291366.2	NM_001291366.2:c.2330T>C	NP_001278295.1:p.Val777Ala
+chr1	976215	A	G	PASS	downstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	976669	T	C	PASS	regulatory_region_variant			ENSR00000344444		
+chr1	976669	T	C	PASS	downstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	976669	T	C	PASS	intron_variant	PERM1	84808	NM_001291366.2	NM_001291366.2:c.2150-45A>G	
+chr1	976723	G	A	VQSRTrancheSNP99.95to100.00	regulatory_region_variant			ENSR00000344444		
+chr1	976723	G	A	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	976723	G	A	VQSRTrancheSNP99.95to100.00	intron_variant	PERM1	84808	NM_001291366.2	NM_001291366.2:c.2150-99C>T	
+chr1	978509	G	A	PASS	regulatory_region_variant			ENSR00000344445		
+chr1	978509	G	A	PASS	downstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	978509	G	A	PASS	intron_variant	PERM1	84808	NM_001291366.2	NM_001291366.2:c.2149+372C>T	
+chr1	978812	G	C	PASS	downstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	978812	G	C	PASS	intron_variant	PERM1	84808	NM_001291366.2	NM_001291366.2:c.2149+69C>G	
+chr1	978953	C	G	PASS	downstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	978953	C	G	PASS	missense_variant	PERM1	84808	NM_001291366.2	NM_001291366.2:c.2077G>C	NP_001278295.1:p.Glu693Gln
+chr1	979472	G	C	PASS	downstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	979472	G	C	PASS	missense_variant	PERM1	84808	NM_001291366.2	NM_001291366.2:c.1558C>G	NP_001278295.1:p.Gln520Glu
+chr1	979496	T	C	PASS	missense_variant	PERM1	84808	NM_001291366.2	NM_001291366.2:c.1534A>G	NP_001278295.1:p.Ser512Gly
+chr1	979496	T	C	PASS	downstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	979560	T	C	PASS	downstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	979560	T	C	PASS	synonymous_variant	PERM1	84808	NM_001291366.2	NM_001291366.2:c.1470A>G	NP_001278295.1:p.Ala490%3D
+chr1	979847	A	G	PASS	downstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	979847	A	G	PASS	synonymous_variant	PERM1	84808	NM_001291366.2	NM_001291366.2:c.1183T>C	NP_001278295.1:p.Leu395%3D
+chr1	979884	G	A	PASS	synonymous_variant	PERM1	84808	NM_001291366.2	NM_001291366.2:c.1146C>T	NP_001278295.1:p.Ser382%3D
+chr1	979884	G	A	PASS	downstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	980214	C	T	PASS	regulatory_region_variant			ENSR00000344448		
+chr1	980214	C	T	PASS	synonymous_variant	PERM1	84808	NM_001291366.2	NM_001291366.2:c.816G>A	NP_001278295.1:p.Pro272%3D
+chr1	980214	C	T	PASS	downstream_gene_variant	PLEKHN1	84069	NM_001367552.1		
+chr1	981169	A	G	PASS	regulatory_region_variant			ENSR00000344447		
+chr1	981169	A	G	PASS	5_prime_UTR_variant	PERM1	84808	NM_001369897.1	NM_001369897.1:c.-140T>C	
+chr1	983193	A	G	PASS	regulatory_region_variant			ENSR00000249805		
+chr1	983193	A	G	PASS	upstream_gene_variant	PERM1	84808	NM_001291366.2		
+chr1	986190	T	C	PASS	upstream_gene_variant	PERM1	84808	NM_001291366.2		
+chr1	990298	CT	C	PASS	intergenic_variant					
+chr1	990304	T	C	PASS	intergenic_variant					
+chr1	990305	T	C	PASS	intergenic_variant					
+chr1	991241	A	C	PASS	intergenic_variant					
+chr1	998719	G	C	PASS	regulatory_region_variant			ENSR00000000118		
+chr1	998719	G	C	PASS	regulatory_region_variant			ENSR00000918386		
+chr1	998719	G	C	PASS	TF_binding_site_variant			ENSM00526296186		
+chr1	998719	G	C	PASS	TF_binding_site_variant			ENSM00522549159		
+chr1	998719	G	C	PASS	TF_binding_site_variant			ENSM00522637705		
+chr1	998719	G	C	PASS	TF_binding_site_variant			ENSM00523981463		
+chr1	998719	G	C	PASS	TF_binding_site_variant			ENSM00524195432		
+chr1	998719	G	C	PASS	downstream_gene_variant	HES4	57801	NM_001142467.2		
+chr1	998726	A	G	PASS	regulatory_region_variant			ENSR00000000118		
+chr1	998726	A	G	PASS	regulatory_region_variant			ENSR00000918386		
+chr1	998726	A	G	PASS	TF_binding_site_variant			ENSM00522549159		
+chr1	998726	A	G	PASS	TF_binding_site_variant			ENSM00522637705		
+chr1	998726	A	G	PASS	TF_binding_site_variant			ENSM00522988073		
+chr1	998726	A	G	PASS	TF_binding_site_variant			ENSM00523981463		
+chr1	998726	A	G	PASS	TF_binding_site_variant			ENSM00200153343		
+chr1	998726	A	G	PASS	TF_binding_site_variant			ENSM00524604758		
+chr1	998726	A	G	PASS	downstream_gene_variant	HES4	57801	NM_001142467.2		
+chr1	998764	C	G	PASS	regulatory_region_variant			ENSR00000000118		
+chr1	998764	C	G	PASS	regulatory_region_variant			ENSR00000918386		
+chr1	998764	C	G	PASS	downstream_gene_variant	HES4	57801	NM_001142467.2		
+chr1	999842	C	A	PASS	regulatory_region_variant			ENSR00000000118		
+chr1	999842	C	A	PASS	missense_variant	HES4	57801	NM_001142467.2	NM_001142467.2:c.132G>T	NP_001135939.1:p.Arg44Ser
+chr1	1000079	A	G	PASS	regulatory_region_variant			ENSR00000000118		
+chr1	1000079	A	G	PASS	5_prime_UTR_variant	HES4	57801	NM_001142467.2	NM_001142467.2:c.-106T>C	
+chr1	1000112	G	T	PASS	regulatory_region_variant			ENSR00000000118		
+chr1	1000112	G	T	PASS	upstream_gene_variant	HES4	57801	NM_001142467.2		
+chr1	1000731	C	T	PASS	regulatory_region_variant			ENSR00000000118		
+chr1	1000731	C	T	PASS	upstream_gene_variant	HES4	57801	NM_001142467.2		
+chr1	1001850	A	G	PASS	regulatory_region_variant			ENSR00000000118		
+chr1	1001850	A	G	PASS	regulatory_region_variant			ENSR00000249808		
+chr1	1001850	A	G	PASS	TF_binding_site_variant			ENSM00525632097		
+chr1	1001850	A	G	PASS	TF_binding_site_variant			ENSM00523657119		
+chr1	1001850	A	G	PASS	upstream_gene_variant	HES4	57801	NM_001142467.2		
+chr1	1007256	G	A	PASS	intergenic_variant					
+chr1	1008088	T	C	PASS	intergenic_variant					
+chr1	1008172	T	A	PASS	intergenic_variant					
+chr1	1008527	C	G	PASS	upstream_gene_variant	ISG15	9636	NM_005101.4		
+chr1	1008827	T	C	PASS	upstream_gene_variant	ISG15	9636	NM_005101.4		
+chr1	1013041	A	AAAC	PASS	regulatory_region_variant			ENSR00000000122		
+chr1	1013041	A	AAAC	PASS	upstream_gene_variant	ISG15	9636	NM_005101.4		
+chr1	1013466	T	TA	PASS	regulatory_region_variant			ENSR00000000122		
+chr1	1013466	T	TA	PASS	upstream_gene_variant	ISG15	9636	NM_005101.4		
+chr1	1013490	C	G	PASS	regulatory_region_variant			ENSR00000000122		
+chr1	1013490	C	G	PASS	upstream_gene_variant	ISG15	9636	NM_005101.4		
+chr1	1013541	T	C	PASS	regulatory_region_variant			ENSR00000000122		
+chr1	1013541	T	C	PASS	5_prime_UTR_variant	ISG15	9636	NM_005101.4	NM_005101.4:c.-33T>C	
+chr1	1013855	G	A	PASS	regulatory_region_variant			ENSR00000000122		
+chr1	1013855	G	A	PASS	intron_variant	ISG15	9636	NM_005101.4	NM_005101.4:c.4-129G>A	
+chr1	1014274	A	G	PASS	regulatory_region_variant			ENSR00000000122		
+chr1	1014274	A	G	PASS	synonymous_variant	ISG15	9636	NM_005101.4	NM_005101.4:c.294A>G	NP_005092.1:p.Val98%3D
+chr1	1014545	C	T	PASS	regulatory_region_variant			ENSR00000000122		
+chr1	1014545	C	T	PASS	downstream_gene_variant	ISG15	9636	NM_005101.4		
+chr1	1018298	T	C	PASS	upstream_gene_variant	AGRN	375790	NM_001305275.2		
+chr1	1018298	T	C	PASS	downstream_gene_variant	ISG15	9636	NM_005101.4		
+chr1	1018572	G	A	PASS	upstream_gene_variant	AGRN	375790	NM_001305275.2		
+chr1	1018572	G	A	PASS	downstream_gene_variant	ISG15	9636	NM_005101.4		
+chr1	1021472	C	T	PASS	regulatory_region_variant			ENSR00000000123		
+chr1	1021472	C	T	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.202-729C>T	
+chr1	1022587	T	TTGTAGTCTGACCTGTGGTCTGAC	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.463+128_463+129insAGTCTGACCTGTGGTCTGACTGT	
+chr1	1025114	C	T	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.463+2652C>T	
+chr1	1026084	G	T	PASS	regulatory_region_variant			ENSR00000344460		
+chr1	1026084	G	T	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.463+3622G>T	
+chr1	1029460	T	C	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.464-5817T>C	
+chr1	1029468	A	T	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.464-5809A>T	
+chr1	1035169	TGG	T	PASS	regulatory_region_variant			ENSR00000344469		
+chr1	1035169	TGG	T	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.464-96_464-95del	
+chr1	1035169	TG	T	PASS	regulatory_region_variant			ENSR00000344469		
+chr1	1035169	TG	T	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.464-95del	
+chr1	1035987	T	C	PASS	regulatory_region_variant			ENSR00000918393		
+chr1	1035987	T	C	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.511+663T>C	
+chr1	1036754	C	T	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.511+1430C>T	
+chr1	1036800	G	A	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.511+1476G>A	
+chr1	1039190	T	G	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.512-1475T>G	
+chr1	1039282	G	T	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.512-1383G>T	
+chr1	1039753	T	A	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.512-912T>A	
+chr1	1040322	A	G	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.512-343A>G	
+chr1	1041134	C	A	PASS	regulatory_region_variant			ENSR00000344470		
+chr1	1041134	C	A	PASS	TF_binding_site_variant			ENSM00524051764		
+chr1	1041134	C	A	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.728-39C>A	
+chr1	1041776	CCGGCCAGTGCCAGGGTCGAGGTGGGCGGCTCCCCCGGGGGAGGGCTG	C	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.1177+109_1178-99del	
+chr1	1041950	T	C	PASS	splice_region_variant&intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.1178-6T>C	
+chr1	1042190	G	A	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.1384+28G>A	
+chr1	1042400	C	T	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.1384+238C>T	
+chr1	1043223	CCT	C	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.1385-15_1385-14del	
+chr1	1045080	G	A	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.2255-81G>A	
+chr1	1045707	A	G	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.2537-26A>G	
+chr1	1046551	A	G	PASS	synonymous_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.3066A>G	NP_001292204.1:p.Ser1022%3D
+chr1	1047064	A	G	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.3388+107A>G	
+chr1	1047082	T	C	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.3388+125T>C	
+chr1	1047133	T	C	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.3388+176T>C	
+chr1	1047561	T	C	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.3517-12T>C	
+chr1	1047614	T	C	PASS	synonymous_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.3558T>C	NP_001292204.1:p.Phe1186%3D
+chr1	1048922	T	C	PASS	synonymous_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.4161T>C	NP_001292204.1:p.Thr1387%3D
+chr1	1049886	C	T	PASS	regulatory_region_variant			ENSR00000918395		
+chr1	1049886	C	T	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.4745-17C>T	
+chr1	1050063	AG	A	PASS	regulatory_region_variant			ENSR00000918395		
+chr1	1050063	AG	A	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.4879+41del	
+chr1	1050067	G	T	PASS	regulatory_region_variant			ENSR00000918395		
+chr1	1050067	G	T	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.4879+30G>T	
+chr1	1050070	G	A	PASS	regulatory_region_variant			ENSR00000918395		
+chr1	1050070	G	A	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.4879+33G>A	
+chr1	1050080	T	C	VQSRTrancheSNP99.80to99.90	regulatory_region_variant			ENSR00000918395		
+chr1	1050080	T	C	VQSRTrancheSNP99.80to99.90	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.4879+43T>C	
+chr1	1051063	C	T	PASS	regulatory_region_variant			ENSR00000344471		
+chr1	1051063	C	T	PASS	TF_binding_site_variant			ENSM00525967839		
+chr1	1051063	C	T	PASS	TF_binding_site_variant			ENSM00271694379		
+chr1	1051063	C	T	PASS	TF_binding_site_variant			ENSM00277134271		
+chr1	1051063	C	T	PASS	TF_binding_site_variant			ENSM00312214260		
+chr1	1051063	C	T	PASS	TF_binding_site_variant			ENSM00524792032		
+chr1	1051063	C	T	PASS	TF_binding_site_variant			ENSM00525076300		
+chr1	1051063	C	T	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.5265+20C>T	
+chr1	1051820	C	T	PASS	splice_region_variant&intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.5663+5C>T	
+chr1	1052290	T	G	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.5687+274T>G	
+chr1	1053552	G	C	PASS	intron_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.5720+59G>C	
+chr1	1054900	C	T	PASS	regulatory_region_variant			ENSR00000344473		
+chr1	1054900	C	T	PASS	upstream_gene_variant	LOC100288175	100288175	NR_148960.1		
+chr1	1054900	C	T	PASS	synonymous_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.6126C>T	NP_001292204.1:p.Asp2042%3D
+chr1	1055000	C	T	PASS	regulatory_region_variant			ENSR00000344473		
+chr1	1055000	C	T	PASS	upstream_gene_variant	LOC100288175	100288175	NR_148960.1		
+chr1	1055000	C	T	PASS	3_prime_UTR_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.*19C>T	
+chr1	1055037	T	C	PASS	upstream_gene_variant	LOC100288175	100288175	NR_148960.1		
+chr1	1055037	T	C	PASS	3_prime_UTR_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.*56T>C	
+chr1	1055137	C	T	PASS	upstream_gene_variant	LOC100288175	100288175	NR_148960.1		
+chr1	1055137	C	T	PASS	3_prime_UTR_variant	AGRN	375790	NM_001305275.2	NM_001305275.2:c.*156C>T	
+chr1	1056947	C	T	PASS	downstream_gene_variant	AGRN	375790	NM_001305275.2		
+chr1	1056947	C	T	PASS	upstream_gene_variant	LOC100288175	100288175	NR_148960.1		
+chr1	1062028	T	C	PASS	regulatory_region_variant			ENSR00000918397		
+chr1	1062028	T	C	PASS	intron_variant&non_coding_transcript_variant	LOC100288175	100288175	NR_148960.1	NR_148960.1:n.228-1051T>C	
+chr1	1062056	CTCCCTCCCTTGTCCCCGTTCCCTCCG	C	PASS	regulatory_region_variant			ENSR00000918397		
+chr1	1062056	CTCCCTCCCTTGTCCCCGTTCCCTCCG	C	PASS	intron_variant&non_coding_transcript_variant	LOC100288175	100288175	NR_148960.1	NR_148960.1:n.228-1016_228-991del	
+chr1	1063884	T	C	PASS	regulatory_region_variant			ENSR00000344475		
+chr1	1063884	T	C	PASS	regulatory_region_variant			ENSR00000344477		
+chr1	1063884	T	C	PASS	TF_binding_site_variant			ENSM00523079275		
+chr1	1063884	T	C	PASS	TF_binding_site_variant			ENSM00000002263		
+chr1	1063884	T	C	PASS	intron_variant&non_coding_transcript_variant	LOC100288175	100288175	NR_148960.1	NR_148960.1:n.350+683T>C	
+chr1	1063967	C	G	PASS	regulatory_region_variant			ENSR00000344475		
+chr1	1063967	C	G	PASS	regulatory_region_variant			ENSR00000344477		
+chr1	1063967	C	G	PASS	TF_binding_site_variant			ENSM00000026845		
+chr1	1063967	C	G	PASS	TF_binding_site_variant			ENSM00521869221		
+chr1	1063967	C	G	PASS	TF_binding_site_variant			ENSM00525137996		
+chr1	1063967	C	G	PASS	intron_variant&non_coding_transcript_variant	LOC100288175	100288175	NR_148960.1	NR_148960.1:n.350+766C>G	
+chr1	1063974	T	A	PASS	regulatory_region_variant			ENSR00000344475		
+chr1	1063974	T	A	PASS	regulatory_region_variant			ENSR00000344477		
+chr1	1063974	T	A	PASS	TF_binding_site_variant			ENSM00383459383		
+chr1	1063974	T	A	PASS	TF_binding_site_variant			ENSM00198873812		
+chr1	1063974	T	A	PASS	TF_binding_site_variant			ENSM00000026845		
+chr1	1063974	T	A	PASS	TF_binding_site_variant			ENSM00197752394		
+chr1	1063974	T	A	PASS	TF_binding_site_variant			ENSM00208144317		
+chr1	1063974	T	A	PASS	TF_binding_site_variant			ENSM00525137996		
+chr1	1063974	T	A	PASS	intron_variant&non_coding_transcript_variant	LOC100288175	100288175	NR_148960.1	NR_148960.1:n.350+773T>A	
+chr1	1067054	C	T	PASS	downstream_gene_variant	LOC100288175	100288175	NR_148960.1		
+chr1	1067054	C	T	PASS	downstream_gene_variant	RNF223	401934	NM_001205252.2		
+chr1	1067552	C	G	PASS	downstream_gene_variant	RNF223	401934	NM_001205252.2		
+chr1	1067552	C	G	PASS	downstream_gene_variant	LOC100288175	100288175	NR_148960.1		
+chr1	1068480	T	C	PASS	downstream_gene_variant	LOC100288175	100288175	NR_148960.1		
+chr1	1068480	T	C	PASS	downstream_gene_variant	RNF223	401934	NM_001205252.2		
+chr1	1071823	A	G	PASS	synonymous_variant	RNF223	401934	NM_001205252.2	NM_001205252.2:c.744T>C	NP_001192181.1:p.Asp248%3D
+chr1	1072052	G	A	PASS	missense_variant	RNF223	401934	NM_001205252.2	NM_001205252.2:c.515C>T	NP_001192181.1:p.Ala172Val
+chr1	1075337	C	T	PASS	upstream_gene_variant	RNF223	401934	NM_001205252.2		
+chr1	1080171	C	T	PASS	downstream_gene_variant	C1orf159	54991	NM_017891.5		
+chr1	1082764	T	C	PASS	3_prime_UTR_variant	C1orf159	54991	NM_017891.5	NM_017891.5:c.*129A>G	
+chr1	1083182	C	T	PASS	intron_variant	C1orf159	54991	NM_017891.5	NM_017891.5:c.503-195G>A	
+chr1	1083324	A	G	PASS	intron_variant	C1orf159	54991	NM_017891.5	NM_017891.5:c.503-337T>C	
+chr1	1083795	C	G	PASS	intron_variant	C1orf159	54991	NM_017891.5	NM_017891.5:c.502+558G>C	
+chr1	1083800	T	C	PASS	intron_variant	C1orf159	54991	NM_017891.5	NM_017891.5:c.502+553A>G	
+chr1	1083872	C	G	PASS	intron_variant	C1orf159	54991	NM_017891.5	NM_017891.5:c.502+481G>C	
+chr1	1085026	T	C	PASS	intron_variant	C1orf159	54991	NM_017891.5	NM_017891.5:c.446-520A>G	
+chr1	1086035	A	G	PASS	intron_variant	C1orf159	54991	NM_017891.5	NM_017891.5:c.311-23T>C	
+chr1	1088064	C	G	PASS	intron_variant	C1orf159	54991	NM_017891.5	NM_017891.5:c.149-467G>C	
+chr1	1089890	C	T	PASS	intron_variant	C1orf159	54991	NM_017891.5	NM_017891.5:c.148+463G>A	
+chr1	1091327	C	A	PASS	regulatory_region_variant			ENSR00000344490		
+chr1	1091327	C	A	PASS	intron_variant	C1orf159	54991	NM_017891.5	NM_017891.5:c.72+145G>T	
+chr1	1091421	T	A	PASS	regulatory_region_variant			ENSR00000344490		
+chr1	1091421	T	A	PASS	intron_variant	C1orf159	54991	NM_017891.5	NM_017891.5:c.72+51A>T	
+chr1	1091930	AAG	A	PASS	regulatory_region_variant			ENSR00000000134		
+chr1	1091930	AAG	A	PASS	intron_variant	C1orf159	54991	NM_017891.5	NM_017891.5:c.-23+59_-23+60del	
+chr1	1104437	A	G	PASS	regulatory_region_variant			ENSR00000344492		
+chr1	1104437	A	G	PASS	intron_variant	C1orf159	54991	NM_017891.5	NM_017891.5:c.-136+11623T>C	
+chr1	1107103	C	T	PASS	intron_variant	C1orf159	54991	NM_017891.5	NM_017891.5:c.-136+8957G>A	
+chr1	1107147	G	C	PASS	intron_variant	C1orf159	54991	NM_017891.5	NM_017891.5:c.-136+8913C>G	
+chr1	1110693	C	A	PASS	intron_variant	C1orf159	54991	NM_017891.5	NM_017891.5:c.-136+5367G>T	
+chr1	1111365	CAAA	C	PASS	intron_variant	C1orf159	54991	NM_017891.5	NM_017891.5:c.-136+4692_-136+4694del	
+chr1	1111481	G	A	PASS	intron_variant	C1orf159	54991	NM_017891.5	NM_017891.5:c.-136+4579C>T	
+chr1	1113575	A	G	PASS	intron_variant	C1orf159	54991	NM_017891.5	NM_017891.5:c.-136+2485T>C	
+chr1	1113609	A	G	PASS	intron_variant	C1orf159	54991	NM_017891.5	NM_017891.5:c.-136+2451T>C	
+chr1	1116915	C	T	PASS	regulatory_region_variant			ENSR00000000136		
+chr1	1116915	C	T	PASS	TF_binding_site_variant			ENSM00196605239		
+chr1	1116915	C	T	PASS	upstream_gene_variant	C1orf159	54991	NM_017891.5		
+chr1	1118005	C	T	PASS	upstream_gene_variant	C1orf159	54991	NM_017891.5		
+chr1	1118072	G	A	PASS	upstream_gene_variant	C1orf159	54991	NM_017891.5		
+chr1	1125772	T	C	PASS	intergenic_variant					
+chr1	1125786	T	C	PASS	intergenic_variant					
+chr1	1125882	A	G	PASS	intergenic_variant					
+chr1	1127258	C	A	PASS	intergenic_variant					
+chr1	1132216	CAG	C	PASS	upstream_gene_variant	LINC01342	254099	NR_038869.1		
+chr1	1133452	CGCCGCCTGCCTGCCCG	C	PASS	upstream_gene_variant	LINC01342	254099	NR_038869.1		
+chr1	1135061	C	T	PASS	upstream_gene_variant	LINC01342	254099	NR_038869.1		
+chr1	1137118	G	C	PASS	regulatory_region_variant			ENSR00000344502		
+chr1	1137118	G	C	PASS	TF_binding_site_variant			ENSM00525743427		
+chr1	1137118	G	C	PASS	splice_region_variant&intron_variant&non_coding_transcript_variant	LINC01342	254099	NR_038869.1	NR_038869.1:n.94+8G>C	
+chr1	1142582	C	T	PASS	intron_variant&non_coding_transcript_variant	LINC01342	254099	NR_038869.1	NR_038869.1:n.303-157C>T	
+chr1	1142758	G	A	PASS	non_coding_transcript_exon_variant	LINC01342	254099	NR_038869.1	NR_038869.1:n.322G>A	
+chr1	1144906	G	A	PASS	downstream_gene_variant	LINC01342	254099	NR_038869.1		
+chr1	1153882	A	G	PASS	regulatory_region_variant			ENSR00000344508		
+chr1	1153882	A	G	PASS	intergenic_variant					
+chr1	1160003	G	A	PASS	intergenic_variant					
+chr1	1160239	C	G	PASS	intergenic_variant					
+chr1	1162464	G	A	PASS	regulatory_region_variant			ENSR00000344515		
+chr1	1162464	G	A	PASS	upstream_gene_variant	MIR200B	406984	NR_029639.1		
+chr1	1162557	A	G	PASS	regulatory_region_variant			ENSR00000344515		
+chr1	1162557	A	G	PASS	upstream_gene_variant	MIR200B	406984	NR_029639.1		
+chr1	1166689	A	G	PASS	upstream_gene_variant	MIR429	554210	NR_029957.1		
+chr1	1166689	A	G	PASS	upstream_gene_variant	MIR200A	406983	NR_029834.1		
+chr1	1166689	A	G	PASS	upstream_gene_variant	MIR200B	406984	NR_029639.1		
+chr1	1168162	T	C	PASS	upstream_gene_variant	MIR429	554210	NR_029957.1		
+chr1	1168162	T	C	PASS	downstream_gene_variant	MIR200A	406983	NR_029834.1		
+chr1	1168162	T	C	PASS	downstream_gene_variant	MIR200B	406984	NR_029639.1		
+chr1	1168310	T	TCA	PASS	upstream_gene_variant	MIR429	554210	NR_029957.1		
+chr1	1168310	T	TCA	PASS	downstream_gene_variant	MIR200A	406983	NR_029834.1		
+chr1	1168310	T	TCA	PASS	downstream_gene_variant	MIR200B	406984	NR_029639.1		
+chr1	1170681	G	A	PASS	downstream_gene_variant	MIR429	554210	NR_029957.1		
+chr1	1170681	G	A	PASS	downstream_gene_variant	MIR200A	406983	NR_029834.1		
+chr1	1170681	G	A	PASS	downstream_gene_variant	MIR200B	406984	NR_029639.1		
+chr1	1170681	G	A	PASS	upstream_gene_variant	TTLL10	254173	NM_001130045.2		
+chr1	1171792	C	T	PASS	downstream_gene_variant	MIR429	554210	NR_029957.1		
+chr1	1171792	C	T	PASS	downstream_gene_variant	MIR200A	406983	NR_029834.1		
+chr1	1171792	C	T	PASS	downstream_gene_variant	MIR200B	406984	NR_029639.1		
+chr1	1171792	C	T	PASS	upstream_gene_variant	TTLL10	254173	NM_001130045.2		
+chr1	1179830	G	A	PASS	5_prime_UTR_variant	TTLL10	254173	NM_153254.3	NM_153254.3:c.-44G>A	
+chr1	1179833	G	T	PASS	5_prime_UTR_variant	TTLL10	254173	NM_153254.3	NM_153254.3:c.-41G>T	
+chr1	1180931	A	G	PASS	intron_variant	TTLL10	254173	NM_001130045.2	NM_001130045.2:c.755+71A>G	
+chr1	1182018	A	G	PASS	intron_variant	TTLL10	254173	NM_001130045.2	NM_001130045.2:c.830+203A>G	
+chr1	1182832	T	C	PASS	intron_variant	TTLL10	254173	NM_001130045.2	NM_001130045.2:c.917-44T>C	
+chr1	1184277	G	C	PASS	regulatory_region_variant			ENSR00000344523		
+chr1	1184277	G	C	PASS	intron_variant	TTLL10	254173	NM_001130045.2	NM_001130045.2:c.1260+186G>C	
+chr1	1184927	G	A	PASS	intron_variant	TTLL10	254173	NM_001130045.2	NM_001130045.2:c.1261-42G>A	
+chr1	1185961	C	T	PASS	intron_variant	TTLL10	254173	NM_001130045.2	NM_001130045.2:c.1401+852C>T	
+chr1	1187535	A	G	PASS	intron_variant	TTLL10	254173	NM_001130045.2	NM_001130045.2:c.1401+2426A>G	
+chr1	1187536	A	G	PASS	intron_variant	TTLL10	254173	NM_001130045.2	NM_001130045.2:c.1401+2427A>G	
+chr1	1187557	G	A	PASS	intron_variant	TTLL10	254173	NM_001130045.2	NM_001130045.2:c.1401+2448G>A	
+chr1	1189730	T	C	PASS	regulatory_region_variant			ENSR00000344527		
+chr1	1189730	T	C	PASS	intron_variant	TTLL10	254173	NM_001130045.2	NM_001130045.2:c.1401+4621T>C	
+chr1	1193141	C	T	PASS	intron_variant	TTLL10	254173	NM_001130045.2	NM_001130045.2:c.1402-3459C>T	
+chr1	1197405	C	T	PASS	intron_variant	TTLL10	254173	NM_001130045.2	NM_001130045.2:c.1613-33C>T	
+chr1	1197558	G	A	PASS	missense_variant	TTLL10	254173	NM_001130045.2	NM_001130045.2:c.1733G>A	NP_001123517.1:p.Gly578Asp
+chr1	1197586	C	A	PASS	synonymous_variant	TTLL10	254173	NM_001130045.2	NM_001130045.2:c.1761C>A	NP_001123517.1:p.Pro587%3D
+chr1	1197697	A	G	PASS	synonymous_variant	TTLL10	254173	NM_001130045.2	NM_001130045.2:c.1872A>G	NP_001123517.1:p.Pro624%3D
+chr1	1197874	G	A	PASS	3_prime_UTR_variant	TTLL10	254173	NM_001130045.2	NM_001130045.2:c.*27G>A	
+chr1	1197893	T	C	PASS	3_prime_UTR_variant	TTLL10	254173	NM_001130045.2	NM_001130045.2:c.*46T>C	
+chr1	1202905	C	G	PASS	downstream_gene_variant	TNFRSF18	8784	NM_148901.2		
+chr1	1202905	C	G	PASS	downstream_gene_variant	TTLL10	254173	NM_001130045.2		
+chr1	1206747	A	AG	PASS	regulatory_region_variant			ENSR00000344533		
+chr1	1206747	A	AG	PASS	TF_binding_site_variant			ENSM00211709097		
+chr1	1206747	A	AG	PASS	downstream_gene_variant	TNFRSF4	7293	NM_003327.4		
+chr1	1206747	A	AG	PASS	upstream_gene_variant	TNFRSF18	8784	NM_148901.2		
+chr1	1209119	GGA	G	PASS	regulatory_region_variant			ENSR00000344533		
+chr1	1209119	GGA	G	PASS	TF_binding_site_variant			ENSM00523740388		
+chr1	1209119	GGA	G	PASS	upstream_gene_variant	TNFRSF18	8784	NM_148901.2		
+chr1	1209119	GGA	G	PASS	downstream_gene_variant	TNFRSF4	7293	NM_003327.4		
+chr1	1210061	A	G	PASS	upstream_gene_variant	TNFRSF18	8784	NM_148901.2		
+chr1	1210061	A	G	PASS	downstream_gene_variant	TNFRSF4	7293	NM_003327.4		
+chr1	1210087	C	G	PASS	downstream_gene_variant	TNFRSF4	7293	NM_003327.4		
+chr1	1210087	C	G	PASS	upstream_gene_variant	TNFRSF18	8784	NM_148901.2		
+chr1	1210101	CAA	C	PASS	downstream_gene_variant	TNFRSF4	7293	NM_003327.4		
+chr1	1210101	CAA	C	PASS	upstream_gene_variant	TNFRSF18	8784	NM_148901.2		
+chr1	1210176	G	T	PASS	upstream_gene_variant	TNFRSF18	8784	NM_148901.2		
+chr1	1210176	G	T	PASS	downstream_gene_variant	TNFRSF4	7293	NM_003327.4		
+chr1	1211863	A	C	PASS	intron_variant	TNFRSF4	7293	NM_003327.4	NM_003327.4:c.635-31T>G	
+chr1	1211917	G	A	PASS	downstream_gene_variant	SDF4	51150	NM_016547.2		
+chr1	1211917	G	A	PASS	intron_variant	TNFRSF4	7293	NM_003327.4	NM_003327.4:c.634+25C>T	
+chr1	1212042	C	T	PASS	regulatory_region_variant			ENSR00000918417		
+chr1	1212042	C	T	PASS	downstream_gene_variant	SDF4	51150	NM_016547.2		
+chr1	1212042	C	T	PASS	synonymous_variant	TNFRSF4	7293	NM_003327.4	NM_003327.4:c.534G>A	NP_003318.1:p.Glu178%3D
+chr1	1212390	G	A	PASS	regulatory_region_variant			ENSR00000918417		
+chr1	1212390	G	A	PASS	downstream_gene_variant	SDF4	51150	NM_016547.2		
+chr1	1212390	G	A	PASS	intron_variant	TNFRSF4	7293	NM_003327.4	NM_003327.4:c.437+248C>T	
+chr1	1216593	G	C	PASS	regulatory_region_variant			ENSR00000344538		
+chr1	1216593	G	C	PASS	upstream_gene_variant	TNFRSF4	7293	NM_003327.4		
+chr1	1216593	G	C	PASS	downstream_gene_variant	SDF4	51150	NM_016547.2		
+chr1	1217733	G	A	PASS	regulatory_region_variant			ENSR00000344538		
+chr1	1217733	G	A	PASS	upstream_gene_variant	TNFRSF4	7293	NM_003327.4		
+chr1	1217733	G	A	PASS	synonymous_variant	SDF4	51150	NM_016547.2	NM_016547.2:c.984C>T	NP_057631.1:p.Leu328%3D
+chr1	1219159	G	A	PASS	intron_variant	SDF4	51150	NM_016547.2	NM_016547.2:c.578-232C>T	
+chr1	1220751	T	C	PASS	intron_variant	SDF4	51150	NM_016547.2	NM_016547.2:c.578-1824A>G	
+chr1	1221355	T	C	PASS	intron_variant	SDF4	51150	NM_016547.2	NM_016547.2:c.577+1889A>G	
+chr1	1222640	A	C	PASS	intron_variant	SDF4	51150	NM_016547.2	NM_016547.2:c.577+604T>G	
+chr1	1223154	G	GAC	PASS	intron_variant	SDF4	51150	NM_016547.2	NM_016547.2:c.577+88_577+89dup	
+chr1	1223182	AAC	A	PASS	intron_variant	SDF4	51150	NM_016547.2	NM_016547.2:c.577+60_577+61del	
+chr1	1223251	A	G	PASS	synonymous_variant	SDF4	51150	NM_016547.2	NM_016547.2:c.570T>C	NP_057631.1:p.Asp190%3D
+chr1	1223568	A	G	PASS	intron_variant	SDF4	51150	NM_016547.2	NM_016547.2:c.464-211T>C	
+chr1	1223682	T	C	PASS	intron_variant	SDF4	51150	NM_016547.2	NM_016547.2:c.463+150A>G	
+chr1	1223727	G	A	PASS	intron_variant	SDF4	51150	NM_016547.2	NM_016547.2:c.463+105C>T	
+chr1	1224105	C	T	PASS	intron_variant	SDF4	51150	NM_016547.2	NM_016547.2:c.327-137G>A	
+chr1	1224137	T	C	PASS	intron_variant	SDF4	51150	NM_016547.2	NM_016547.2:c.327-169A>G	
+chr1	1224281	GTTTTA	G	PASS	intron_variant	SDF4	51150	NM_016547.2	NM_016547.2:c.327-318_327-314del	
+chr1	1224349	T	G	PASS	intron_variant	SDF4	51150	NM_016547.2	NM_016547.2:c.327-381A>C	
+chr1	1226486	C	T	PASS	intron_variant	SDF4	51150	NM_016547.2	NM_016547.2:c.326+1982G>A	
+chr1	1227161	G	C	PASS	intron_variant	SDF4	51150	NM_016547.2	NM_016547.2:c.326+1307C>G	
+chr1	1228424	C	T	PASS	upstream_gene_variant	B3GALT6	126792	NM_080605.4		
+chr1	1228424	C	T	PASS	intron_variant	SDF4	51150	NM_016547.2	NM_016547.2:c.326+44G>A	
+chr1	1228431	G	GGACA	PASS	intron_variant	SDF4	51150	NM_016547.2	NM_016547.2:c.326+33_326+36dup	
+chr1	1228431	G	GGACA	PASS	upstream_gene_variant	B3GALT6	126792	NM_080605.4		
+chr1	1232416	C	T	PASS	regulatory_region_variant			ENSR00000000159		
+chr1	1232416	C	T	PASS	synonymous_variant	B3GALT6	126792	NM_080605.4	NM_080605.4:c.138C>T	NP_542172.2:p.Ser46%3D
+chr1	1232416	C	T	PASS	upstream_gene_variant	SDF4	51150	NM_016547.2		
+chr1	1233043	G	C	PASS	regulatory_region_variant			ENSR00000000159		
+chr1	1233043	G	C	PASS	missense_variant	B3GALT6	126792	NM_080605.4	NM_080605.4:c.765G>C	NP_542172.2:p.Gln255His
+chr1	1233043	G	C	PASS	upstream_gene_variant	SDF4	51150	NM_016547.2		
+chr1	1236037	C	T	PASS	regulatory_region_variant			ENSR00000000160		
+chr1	1236037	C	T	PASS	upstream_gene_variant	SDF4	51150	NM_016547.2		
+chr1	1236037	C	T	PASS	downstream_gene_variant	B3GALT6	126792	NM_080605.4		
+chr1	1237896	C	T	PASS	regulatory_region_variant			ENSR00000000160		
+chr1	1237896	C	T	PASS	regulatory_region_variant			ENSR00000344544		
+chr1	1237896	C	T	PASS	TF_binding_site_variant			ENSM00408302390		
+chr1	1237896	C	T	PASS	TF_binding_site_variant			ENSM00205526272		
+chr1	1237896	C	T	PASS	downstream_gene_variant	C1QTNF12	388581	NM_001014980.3		
+chr1	1237896	C	T	PASS	downstream_gene_variant	B3GALT6	126792	NM_080605.4		
+chr1	1238883	G	A	PASS	regulatory_region_variant			ENSR00000000160		
+chr1	1238883	G	A	PASS	downstream_gene_variant	B3GALT6	126792	NM_080605.4		
+chr1	1238883	G	A	PASS	downstream_gene_variant	C1QTNF12	388581	NM_001014980.3		
+chr1	1238902	T	C	PASS	regulatory_region_variant			ENSR00000000160		
+chr1	1238902	T	C	PASS	downstream_gene_variant	C1QTNF12	388581	NM_001014980.3		
+chr1	1238902	T	C	PASS	downstream_gene_variant	B3GALT6	126792	NM_080605.4		
+chr1	1239925	G	A	PASS	regulatory_region_variant			ENSR00000000160		
+chr1	1239925	G	A	PASS	regulatory_region_variant			ENSR00000344545		
+chr1	1239925	G	A	PASS	downstream_gene_variant	C1QTNF12	388581	NM_001014980.3		
+chr1	1239925	G	A	PASS	downstream_gene_variant	B3GALT6	126792	NM_080605.4		
+chr1	1242250	A	G	PASS	downstream_gene_variant	C1QTNF12	388581	NM_001014980.3		
+chr1	1242538	CT	C	PASS	3_prime_UTR_variant	C1QTNF12	388581	NM_001014980.3	NM_001014980.3:c.*9del	
+chr1	1242865	C	T	PASS	synonymous_variant	C1QTNF12	388581	NM_001014980.3	NM_001014980.3:c.780G>A	NP_001014980.1:p.Thr260%3D
+chr1	1243102	A	G	PASS	missense_variant	C1QTNF12	388581	NM_001014980.3	NM_001014980.3:c.691T>C	NP_001014980.1:p.Cys231Arg
+chr1	1243545	G	A	PASS	missense_variant	C1QTNF12	388581	NM_001014980.3	NM_001014980.3:c.539C>T	NP_001014980.1:p.Ala180Val
+chr1	1243650	G	A	PASS	intron_variant	C1QTNF12	388581	NM_001014980.3	NM_001014980.3:c.532-98C>T	
+chr1	1243929	G	A	PASS	intron_variant	C1QTNF12	388581	NM_001014980.3	NM_001014980.3:c.531+25C>T	
+chr1	1244603	G	A	PASS	regulatory_region_variant			ENSR00000344546		
+chr1	1244603	G	A	PASS	intron_variant	C1QTNF12	388581	NM_001014980.3	NM_001014980.3:c.178-106C>T	
+chr1	1249880	A	G	PASS	regulatory_region_variant			ENSR00000344552		
+chr1	1249880	A	G	PASS	upstream_gene_variant	C1QTNF12	388581	NM_001014980.3		
+chr1	1249880	A	G	PASS	downstream_gene_variant	UBE2J2	118424	NM_194457.2		
+chr1	1251285	G	A	PASS	downstream_gene_variant	UBE2J2	118424	NM_194457.2		
+chr1	1251285	G	A	PASS	upstream_gene_variant	C1QTNF12	388581	NM_001014980.3		
+chr1	1252017	CA	C	PASS	downstream_gene_variant	UBE2J2	118424	NM_194457.2		
+chr1	1256888	GA	G	PASS	intron_variant	UBE2J2	118424	NM_194457.2	NM_194457.2:c.258+103del	
+chr1	1257833	C	T	PASS	regulatory_region_variant			ENSR00000344555		
+chr1	1257833	C	T	PASS	intron_variant	UBE2J2	118424	NM_194457.2	NM_194457.2:c.17-523G>A	
+chr1	1263238	T	A	PASS	intron_variant	UBE2J2	118424	NM_194457.2	NM_194457.2:c.16+108A>T	
+chr1	1274972	A	G	PASS	regulatory_region_variant			ENSR00000000166		
+chr1	1274972	A	G	PASS	upstream_gene_variant	UBE2J2	118424	NM_194457.2		
+chr1	1274980	C	T	PASS	regulatory_region_variant			ENSR00000000166		
+chr1	1274980	C	T	PASS	upstream_gene_variant	UBE2J2	118424	NM_194457.2		
+chr1	1275583	T	C	PASS	regulatory_region_variant			ENSR00000000166		
+chr1	1275583	T	C	PASS	upstream_gene_variant	SCNN1D	6339	NM_001130413.4		
+chr1	1275583	T	C	PASS	upstream_gene_variant	UBE2J2	118424	NM_194457.2		
+chr1	1279694	A	G	PASS	upstream_gene_variant	SCNN1D	6339	NM_001130413.4		
+chr1	1279698	A	G	PASS	upstream_gene_variant	SCNN1D	6339	NM_001130413.4		
+chr1	1279728	TG	T	PASS	upstream_gene_variant	SCNN1D	6339	NM_001130413.4		
+chr1	1280044	T	C	PASS	upstream_gene_variant	SCNN1D	6339	NM_001130413.4		
+chr1	1280815	C	A	PASS	intron_variant	SCNN1D	6339	NM_001130413.4	NM_001130413.4:c.5+149C>A	
+chr1	1281168	TC	T	PASS	intron_variant	SCNN1D	6339	NM_001130413.4	NM_001130413.4:c.6-57del	
+chr1	1281170	TGG	T	PASS	intron_variant	SCNN1D	6339	NM_001130413.4	NM_001130413.4:c.6-54_6-53del	
+chr1	1285574	G	A	PASS	synonymous_variant	SCNN1D	6339	NM_001130413.4	NM_001130413.4:c.468G>A	NP_001123885.2:p.Ser156%3D
+chr1	1285758	G	A	PASS	intron_variant	SCNN1D	6339	NM_001130413.4	NM_001130413.4:c.558+94G>A	
+chr1	1286337	C	T	PASS	intron_variant	SCNN1D	6339	NM_001130413.4	NM_001130413.4:c.911+59C>T	
+chr1	1286887	G	C	PASS	missense_variant	SCNN1D	6339	NM_001130413.4	NM_001130413.4:c.1031G>C	NP_001123885.2:p.Arg344Pro
+chr1	1287315	G	C	PASS	intron_variant	SCNN1D	6339	NM_001130413.4	NM_001130413.4:c.1310+16G>C	
+chr1	1288005	G	C	PASS	downstream_gene_variant	ACAP3	116983	NM_030649.3		
+chr1	1288005	G	C	PASS	missense_variant	SCNN1D	6339	NM_001130413.4	NM_001130413.4:c.1630G>C	NP_001123885.2:p.Glu544Gln
+chr1	1288085	GC	G	PASS	downstream_gene_variant	ACAP3	116983	NM_030649.3		
+chr1	1288085	GC	G	PASS	intron_variant	SCNN1D	6339	NM_001130413.4	NM_001130413.4:c.1662+50del	
+chr1	1290108	T	TCC	VQSRTrancheINDEL99.95to100.00	regulatory_region_variant			ENSR00000249817		
+chr1	1290108	T	TCC	VQSRTrancheINDEL99.95to100.00	regulatory_region_variant			ENSR00000918437		
+chr1	1290108	T	TCC	VQSRTrancheINDEL99.95to100.00	downstream_gene_variant	ACAP3	116983	NM_030649.3		
+chr1	1290108	T	TCC	VQSRTrancheINDEL99.95to100.00	intron_variant	SCNN1D	6339	NM_001130413.4	NM_001130413.4:c.1663-161_1663-160dup	
+chr1	1290142	T	C	VQSRTrancheSNP99.90to99.95	regulatory_region_variant			ENSR00000249817		
+chr1	1290142	T	C	VQSRTrancheSNP99.90to99.95	regulatory_region_variant			ENSR00000918437		
+chr1	1290142	T	C	VQSRTrancheSNP99.90to99.95	intron_variant	SCNN1D	6339	NM_001130413.4	NM_001130413.4:c.1663-129T>C	
+chr1	1290142	T	C	VQSRTrancheSNP99.90to99.95	downstream_gene_variant	ACAP3	116983	NM_030649.3		
+chr1	1290155	TCTGCTCCGTCCCGTGTCC	T	PASS	regulatory_region_variant			ENSR00000249817		
+chr1	1290155	TCTGCTCCGTCCCGTGTCC	T	PASS	regulatory_region_variant			ENSR00000918437		
+chr1	1290155	TCTGCTCCGTCCCGTGTCC	T	PASS	intron_variant	SCNN1D	6339	NM_001130413.4	NM_001130413.4:c.1663-80_1663-63del	
+chr1	1290155	TCTGCTCCGTCCCGTGTCC	T	PASS	downstream_gene_variant	ACAP3	116983	NM_030649.3		
+chr1	1290261	C	A	PASS	regulatory_region_variant			ENSR00000249817		
+chr1	1290261	C	A	PASS	regulatory_region_variant			ENSR00000918437		
+chr1	1290261	C	A	PASS	downstream_gene_variant	ACAP3	116983	NM_030649.3		
+chr1	1290261	C	A	PASS	intron_variant	SCNN1D	6339	NM_001130413.4	NM_001130413.4:c.1663-10C>A	
+chr1	1290579	C	G	PASS	regulatory_region_variant			ENSR00000249817		
+chr1	1290579	C	G	PASS	regulatory_region_variant			ENSR00000918437		
+chr1	1290579	C	G	PASS	downstream_gene_variant	ACAP3	116983	NM_030649.3		
+chr1	1290579	C	G	PASS	intron_variant	SCNN1D	6339	NM_001130413.4	NM_001130413.4:c.1859+24C>G	
+chr1	1290722	G	A	PASS	regulatory_region_variant			ENSR00000249817		
+chr1	1290722	G	A	PASS	regulatory_region_variant			ENSR00000918437		
+chr1	1290722	G	A	PASS	downstream_gene_variant	ACAP3	116983	NM_030649.3		
+chr1	1290722	G	A	PASS	intron_variant	SCNN1D	6339	NM_001130413.4	NM_001130413.4:c.1917+28G>A	
+chr1	1290841	A	G	PASS	regulatory_region_variant			ENSR00000249817		
+chr1	1290841	A	G	PASS	regulatory_region_variant			ENSR00000918437		
+chr1	1290841	A	G	PASS	downstream_gene_variant	ACAP3	116983	NM_030649.3		
+chr1	1290841	A	G	PASS	intron_variant	SCNN1D	6339	NM_001130413.4	NM_001130413.4:c.1918-54A>G	
+chr1	1290912	G	A	PASS	regulatory_region_variant			ENSR00000249817		
+chr1	1290912	G	A	PASS	regulatory_region_variant			ENSR00000918437		
+chr1	1290912	G	A	PASS	synonymous_variant	SCNN1D	6339	NM_001130413.4	NM_001130413.4:c.1935G>A	NP_001123885.2:p.Thr645%3D
+chr1	1290912	G	A	PASS	downstream_gene_variant	ACAP3	116983	NM_030649.3		
+chr1	1290968	C	G	PASS	regulatory_region_variant			ENSR00000249817		
+chr1	1290968	C	G	PASS	regulatory_region_variant			ENSR00000918437		
+chr1	1290968	C	G	PASS	downstream_gene_variant	ACAP3	116983	NM_030649.3		
+chr1	1290968	C	G	PASS	intron_variant	SCNN1D	6339	NM_001130413.4	NM_001130413.4:c.1976+15C>G	
+chr1	1291864	G	A	PASS	regulatory_region_variant			ENSR00000249817		
+chr1	1291864	G	A	PASS	regulatory_region_variant			ENSR00000918437		
+chr1	1291864	G	A	PASS	downstream_gene_variant	MIR6726	102465434	NR_106784.1		
+chr1	1291864	G	A	PASS	downstream_gene_variant	ACAP3	116983	NM_030649.3		
+chr1	1291864	G	A	PASS	3_prime_UTR_variant	SCNN1D	6339	NM_001130413.4	NM_001130413.4:c.*254G>A	
+chr1	1293731	A	ACGACCCTGCCCTGGAGGCCC	PASS	downstream_gene_variant	MIR6726	102465434	NR_106784.1		
+chr1	1293731	A	ACGACCCTGCCCTGGAGGCCC	PASS	downstream_gene_variant	SCNN1D	6339	NM_001130413.4		
+chr1	1293731	A	ACGACCCTGCCCTGGAGGCCC	PASS	intron_variant	ACAP3	116983	NM_030649.3	NM_030649.3:c.2361-24_2361-23insGGGCCTCCAGGGCAGGGTCG	
+chr1	1294300	G	T	PASS	downstream_gene_variant	MIR6726	102465434	NR_106784.1		
+chr1	1294300	G	T	PASS	downstream_gene_variant	SCNN1D	6339	NM_001130413.4		
+chr1	1294300	G	T	PASS	intron_variant	ACAP3	116983	NM_030649.3	NM_030649.3:c.2140-101C>A	
+chr1	1295039	T	C	PASS	downstream_gene_variant	SCNN1D	6339	NM_001130413.4		
+chr1	1295039	T	C	PASS	intron_variant	ACAP3	116983	NM_030649.3	NM_030649.3:c.1814-223A>G	
+chr1	1295039	T	C	PASS	downstream_gene_variant	MIR6726	102465434	NR_106784.1		
+chr1	1295060	C	A	PASS	downstream_gene_variant	MIR6726	102465434	NR_106784.1		
+chr1	1295060	C	A	PASS	downstream_gene_variant	SCNN1D	6339	NM_001130413.4		
+chr1	1295060	C	A	PASS	intron_variant	ACAP3	116983	NM_030649.3	NM_030649.3:c.1814-244G>T	
+chr1	1297413	A	G	VQSRTrancheSNP99.80to99.90	upstream_gene_variant	MIR6726	102465434	NR_106784.1		
+chr1	1297413	A	G	VQSRTrancheSNP99.80to99.90	intron_variant	ACAP3	116983	NM_030649.3	NM_030649.3:c.1128+409T>C	
+chr1	1298200	G	T	PASS	regulatory_region_variant			ENSR00000344570		
+chr1	1298200	G	T	PASS	intron_variant	ACAP3	116983	NM_030649.3	NM_030649.3:c.916-87C>A	
+chr1	1298200	G	T	PASS	upstream_gene_variant	MIR6726	102465434	NR_106784.1		
+chr1	1298292	C	A	PASS	intron_variant	ACAP3	116983	NM_030649.3	NM_030649.3:c.915+78G>T	
+chr1	1298292	C	A	PASS	upstream_gene_variant	MIR6726	102465434	NR_106784.1		
+chr1	1298561	T	C	PASS	upstream_gene_variant	MIR6726	102465434	NR_106784.1		
+chr1	1298561	T	C	PASS	splice_region_variant&intron_variant	ACAP3	116983	NM_030649.3	NM_030649.3:c.863+6A>G	
+chr1	1300330	T	A	PASS	regulatory_region_variant			ENSR00000249818		
+chr1	1300330	T	A	PASS	intron_variant	ACAP3	116983	NM_030649.3	NM_030649.3:c.523-128A>T	
+chr1	1300330	T	A	PASS	downstream_gene_variant	SNORD167	109623456	NR_145806.1		
+chr1	1300330	T	A	PASS	upstream_gene_variant	MIR6726	102465434	NR_106784.1		
+chr1	1302158	G	A	PASS	regulatory_region_variant			ENSR00000249818		
+chr1	1302158	G	A	PASS	regulatory_region_variant			ENSR00000918441		
+chr1	1302158	G	A	PASS	intron_variant	ACAP3	116983	NM_030649.3	NM_030649.3:c.280-112C>T	
+chr1	1302158	G	A	PASS	downstream_gene_variant	SNORD167	109623456	NR_145806.1		
+chr1	1303112	G	A	PASS	regulatory_region_variant			ENSR00000344573		
+chr1	1303112	G	A	PASS	downstream_gene_variant	SNORD167	109623456	NR_145806.1		
+chr1	1303112	G	A	PASS	intron_variant	ACAP3	116983	NM_030649.3	NM_030649.3:c.225+50C>T	
+chr1	1303959	T	G	PASS	intron_variant	ACAP3	116983	NM_030649.3	NM_030649.3:c.105+127A>C	
+chr1	1303959	T	G	PASS	downstream_gene_variant	SNORD167	109623456	NR_145806.1		
+chr1	1303959	T	G	PASS	upstream_gene_variant	PUSL1	126789	NM_001346116.1		
+chr1	1304555	A	C	PASS	regulatory_region_variant			ENSR00000000174		
+chr1	1304555	A	C	PASS	upstream_gene_variant	PUSL1	126789	NM_001346116.1		
+chr1	1304555	A	C	PASS	downstream_gene_variant	SNORD167	109623456	NR_145806.1		
+chr1	1304555	A	C	PASS	intron_variant	ACAP3	116983	NM_030649.3	NM_030649.3:c.48-412T>G	
+chr1	1304573	A	G	PASS	regulatory_region_variant			ENSR00000000174		
+chr1	1304573	A	G	PASS	downstream_gene_variant	SNORD167	109623456	NR_145806.1		
+chr1	1304573	A	G	PASS	intron_variant	ACAP3	116983	NM_030649.3	NM_030649.3:c.48-430T>C	
+chr1	1304573	A	G	PASS	upstream_gene_variant	PUSL1	126789	NM_001346116.1		
+chr1	1305643	A	G	PASS	regulatory_region_variant			ENSR00000000174		
+chr1	1305643	A	G	PASS	upstream_gene_variant	SNORD167	109623456	NR_145806.1		
+chr1	1305643	A	G	PASS	intron_variant	ACAP3	116983	NM_030649.3	NM_030649.3:c.48-1500T>C	
+chr1	1305643	A	G	PASS	upstream_gene_variant	PUSL1	126789	NM_001346116.1		
+chr1	1307088	G	A	PASS	regulatory_region_variant			ENSR00000000174		
+chr1	1307088	G	A	PASS	upstream_gene_variant	PUSL1	126789	NM_001346116.1		
+chr1	1307088	G	A	PASS	upstream_gene_variant	SNORD167	109623456	NR_145806.1		
+chr1	1307088	G	A	PASS	intron_variant	ACAP3	116983	NM_030649.3	NM_030649.3:c.47+681C>T	
+chr1	1307088	G	A	PASS	downstream_gene_variant	INTS11	54973	NM_001256460.1		
+chr1	1307276	G	A	PASS	regulatory_region_variant			ENSR00000000174		
+chr1	1307276	G	A	PASS	upstream_gene_variant	PUSL1	126789	NM_001346116.1		
+chr1	1307276	G	A	PASS	intron_variant	ACAP3	116983	NM_030649.3	NM_030649.3:c.47+493C>T	
+chr1	1307276	G	A	PASS	upstream_gene_variant	SNORD167	109623456	NR_145806.1		
+chr1	1307276	G	A	PASS	downstream_gene_variant	INTS11	54973	NM_001256460.1		
+chr1	1307327	A	G	PASS	regulatory_region_variant			ENSR00000000174		
+chr1	1307327	A	G	PASS	upstream_gene_variant	PUSL1	126789	NM_001346116.1		
+chr1	1307327	A	G	PASS	intron_variant	ACAP3	116983	NM_030649.3	NM_030649.3:c.47+442T>C	
+chr1	1307327	A	G	PASS	upstream_gene_variant	SNORD167	109623456	NR_145806.1		
+chr1	1307327	A	G	PASS	downstream_gene_variant	INTS11	54973	NM_001256460.1		
+chr1	1307603	G	A	PASS	regulatory_region_variant			ENSR00000000174		
+chr1	1307603	G	A	PASS	upstream_gene_variant	PUSL1	126789	NM_001346116.1		
+chr1	1307603	G	A	PASS	intron_variant	ACAP3	116983	NM_030649.3	NM_030649.3:c.47+166C>T	
+chr1	1307603	G	A	PASS	upstream_gene_variant	SNORD167	109623456	NR_145806.1		
+chr1	1307603	G	A	PASS	downstream_gene_variant	INTS11	54973	NM_001256460.1		
+chr1	1307603	G	A	PASS	downstream_gene_variant	MIR6727	102465435	NR_106785.1		
+chr1	1310624	A	G	PASS	intron_variant	PUSL1	126789	NM_001346116.1	NM_001346116.1:c.645-10A>G	
+chr1	1310624	A	G	PASS	upstream_gene_variant	ACAP3	116983	NM_030649.3		
+chr1	1310624	A	G	PASS	downstream_gene_variant	INTS11	54973	NM_001256460.1		
+chr1	1310624	A	G	PASS	downstream_gene_variant	MIR6727	102465435	NR_106785.1		
+chr1	1312198	T	TG	PASS	upstream_gene_variant	ACAP3	116983	NM_030649.3		
+chr1	1312198	T	TG	PASS	downstream_gene_variant	PUSL1	126789	NM_001346116.1		
+chr1	1312198	T	TG	PASS	downstream_gene_variant	MIR6727	102465435	NR_106785.1		
+chr1	1312198	T	TG	PASS	intron_variant	INTS11	54973	NM_001256460.1	NM_001256460.1:c.1520+27dup	
+chr1	1318756	G	A	PASS	regulatory_region_variant			ENSR00000344578		
+chr1	1318756	G	A	PASS	intron_variant	INTS11	54973	NM_001256460.1	NM_001256460.1:c.342+540C>T	
+chr1	1319056	A	G	PASS	regulatory_region_variant			ENSR00000344578		
+chr1	1319056	A	G	PASS	intron_variant	INTS11	54973	NM_001256460.1	NM_001256460.1:c.342+240T>C	
+chr1	1319063	G	A	PASS	regulatory_region_variant			ENSR00000344578		
+chr1	1319063	G	A	PASS	intron_variant	INTS11	54973	NM_001256460.1	NM_001256460.1:c.342+233C>T	
+chr1	1319461	C	G	PASS	regulatory_region_variant			ENSR00000344578		
+chr1	1319461	C	G	PASS	synonymous_variant	INTS11	54973	NM_001256460.1	NM_001256460.1:c.177G>C	NP_001243389.1:p.Gly59%3D
+chr1	1320023	TG	T	PASS	regulatory_region_variant			ENSR00000344578		
+chr1	1320023	TG	T	PASS	intron_variant	INTS11	54973	NM_001256460.1	NM_001256460.1:c.113+432del	
+chr1	1320023	TG	T	PASS	upstream_gene_variant	CPTP	80772	NM_001029885.2		
+chr1	1322213	A	G	PASS	intron_variant	INTS11	54973	NM_001256460.1	NM_001256460.1:c.-60+968T>C	
+chr1	1322213	A	G	PASS	upstream_gene_variant	CPTP	80772	NM_001029885.2		
+chr1	1324788	C	A	PASS	regulatory_region_variant			ENSR00000000178		
+chr1	1324788	C	A	PASS	upstream_gene_variant	INTS11	54973	NM_001256460.1		
+chr1	1324788	C	A	PASS	upstream_gene_variant	CPTP	80772	NM_001029885.2		
+chr1	1326444	G	C	PASS	regulatory_region_variant			ENSR00000000178		
+chr1	1326444	G	C	PASS	upstream_gene_variant	INTS11	54973	NM_001256460.1		
+chr1	1326444	G	C	PASS	intron_variant	CPTP	80772	NM_001029885.2	NM_001029885.2:c.-75-392G>C	
+chr1	1326444	G	C	PASS	upstream_gene_variant	TAS1R3	83756	NM_152228.3		
+chr1	1327211	C	T	PASS	upstream_gene_variant	INTS11	54973	NM_001256460.1		
+chr1	1327211	C	T	PASS	intron_variant	CPTP	80772	NM_001029885.2	NM_001029885.2:c.123-30C>T	
+chr1	1327211	C	T	PASS	upstream_gene_variant	TAS1R3	83756	NM_152228.3		
+chr1	1327586	C	T	PASS	upstream_gene_variant	TAS1R3	83756	NM_152228.3		
+chr1	1327586	C	T	PASS	synonymous_variant	CPTP	80772	NM_001029885.2	NM_001029885.2:c.468C>T	NP_001025056.1:p.Arg156%3D
+chr1	1327586	C	T	PASS	upstream_gene_variant	INTS11	54973	NM_001256460.1		
+chr1	1327764	G	A	PASS	upstream_gene_variant	INTS11	54973	NM_001256460.1		
+chr1	1327764	G	A	PASS	3_prime_UTR_variant	CPTP	80772	NM_001029885.2	NM_001029885.2:c.*1G>A	
+chr1	1327764	G	A	PASS	upstream_gene_variant	TAS1R3	83756	NM_152228.3		
+chr1	1331096	A	G	PASS	regulatory_region_variant			ENSR00000918445		
+chr1	1331096	A	G	PASS	upstream_gene_variant	TAS1R3	83756	NM_152228.3		
+chr1	1331096	A	G	PASS	downstream_gene_variant	CPTP	80772	NM_001029885.2		
+chr1	1331096	A	G	PASS	downstream_gene_variant	DVL1	1855	NM_004421.3		
+chr1	1333467	T	G	PASS	regulatory_region_variant			ENSR00000918445		
+chr1	1333467	T	G	PASS	intron_variant	TAS1R3	83756	NM_152228.3	NM_152228.3:c.1601-39T>G	
+chr1	1333467	T	G	PASS	downstream_gene_variant	CPTP	80772	NM_001029885.2		
+chr1	1333467	T	G	PASS	downstream_gene_variant	DVL1	1855	NM_004421.3		
+chr1	1334174	T	C	PASS	regulatory_region_variant			ENSR00000344586		
+chr1	1334174	T	C	PASS	downstream_gene_variant	DVL1	1855	NM_004421.3		
+chr1	1334174	T	C	PASS	missense_variant	TAS1R3	83756	NM_152228.3	NM_152228.3:c.2269T>C	NP_689414.2:p.Cys757Arg
+chr1	1334949	A	G	PASS	regulatory_region_variant			ENSR00000918446		
+chr1	1334949	A	G	PASS	TF_binding_site_variant			ENSM00494600460		
+chr1	1334949	A	G	PASS	TF_binding_site_variant			ENSM00494113432		
+chr1	1334949	A	G	PASS	3_prime_UTR_variant	TAS1R3	83756	NM_152228.3	NM_152228.3:c.*485A>G	
+chr1	1334949	A	G	PASS	downstream_gene_variant	MIR6808	102466740	NR_106866.1		
+chr1	1334949	A	G	PASS	downstream_gene_variant	DVL1	1855	NM_004421.3		
+chr1	1334979	T	C	PASS	regulatory_region_variant			ENSR00000918446		
+chr1	1334979	T	C	PASS	3_prime_UTR_variant	TAS1R3	83756	NM_152228.3	NM_152228.3:c.*515T>C	
+chr1	1334979	T	C	PASS	downstream_gene_variant	MIR6808	102466740	NR_106866.1		
+chr1	1334979	T	C	PASS	downstream_gene_variant	DVL1	1855	NM_004421.3		
+chr1	1337117	A	G	PASS	intron_variant	DVL1	1855	NM_004421.3	NM_004421.3:c.1640-602T>C	
+chr1	1337117	A	G	PASS	downstream_gene_variant	TAS1R3	83756	NM_152228.3		
+chr1	1337117	A	G	PASS	downstream_gene_variant	MIR6808	102466740	NR_106866.1		
+chr1	1337736	A	G	PASS	regulatory_region_variant			ENSR00000918447		
+chr1	1337736	A	G	PASS	intron_variant	DVL1	1855	NM_004421.3	NM_004421.3:c.1639+241T>C	
+chr1	1337736	A	G	PASS	downstream_gene_variant	TAS1R3	83756	NM_152228.3		
+chr1	1337736	A	G	PASS	downstream_gene_variant	MIR6808	102466740	NR_106866.1		
+chr1	1338862	A	G	PASS	downstream_gene_variant	MIR6808	102466740	NR_106866.1		
+chr1	1338862	A	G	PASS	downstream_gene_variant	TAS1R3	83756	NM_152228.3		
+chr1	1338862	A	G	PASS	intron_variant	DVL1	1855	NM_004421.3	NM_004421.3:c.1133-209T>C	
+chr1	1338970	A	G	PASS	downstream_gene_variant	TAS1R3	83756	NM_152228.3		
+chr1	1338970	A	G	PASS	downstream_gene_variant	MIR6808	102466740	NR_106866.1		
+chr1	1338970	A	G	PASS	intron_variant	DVL1	1855	NM_004421.3	NM_004421.3:c.1133-317T>C	
+chr1	1339884	A	ACAGCCGCATGTCCCCCAGCAGCCCCCACAGACCCACCCG	PASS	intron_variant	DVL1	1855	NM_004421.3	NM_004421.3:c.910-73_910-72insCGGGTGGGTCTGTGGGGGCTGCTGGGGGACATGCGGCTG	
+chr1	1339884	A	ACAGCCGCATGTCCCCCAGCAGCCCCCACAGACCCACCCG	PASS	downstream_gene_variant	TAS1R3	83756	NM_152228.3		
+chr1	1339884	A	ACAGCCGCATGTCCCCCAGCAGCCCCCACAGACCCACCCG	PASS	upstream_gene_variant	MIR6808	102466740	NR_106866.1		
+chr1	1340328	A	AG	PASS	intron_variant	DVL1	1855	NM_004421.3	NM_004421.3:c.700-13dup	
+chr1	1340328	A	AG	PASS	upstream_gene_variant	MIR6808	102466740	NR_106866.1		
+chr1	1340867	G	A	PASS	upstream_gene_variant	MIR6808	102466740	NR_106866.1		
+chr1	1340867	G	A	PASS	intron_variant	DVL1	1855	NM_004421.3	NM_004421.3:c.606-364C>T	
+chr1	1341030	C	A	PASS	upstream_gene_variant	MIR6808	102466740	NR_106866.1		
+chr1	1341030	C	A	PASS	intron_variant	DVL1	1855	NM_004421.3	NM_004421.3:c.606-527G>T	
+chr1	1341079	C	A	PASS	intron_variant	DVL1	1855	NM_004421.3	NM_004421.3:c.606-576G>T	
+chr1	1341079	C	A	PASS	upstream_gene_variant	MIR6808	102466740	NR_106866.1		
+chr1	1341098	T	G	PASS	intron_variant	DVL1	1855	NM_004421.3	NM_004421.3:c.605+569A>C	
+chr1	1341098	T	G	PASS	upstream_gene_variant	MIR6808	102466740	NR_106866.1		
+chr1	1341432	G	A	PASS	upstream_gene_variant	MIR6808	102466740	NR_106866.1		
+chr1	1341432	G	A	PASS	intron_variant	DVL1	1855	NM_004421.3	NM_004421.3:c.605+235C>T	
+chr1	1341550	GCA	G	PASS	upstream_gene_variant	MIR6808	102466740	NR_106866.1		
+chr1	1341550	GCA	G	PASS	intron_variant	DVL1	1855	NM_004421.3	NM_004421.3:c.605+115_605+116del	
+chr1	1341593	G	GACAC	PASS	upstream_gene_variant	MIR6808	102466740	NR_106866.1		
+chr1	1341593	G	GACAC	PASS	intron_variant	DVL1	1855	NM_004421.3	NM_004421.3:c.605+70_605+73dup	
+chr1	1342153	T	C	PASS	upstream_gene_variant	MIR6808	102466740	NR_106866.1		
+chr1	1342153	T	C	PASS	synonymous_variant	DVL1	1855	NM_004421.3	NM_004421.3:c.366A>G	NP_004412.2:p.Pro122%3D
+chr1	1342857	T	C	PASS	upstream_gene_variant	MIR6808	102466740	NR_106866.1		
+chr1	1342857	T	C	PASS	intron_variant	DVL1	1855	NM_004421.3	NM_004421.3:c.171-99A>G	
+chr1	1345139	T	C	PASS	regulatory_region_variant			ENSR00000344592		
+chr1	1345139	T	C	PASS	regulatory_region_variant			ENSR00000344593		
+chr1	1345139	T	C	PASS	TF_binding_site_variant			ENSM00205804517		
+chr1	1345139	T	C	PASS	intron_variant	DVL1	1855	NM_004421.3	NM_004421.3:c.171-2381A>G	
+chr1	1345965	C	T	PASS	intron_variant	DVL1	1855	NM_004421.3	NM_004421.3:c.170+2931G>A	
+chr1	1347140	C	A	PASS	regulatory_region_variant			ENSR00000000182		
+chr1	1347140	C	A	PASS	intron_variant	DVL1	1855	NM_004421.3	NM_004421.3:c.170+1756G>T	
+chr1	1349110	G	A	PASS	regulatory_region_variant			ENSR00000000182		
+chr1	1349110	G	A	PASS	downstream_gene_variant	MXRA8	54587	NM_001282582.1		
+chr1	1349110	G	A	PASS	5_prime_UTR_variant	DVL1	1855	NM_004421.3	NM_004421.3:c.-45C>T	
+chr1	1352542	G	A	PASS	regulatory_region_variant			ENSR00000344596		
+chr1	1352542	G	A	PASS	downstream_gene_variant	MXRA8	54587	NM_001282582.1		
+chr1	1352542	G	A	PASS	upstream_gene_variant	DVL1	1855	NM_004421.3		
+chr1	1352965	A	G	PASS	upstream_gene_variant	DVL1	1855	NM_004421.3		
+chr1	1352965	A	G	PASS	3_prime_UTR_variant	MXRA8	54587	NM_001282582.1	NM_001282582.1:c.*639T>C	
+chr1	1353091	C	T	PASS	3_prime_UTR_variant	MXRA8	54587	NM_001282582.1	NM_001282582.1:c.*513G>A	
+chr1	1353091	C	T	PASS	upstream_gene_variant	DVL1	1855	NM_004421.3		
+chr1	1353203	C	G	PASS	3_prime_UTR_variant	MXRA8	54587	NM_001282582.1	NM_001282582.1:c.*401G>C	
+chr1	1353203	C	G	PASS	upstream_gene_variant	DVL1	1855	NM_004421.3		
+chr1	1353443	A	G	PASS	3_prime_UTR_variant	MXRA8	54587	NM_001282582.1	NM_001282582.1:c.*161T>C	
+chr1	1353443	A	G	PASS	upstream_gene_variant	DVL1	1855	NM_004421.3		
+chr1	1353987	CTG	C	PASS	regulatory_region_variant			ENSR00000344595		
+chr1	1353987	CTG	C	PASS	regulatory_region_variant			ENSR00000344601		
+chr1	1353987	CTG	C	PASS	intron_variant	MXRA8	54587	NM_001282582.1	NM_001282582.1:c.1222+41_1222+42del	
+chr1	1353987	CTG	C	PASS	upstream_gene_variant	DVL1	1855	NM_004421.3		
+chr1	1354531	G	A	PASS	regulatory_region_variant			ENSR00000344595		
+chr1	1354531	G	A	PASS	intron_variant	MXRA8	54587	NM_001282582.1	NM_001282582.1:c.950-22C>T	
+chr1	1355779	GA	G	PASS	regulatory_region_variant			ENSR00000344595		
+chr1	1355779	GA	G	PASS	intron_variant	MXRA8	54587	NM_001282582.1	NM_001282582.1:c.74-28del	
+chr1	1356747	A	C	PASS	regulatory_region_variant			ENSR00000344595		
+chr1	1356747	A	C	PASS	intron_variant	MXRA8	54587	NM_001282582.1	NM_001282582.1:c.50-43T>G	
+chr1	1356751	A	C	PASS	regulatory_region_variant			ENSR00000344595		
+chr1	1356751	A	C	PASS	intron_variant	MXRA8	54587	NM_001282582.1	NM_001282582.1:c.50-47T>G	
+chr1	1356752	G	C	VQSRTrancheSNP99.95to100.00	regulatory_region_variant			ENSR00000344595		
+chr1	1356752	G	C	VQSRTrancheSNP99.95to100.00	intron_variant	MXRA8	54587	NM_001282582.1	NM_001282582.1:c.50-48C>G	
+chr1	1356757	G	C	VQSRTrancheSNP99.90to99.95	regulatory_region_variant			ENSR00000344595		
+chr1	1356757	G	C	VQSRTrancheSNP99.90to99.95	intron_variant	MXRA8	54587	NM_001282582.1	NM_001282582.1:c.50-53C>G	
+chr1	1357369	C	T	PASS	regulatory_region_variant			ENSR00000344595		
+chr1	1357369	C	T	PASS	intron_variant	MXRA8	54587	NM_001282582.1	NM_001282582.1:c.50-665G>A	
+chr1	1358907	C	A	PASS	regulatory_region_variant			ENSR00000344595		
+chr1	1358907	C	A	PASS	TF_binding_site_variant			ENSM00517335062		
+chr1	1358907	C	A	PASS	TF_binding_site_variant			ENSM00493618455		
+chr1	1358907	C	A	PASS	intron_variant	MXRA8	54587	NM_001282582.1	NM_001282582.1:c.-43-360G>T	
+chr1	1359138	C	T	PASS	regulatory_region_variant			ENSR00000344595		
+chr1	1359138	C	T	PASS	intron_variant	MXRA8	54587	NM_001282582.1	NM_001282582.1:c.-43-591G>A	
+chr1	1360773	T	G	PASS	regulatory_region_variant			ENSR00000344595		
+chr1	1360773	T	G	PASS	TF_binding_site_variant			ENSM00211481460		
+chr1	1360773	T	G	PASS	TF_binding_site_variant			ENSM00211426893		
+chr1	1360773	T	G	PASS	TF_binding_site_variant			ENSM00209210701		
+chr1	1360773	T	G	PASS	TF_binding_site_variant			ENSM00208966904		
+chr1	1360773	T	G	PASS	TF_binding_site_variant			ENSM00209406285		
+chr1	1360773	T	G	PASS	intron_variant	MXRA8	54587	NM_001282582.1	NM_001282582.1:c.-43-2226A>C	
+chr1	1360989	GAC	G	PASS	regulatory_region_variant			ENSR00000344595		
+chr1	1360989	GAC	G	PASS	regulatory_region_variant			ENSR00000344603		
+chr1	1360989	GAC	G	PASS	intron_variant	MXRA8	54587	NM_001282582.1	NM_001282582.1:c.-43-2444_-43-2443del	
+chr1	1361049	GAC	G	PASS	regulatory_region_variant			ENSR00000344595		
+chr1	1361049	GAC	G	PASS	intron_variant	MXRA8	54587	NM_001282582.1	NM_001282582.1:c.-44+2466_-44+2467del	
+chr1	1361311	C	G	PASS	regulatory_region_variant			ENSR00000344595		
+chr1	1361311	C	G	PASS	5_prime_UTR_variant	MXRA8	54587	NM_001282583.2	NM_001282583.2:c.-48G>C	
+chr1	1361438	C	G	PASS	regulatory_region_variant			ENSR00000344595		
+chr1	1361438	C	G	PASS	5_prime_UTR_variant	MXRA8	54587	NM_001282583.2	NM_001282583.2:c.-175G>C	
+chr1	1362470	A	T	PASS	regulatory_region_variant			ENSR00000344595		
+chr1	1362470	A	T	PASS	intron_variant	MXRA8	54587	NM_001282582.1	NM_001282582.1:c.-44+1047T>A	
+chr1	1363880	A	G	PASS	upstream_gene_variant	MXRA8	54587	NM_001282582.1		
+chr1	1364253	C	G	PASS	regulatory_region_variant			ENSR00000344605		
+chr1	1364253	C	G	PASS	regulatory_region_variant			ENSR00000344606		
+chr1	1364253	C	G	PASS	TF_binding_site_variant			ENSM00478564957		
+chr1	1364253	C	G	PASS	upstream_gene_variant	MXRA8	54587	NM_001282582.1		
+chr1	1364282	T	G	PASS	regulatory_region_variant			ENSR00000344605		
+chr1	1364282	T	G	PASS	regulatory_region_variant			ENSR00000344606		
+chr1	1364282	T	G	PASS	TF_binding_site_variant			ENSM00498186429		
+chr1	1364282	T	G	PASS	upstream_gene_variant	MXRA8	54587	NM_001282582.1		
+chr1	1367874	A	T	PASS	upstream_gene_variant	MXRA8	54587	NM_001282582.1		
+chr1	1367951	C	T	PASS	upstream_gene_variant	MXRA8	54587	NM_001282582.1		
+chr1	1367965	A	G	PASS	upstream_gene_variant	MXRA8	54587	NM_001282582.1		
+chr1	1367970	T	G	PASS	upstream_gene_variant	MXRA8	54587	NM_001282582.1		
+chr1	1367994	C	A	PASS	upstream_gene_variant	MXRA8	54587	NM_001282582.1		
+chr1	1368514	C	G	PASS	upstream_gene_variant	MXRA8	54587	NM_001282582.1		
+chr1	1369407	G	A	PASS	downstream_gene_variant	AURKAIP1	54998	NM_001127229.2		
+chr1	1369556	C	G	PASS	downstream_gene_variant	AURKAIP1	54998	NM_001127229.2		
+chr1	1369627	T	C	PASS	downstream_gene_variant	AURKAIP1	54998	NM_001127229.2		
+chr1	1369686	T	C	PASS	downstream_gene_variant	AURKAIP1	54998	NM_001127229.2		
+chr1	1369716	G	C	PASS	downstream_gene_variant	AURKAIP1	54998	NM_001127229.2		
+chr1	1369741	C	T	PASS	downstream_gene_variant	AURKAIP1	54998	NM_001127229.2		
+chr1	1370181	C	T	PASS	downstream_gene_variant	AURKAIP1	54998	NM_001127229.2		
+chr1	1371178	T	C	PASS	downstream_gene_variant	AURKAIP1	54998	NM_001127229.2		
+chr1	1371668	C	T	PASS	regulatory_region_variant			ENSR00000344607		
+chr1	1371668	C	T	PASS	downstream_gene_variant	AURKAIP1	54998	NM_001127229.2		
+chr1	1373006	G	A	PASS	regulatory_region_variant			ENSR00000344607		
+chr1	1373006	G	A	PASS	downstream_gene_variant	AURKAIP1	54998	NM_001127229.2		
+chr1	1373007	G	A	PASS	regulatory_region_variant			ENSR00000344607		
+chr1	1373007	G	A	PASS	downstream_gene_variant	AURKAIP1	54998	NM_001127229.2		
+chr1	1374505	A	G	PASS	regulatory_region_variant			ENSR00000000184		
+chr1	1374505	A	G	PASS	intron_variant	AURKAIP1	54998	NM_001127229.2	NM_001127229.2:c.53-60T>C	
+chr1	1374694	C	G	PASS	regulatory_region_variant			ENSR00000000184		
+chr1	1374694	C	G	PASS	intron_variant	AURKAIP1	54998	NM_001127229.2	NM_001127229.2:c.52+11G>C	
+chr1	1375642	C	T	PASS	regulatory_region_variant			ENSR00000000184		
+chr1	1375642	C	T	PASS	upstream_gene_variant	AURKAIP1	54998	NM_001127229.2		
+chr1	1375678	TAA	T	PASS	regulatory_region_variant			ENSR00000000184		
+chr1	1375678	TAA	T	PASS	upstream_gene_variant	AURKAIP1	54998	NM_001127229.2		
+chr1	1375698	G	T	PASS	regulatory_region_variant			ENSR00000000184		
+chr1	1375698	G	T	PASS	upstream_gene_variant	AURKAIP1	54998	NM_001127229.2		
+chr1	1377962	A	G	PASS	upstream_gene_variant	AURKAIP1	54998	NM_001127229.2		
+chr1	1378384	T	C	PASS	upstream_gene_variant	AURKAIP1	54998	NM_001127229.2		
+chr1	1378792	C	T	PASS	upstream_gene_variant	AURKAIP1	54998	NM_001127229.2		
+chr1	1379093	TG	T	PASS	upstream_gene_variant	AURKAIP1	54998	NM_001127229.2		
+chr1	1379894	CA	C	PASS	upstream_gene_variant	AURKAIP1	54998	NM_001127229.2		
+chr1	1379963	G	A	PASS	upstream_gene_variant	AURKAIP1	54998	NM_001127229.2		
+chr1	1381088	A	G	PASS	downstream_gene_variant	CCNL2	81669	NM_030937.6		
+chr1	1383298	G	A	PASS	regulatory_region_variant			ENSR00000344611		
+chr1	1383298	G	A	PASS	downstream_gene_variant	CCNL2	81669	NM_030937.6		
+chr1	1383510	G	GA	PASS	regulatory_region_variant			ENSR00000344611		
+chr1	1383510	G	GA	PASS	downstream_gene_variant	CCNL2	81669	NM_030937.6		
+chr1	1383743	T	C	PASS	downstream_gene_variant	CCNL2	81669	NM_030937.6		
+chr1	1383798	AG	A	PASS	downstream_gene_variant	CCNL2	81669	NM_030937.6		
+chr1	1385384	G	A	PASS	downstream_gene_variant	CCNL2	81669	NM_030937.6		
+chr1	1385553	G	A	PASS	downstream_gene_variant	CCNL2	81669	NM_030937.6		
+chr1	1387124	G	A	PASS	3_prime_UTR_variant	CCNL2	81669	NM_030937.6	NM_030937.6:c.*107C>T	
+chr1	1388565	GTC	G	PASS	intron_variant	CCNL2	81669	NM_030937.6	NM_030937.6:c.1007-502_1007-501del	
+chr1	1388583	C	A	PASS	intron_variant	CCNL2	81669	NM_030937.6	NM_030937.6:c.1007-518G>T	
+chr1	1388772	GA	G	PASS	intron_variant	CCNL2	81669	NM_030937.6	NM_030937.6:c.1007-708del	
+chr1	1390113	CA	C	PASS	intron_variant	CCNL2	81669	NM_030937.6	NM_030937.6:c.1006+116del	
+chr1	1394423	A	G	PASS	intron_variant	CCNL2	81669	NM_030937.6	NM_030937.6:c.595-963T>C	
+chr1	1395346	A	G	PASS	upstream_gene_variant	LOC148413	148413	NR_015434.1		
+chr1	1395346	A	G	PASS	intron_variant	CCNL2	81669	NM_030937.6	NM_030937.6:c.594+48T>C	
+chr1	1398056	C	A	PASS	regulatory_region_variant			ENSR00000000186		
+chr1	1398056	C	A	PASS	TF_binding_site_variant			ENSM00298398532		
+chr1	1398056	C	A	PASS	downstream_gene_variant	MRPL20	55052	NM_017971.4		
+chr1	1398056	C	A	PASS	upstream_gene_variant	LOC148413	148413	NR_015434.1		
+chr1	1398056	C	A	PASS	intron_variant	CCNL2	81669	NM_030937.6	NM_030937.6:c.473+177G>T	
+chr1	1398218	C	A	PASS	regulatory_region_variant			ENSR00000000186		
+chr1	1398218	C	A	PASS	TF_binding_site_variant			ENSM00523882357		
+chr1	1398218	C	A	PASS	upstream_gene_variant	LOC148413	148413	NR_015434.1		
+chr1	1398218	C	A	PASS	intron_variant	CCNL2	81669	NM_030937.6	NM_030937.6:c.473+15G>T	
+chr1	1398218	C	A	PASS	downstream_gene_variant	MRPL20	55052	NM_017971.4		
+chr1	1400410	A	G	PASS	regulatory_region_variant			ENSR00000000186		
+chr1	1400410	A	G	PASS	downstream_gene_variant	MRPL20	55052	NM_017971.4		
+chr1	1400410	A	G	PASS	intron_variant&non_coding_transcript_variant	LOC148413	148413	NR_015434.1	NR_015434.1:n.306+107A>G	
+chr1	1400410	A	G	PASS	upstream_gene_variant	CCNL2	81669	NM_030937.6		
+chr1	1400756	GGA	G	PASS	regulatory_region_variant			ENSR00000000186		
+chr1	1400756	GGA	G	PASS	non_coding_transcript_exon_variant	LOC148413	148413	NR_015434.1	NR_015434.1:n.460_461del	
+chr1	1400756	GGA	G	PASS	upstream_gene_variant	CCNL2	81669	NM_030937.6		
+chr1	1400756	GGA	G	PASS	downstream_gene_variant	MRPL20	55052	NM_017971.4		
+chr1	1401954	G	T	PASS	regulatory_region_variant			ENSR00000344615		
+chr1	1401954	G	T	PASS	upstream_gene_variant	CCNL2	81669	NM_030937.6		
+chr1	1401954	G	T	PASS	non_coding_transcript_exon_variant	LOC148413	148413	NR_015434.1	NR_015434.1:n.1656G>T	
+chr1	1401954	G	T	PASS	3_prime_UTR_variant	MRPL20	55052	NM_017971.4	NM_017971.4:c.*129C>A	
+chr1	1402457	A	G	PASS	regulatory_region_variant			ENSR00000344615		
+chr1	1402457	A	G	PASS	downstream_gene_variant	LOC148413	148413	NR_015434.1		
+chr1	1402457	A	G	PASS	upstream_gene_variant	CCNL2	81669	NM_030937.6		
+chr1	1402457	A	G	PASS	3_prime_UTR_variant	MRPL20	55052	NM_001318485.2	NM_001318485.2:c.*112T>C	
+chr1	1403593	A	G	PASS	intron_variant	MRPL20	55052	NM_017971.4	NM_017971.4:c.277-1337T>C	
+chr1	1403593	A	G	PASS	downstream_gene_variant	LOC148413	148413	NR_015434.1		
+chr1	1403593	A	G	PASS	upstream_gene_variant	CCNL2	81669	NM_030937.6		
+chr1	1404157	CT	C	PASS	downstream_gene_variant	LOC148413	148413	NR_015434.1		
+chr1	1404157	CT	C	PASS	upstream_gene_variant	CCNL2	81669	NM_030937.6		
+chr1	1404157	CT	C	PASS	intron_variant	MRPL20	55052	NM_017971.4	NM_017971.4:c.276+1651del	
+chr1	1406461	TC	T	PASS	regulatory_region_variant			ENSR00000000188		
+chr1	1406461	TC	T	PASS	intron_variant	MRPL20	55052	NM_017971.4	NM_017971.4:c.198+447del	
+chr1	1406461	TC	T	PASS	downstream_gene_variant	LOC148413	148413	NR_015434.1		
+chr1	1407232	G	C	PASS	regulatory_region_variant			ENSR00000000188		
+chr1	1407232	G	C	PASS	TF_binding_site_variant			ENSM00205935441		
+chr1	1407232	G	C	PASS	5_prime_UTR_variant	MRPL20	55052	NM_017971.4	NM_017971.4:c.-15C>G	
+chr1	1411323	A	C	PASS	upstream_gene_variant	MRPL20	55052	NM_017971.4		
+chr1	1419140	C	G	PASS	missense_variant	ANKRD65	441869	NM_001145210.2	NM_001145210.2:c.1160G>C	NP_001138682.1:p.Gly387Ala
+chr1	1425149	G	A	PASS	upstream_gene_variant	TMEM88B	643965	NM_001146685.1		
+chr1	1425149	G	A	PASS	upstream_gene_variant	ANKRD65	441869	NM_001145210.2		
+chr1	1425464	C	CAAA	PASS	upstream_gene_variant	TMEM88B	643965	NM_001146685.1		
+chr1	1425464	C	CAAA	PASS	upstream_gene_variant	ANKRD65	441869	NM_001145210.2		
+chr1	1425464	C	CAAA	PASS	downstream_gene_variant	LINC01770	102724312	NR_125996.1		
+chr1	1426253	G	A	PASS	synonymous_variant	TMEM88B	643965	NM_001146685.1	NM_001146685.1:c.126G>A	NP_001140157.1:p.Ser42%3D
+chr1	1426253	G	A	PASS	upstream_gene_variant	ANKRD65	441869	NM_001145210.2		
+chr1	1426253	G	A	PASS	downstream_gene_variant	LINC01770	102724312	NR_125996.1		
+chr1	1426261	C	T	PASS	downstream_gene_variant	LINC01770	102724312	NR_125996.1		
+chr1	1426261	C	T	PASS	upstream_gene_variant	ANKRD65	441869	NM_001145210.2		
+chr1	1426261	C	T	PASS	missense_variant	TMEM88B	643965	NM_001146685.1	NM_001146685.1:c.134C>T	NP_001140157.1:p.Pro45Leu
+chr1	1427674	G	T	PASS	regulatory_region_variant			ENSR00000344626		
+chr1	1427674	G	T	PASS	missense_variant	TMEM88B	643965	NM_001146685.1	NM_001146685.1:c.379G>T	NP_001140157.1:p.Ala127Ser
+chr1	1427674	G	T	PASS	downstream_gene_variant	LINC01770	102724312	NR_125996.1		
+chr1	1428969	T	C	PASS	downstream_gene_variant	LINC01770	102724312	NR_125996.1		
+chr1	1428969	T	C	PASS	downstream_gene_variant	TMEM88B	643965	NM_001146685.1		
+chr1	1430687	G	A	PASS	regulatory_region_variant			ENSR00000344627		
+chr1	1430687	G	A	PASS	regulatory_region_variant			ENSR00000344631		
+chr1	1430687	G	A	PASS	non_coding_transcript_exon_variant	LINC01770	102724312	NR_125994.1	NR_125994.1:n.664C>T	
+chr1	1430687	G	A	PASS	downstream_gene_variant	TMEM88B	643965	NM_001146685.1		
+chr1	1430908	A	G	PASS	regulatory_region_variant			ENSR00000344627		
+chr1	1430908	A	G	PASS	TF_binding_site_variant			ENSM00206581367		
+chr1	1430908	A	G	PASS	TF_binding_site_variant			ENSM00206467444		
+chr1	1430908	A	G	PASS	upstream_gene_variant	VWA1	64856	NM_022834.5		
+chr1	1430908	A	G	PASS	downstream_gene_variant	TMEM88B	643965	NM_001146685.1		
+chr1	1430908	A	G	PASS	non_coding_transcript_exon_variant	LINC01770	102724312	NR_125994.1	NR_125994.1:n.443T>C	
+chr1	1432355	G	A	PASS	downstream_gene_variant	TMEM88B	643965	NM_001146685.1		
+chr1	1432355	G	A	PASS	upstream_gene_variant	VWA1	64856	NM_022834.5		
+chr1	1432355	G	A	PASS	intron_variant&non_coding_transcript_variant	LINC01770	102724312	NR_125996.1	NR_125996.1:n.387-1693C>T	
+chr1	1436079	A	G	PASS	regulatory_region_variant			ENSR00000000191		
+chr1	1436079	A	G	PASS	upstream_gene_variant	LINC01770	102724312	NR_125996.1		
+chr1	1436079	A	G	PASS	intron_variant	VWA1	64856	NM_022834.5	NM_022834.5:c.73+258A>G	
+chr1	1439454	A	G	PASS	regulatory_region_variant			ENSR00000918456		
+chr1	1439454	A	G	PASS	upstream_gene_variant	LINC01770	102724312	NR_125996.1		
+chr1	1439454	A	G	PASS	synonymous_variant	VWA1	64856	NM_022834.5	NM_022834.5:c.1005A>G	NP_073745.2:p.Pro335%3D
+chr1	1439805	G	C	PASS	regulatory_region_variant			ENSR00000918456		
+chr1	1439805	G	C	PASS	3_prime_UTR_variant	VWA1	64856	NM_022834.5	NM_022834.5:c.*18G>C	
+chr1	1443133	T	C	PASS	downstream_gene_variant	VWA1	64856	NM_022834.5		
+chr1	1445055	G	A	VQSRTrancheSNP99.90to99.95	upstream_gene_variant	ATAD3C	219293	NM_001039211.3		
+chr1	1445055	G	A	VQSRTrancheSNP99.90to99.95	downstream_gene_variant	VWA1	64856	NM_022834.5		
+chr1	1450636	A	G	PASS	5_prime_UTR_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.-48A>G	
+chr1	1451044	A	AT	PASS	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.75+300dup	
+chr1	1451787	A	C	PASS	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.76-259A>C	
+chr1	1451968	C	T	PASS	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.76-78C>T	
+chr1	1452346	A	G	PASS	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.153-19A>G	
+chr1	1452384	G	A	PASS	missense_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.172G>A	NP_001034300.2:p.Gly58Arg
+chr1	1452511	A	G	PASS	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.222+77A>G	
+chr1	1452540	G	A	PASS	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.222+106G>A	
+chr1	1454092	A	G	PASS	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.223-253A>G	
+chr1	1454315	C	T	VQSRTrancheSNP99.95to100.00	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.223-30C>T	
+chr1	1454770	T	C	PASS	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.378+270T>C	
+chr1	1454848	T	C	VQSRTrancheSNP99.80to99.90	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.378+348T>C	
+chr1	1455134	T	G	PASS	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.379-326T>G	
+chr1	1455216	CAAAAAAA	C	PASS	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.379-223_379-217del	
+chr1	1455216	CAAAAA	C	PASS	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.379-221_379-217del	
+chr1	1455337	A	G	PASS	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.379-123A>G	
+chr1	1455495	C	T	VQSRTrancheSNP99.80to99.90	synonymous_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.414C>T	NP_001034300.2:p.Asp138%3D
+chr1	1455617	T	G	VQSRTrancheSNP99.90to99.95	regulatory_region_variant			ENSR00000344640		
+chr1	1455617	T	G	VQSRTrancheSNP99.90to99.95	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.438+98T>G	
+chr1	1455924	T	C	VQSRTrancheSNP99.80to99.90	regulatory_region_variant			ENSR00000344640		
+chr1	1455924	T	C	VQSRTrancheSNP99.80to99.90	splice_region_variant&intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.564+8T>C	
+chr1	1456051	C	T	VQSRTrancheSNP99.80to99.90	regulatory_region_variant			ENSR00000344640		
+chr1	1456051	C	T	VQSRTrancheSNP99.80to99.90	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.564+135C>T	
+chr1	1456079	T	C	VQSRTrancheSNP99.90to99.95	regulatory_region_variant			ENSR00000344640		
+chr1	1456079	T	C	VQSRTrancheSNP99.90to99.95	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.565-146T>C	
+chr1	1456154	G	A	VQSRTrancheSNP99.95to100.00	regulatory_region_variant			ENSR00000344640		
+chr1	1456154	G	A	VQSRTrancheSNP99.95to100.00	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.565-71G>A	
+chr1	1456182	G	A	VQSRTrancheSNP99.90to99.95	regulatory_region_variant			ENSR00000344640		
+chr1	1456182	G	A	VQSRTrancheSNP99.90to99.95	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.565-43G>A	
+chr1	1456217	T	C	VQSRTrancheSNP99.95to100.00	splice_region_variant&intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.565-8T>C	
+chr1	1457033	A	C	PASS	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.690-96A>C	
+chr1	1457071	C	T	PASS	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.690-58C>T	
+chr1	1459004	T	C	PASS	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.742-157T>C	
+chr1	1459008	C	T	PASS	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.742-153C>T	
+chr1	1459632	T	C	VQSRTrancheSNP99.90to99.95	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.812+401T>C	
+chr1	1459658	G	A	VQSRTrancheSNP99.90to99.95	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.812+427G>A	
+chr1	1459662	C	T	VQSRTrancheSNP99.80to99.90	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.812+431C>T	
+chr1	1460021	C	CTG	VQSRTrancheINDEL99.95to100.00	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.813-729_813-728insTG	
+chr1	1460022	CAG	C	VQSRTrancheINDEL99.95to100.00	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.813-727_813-726del	
+chr1	1460069	ATT	A	PASS	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.813-663_813-662del	
+chr1	1460603	T	C	PASS	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.813-147T>C	
+chr1	1465362	T	C	PASS	intron_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.1089+2654T>C	
+chr1	1468434	C	T	PASS	regulatory_region_variant			ENSR00000918461		
+chr1	1468434	C	T	PASS	upstream_gene_variant	ATAD3B	83858	NM_031921.6		
+chr1	1468434	C	T	PASS	synonymous_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.1140C>T	NP_001034300.2:p.Asp380%3D
+chr1	1468592	C	CG	PASS	regulatory_region_variant			ENSR00000918461		
+chr1	1468592	C	CG	PASS	upstream_gene_variant	ATAD3B	83858	NM_031921.6		
+chr1	1468592	C	CG	PASS	3_prime_UTR_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.*64dup	
+chr1	1468621	G	T	VQSRTrancheSNP99.80to99.90	regulatory_region_variant			ENSR00000918461		
+chr1	1468621	G	T	VQSRTrancheSNP99.80to99.90	upstream_gene_variant	ATAD3B	83858	NM_031921.6		
+chr1	1468621	G	T	VQSRTrancheSNP99.80to99.90	3_prime_UTR_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.*91G>T	
+chr1	1468856	C	T	PASS	regulatory_region_variant			ENSR00000918461		
+chr1	1468856	C	T	PASS	upstream_gene_variant	ATAD3B	83858	NM_031921.6		
+chr1	1468856	C	T	PASS	3_prime_UTR_variant	ATAD3C	219293	NM_001039211.3	NM_001039211.3:c.*326C>T	
+chr1	1471591	C	G	PASS	regulatory_region_variant			ENSR00000000194		
+chr1	1471591	C	G	PASS	downstream_gene_variant	ATAD3C	219293	NM_001039211.3		
+chr1	1471591	C	G	PASS	upstream_gene_variant	ATAD3B	83858	NM_031921.6		
+chr1	1471992	T	C	VQSRTrancheSNP99.80to99.90	regulatory_region_variant			ENSR00000000194		
+chr1	1471992	T	C	VQSRTrancheSNP99.80to99.90	synonymous_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.108T>C	NP_114127.3:p.Gly36%3D
+chr1	1471992	T	C	VQSRTrancheSNP99.80to99.90	downstream_gene_variant	ATAD3C	219293	NM_001039211.3		
+chr1	1472158	C	G	PASS	regulatory_region_variant			ENSR00000000194		
+chr1	1472158	C	G	PASS	downstream_gene_variant	ATAD3C	219293	NM_001039211.3		
+chr1	1472158	C	G	PASS	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.205+69C>G	
+chr1	1473503	CTT	C	PASS	regulatory_region_variant			ENSR00000000194		
+chr1	1473503	CTT	C	PASS	regulatory_region_variant			ENSR00000344646		
+chr1	1473503	CTT	C	PASS	TF_binding_site_variant			ENSM00205580979		
+chr1	1473503	CTT	C	PASS	downstream_gene_variant	ATAD3C	219293	NM_001039211.3		
+chr1	1473503	CTT	C	PASS	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.205+1424_205+1425del	
+chr1	1475647	A	T	PASS	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.206-1627A>T	
+chr1	1477677	TTTTTA	T	PASS	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.282+366_282+370del	
+chr1	1478433	A	G	VQSRTrancheSNP99.95to100.00	5_prime_UTR_variant	ATAD3B	83858	NM_001317238.2	NM_001317238.2:c.-67A>G	
+chr1	1478437	TTC	T	VQSRTrancheINDEL99.95to100.00	5_prime_UTR_variant	ATAD3B	83858	NM_001317238.2	NM_001317238.2:c.-59_-58del	
+chr1	1479205	A	C	VQSRTrancheSNP99.95to100.00	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.444+97A>C	
+chr1	1479324	C	G	PASS	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.444+216C>G	
+chr1	1479334	A	G	PASS	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.444+226A>G	
+chr1	1480096	G	C	PASS	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.445-771G>C	
+chr1	1480990	T	C	VQSRTrancheSNP99.95to100.00	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.514+54T>C	
+chr1	1481959	C	T	PASS	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.515-179C>T	
+chr1	1482316	C	G	VQSRTrancheSNP99.90to99.95	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.680+13C>G	
+chr1	1482402	A	G	VQSRTrancheSNP99.90to99.95	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.680+99A>G	
+chr1	1482624	T	C	VQSRTrancheSNP99.90to99.95	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.750+10T>C	
+chr1	1483151	G	A	PASS	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.750+537G>A	
+chr1	1483898	G	A	PASS	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.751-1118G>A	
+chr1	1484012	C	T	PASS	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.751-1004C>T	
+chr1	1485282	A	G	VQSRTrancheSNP99.90to99.95	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.906+111A>G	
+chr1	1485382	T	C	VQSRTrancheSNP99.80to99.90	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.906+211T>C	
+chr1	1486151	C	A	PASS	synonymous_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.1005C>A	NP_114127.3:p.Thr335%3D
+chr1	1486354	G	C	PASS	regulatory_region_variant			ENSR00000918463		
+chr1	1486354	G	C	PASS	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.1089+119G>C	
+chr1	1486396	C	G	PASS	regulatory_region_variant			ENSR00000918463		
+chr1	1486396	C	G	PASS	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.1090-148C>G	
+chr1	1486536	T	C	VQSRTrancheSNP99.95to100.00	regulatory_region_variant			ENSR00000918463		
+chr1	1486536	T	C	VQSRTrancheSNP99.95to100.00	splice_region_variant&intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.1090-8T>C	
+chr1	1486611	G	A	VQSRTrancheSNP99.80to99.90	missense_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.1157G>A	NP_114127.3:p.Arg386Gln
+chr1	1487887	A	G	PASS	synonymous_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.1239A>G	NP_114127.3:p.Ala413%3D
+chr1	1488652	A	G	PASS	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.1267-552A>G	
+chr1	1489578	C	CTA	PASS	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.1337+305_1337+306insAT	
+chr1	1489767	T	C	PASS	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.1338-490T>C	
+chr1	1489916	C	T	PASS	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.1338-341C>T	
+chr1	1490027	A	G	PASS	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.1338-230A>G	
+chr1	1490032	A	G	PASS	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.1338-225A>G	
+chr1	1490122	A	G	PASS	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.1338-135A>G	
+chr1	1490320	T	C	PASS	synonymous_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.1401T>C	NP_114127.3:p.Ile467%3D
+chr1	1492619	A	AC	PASS	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.1614+1952dup	
+chr1	1495204	T	C	VQSRTrancheSNP99.80to99.90	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.1615-281T>C	
+chr1	1495205	G	A	VQSRTrancheSNP99.80to99.90	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.1615-280G>A	
+chr1	1495221	G	A	VQSRTrancheSNP99.80to99.90	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.1615-264G>A	
+chr1	1495222	T	G	VQSRTrancheSNP99.80to99.90	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.1615-263T>G	
+chr1	1495236	T	C	PASS	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.1615-249T>C	
+chr1	1495327	C	T	PASS	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.1615-158C>T	
+chr1	1495357	G	A	PASS	intron_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.1615-128G>A	
+chr1	1495604	G	A	PASS	synonymous_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.1734G>A	NP_114127.3:p.Gly578%3D
+chr1	1495680	T	C	VQSRTrancheSNP99.95to100.00	missense_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.1810T>C	NP_114127.3:p.Tyr604His
+chr1	1495785	C	T	PASS	missense_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.1915C>T	NP_114127.3:p.Pro639Ser
+chr1	1495915	T	C	VQSRTrancheSNP99.95to100.00	3_prime_UTR_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.*98T>C	
+chr1	1496006	G	A	PASS	3_prime_UTR_variant	ATAD3B	83858	NM_031921.6	NM_031921.6:c.*189G>A	
+chr1	1499279	CT	C	PASS	downstream_gene_variant	ATAD3B	83858	NM_031921.6		
+chr1	1501403	T	C	PASS	regulatory_region_variant			ENSR00000918464		
+chr1	1501403	T	C	PASS	downstream_gene_variant	ATAD3B	83858	NM_031921.6		
+chr1	1504928	T	TTG	PASS	regulatory_region_variant			ENSR00000344651		
+chr1	1504928	T	TTG	PASS	TF_binding_site_variant			ENSM00167726869		
+chr1	1504928	T	TTG	PASS	intergenic_variant					
+chr1	1509120	T	C	VQSRTrancheSNP99.95to100.00	upstream_gene_variant	ATAD3A	55210	NM_018188.5		
+chr1	1512312	G	A	PASS	regulatory_region_variant			ENSR00000000198		
+chr1	1512312	G	A	PASS	missense_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.44G>A	NP_060658.3:p.Gly15Asp
+chr1	1512376	G	C	VQSRTrancheSNP99.80to99.90	regulatory_region_variant			ENSR00000000198		
+chr1	1512376	G	C	VQSRTrancheSNP99.80to99.90	TF_binding_site_variant			ENSM00000548451		
+chr1	1512376	G	C	VQSRTrancheSNP99.80to99.90	synonymous_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.108G>C	NP_060658.3:p.Gly36%3D
+chr1	1513923	G	C	PASS	regulatory_region_variant			ENSR00000000198		
+chr1	1513923	G	C	PASS	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.205+1450G>C	
+chr1	1514554	A	G	PASS	TF_binding_site_variant			ENSM00351540634		
+chr1	1514554	A	G	PASS	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.206-1458A>G	
+chr1	1514624	G	A	PASS	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.206-1388G>A	
+chr1	1516000	T	C	PASS	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.206-12T>C	
+chr1	1516109	T	C	VQSRTrancheSNP99.80to99.90	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.282+21T>C	
+chr1	1516110	G	A	VQSRTrancheSNP99.80to99.90	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.282+22G>A	
+chr1	1517171	G	A	VQSRTrancheSNP99.80to99.90	missense_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.287G>A	NP_060658.3:p.Arg96Gln
+chr1	1517186	G	A	VQSRTrancheSNP99.80to99.90	missense_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.302G>A	NP_060658.3:p.Ser101Asn
+chr1	1517212	T	C	VQSRTrancheSNP99.95to100.00	missense_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.328T>C	NP_060658.3:p.Trp110Arg
+chr1	1517993	A	G	PASS	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.588+218A>G	
+chr1	1518892	T	A	PASS	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.589-29T>A	
+chr1	1522875	T	G	VQSRTrancheSNP99.95to100.00	synonymous_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.1026T>G	NP_060658.3:p.Leu342%3D
+chr1	1522905	A	G	VQSRTrancheSNP99.95to100.00	splice_region_variant&intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.1050+6A>G	
+chr1	1523022	A	G	VQSRTrancheSNP99.80to99.90	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.1050+123A>G	
+chr1	1523574	C	T	PASS	splice_region_variant&intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.1107+7C>T	
+chr1	1524202	G	A	VQSRTrancheSNP99.80to99.90	regulatory_region_variant			ENSR00000918466		
+chr1	1524202	G	A	VQSRTrancheSNP99.80to99.90	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.1234-71G>A	
+chr1	1525085	G	T	PASS	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.1359-155G>T	
+chr1	1525413	CT	C	PASS	regulatory_region_variant			ENSR00000918467		
+chr1	1525413	CT	C	PASS	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.1410+141del	
+chr1	1525526	C	T	PASS	regulatory_region_variant			ENSR00000918467		
+chr1	1525526	C	T	PASS	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.1410+235C>T	
+chr1	1525603	A	G	PASS	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.1410+312A>G	
+chr1	1525710	A	G	PASS	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.1410+419A>G	
+chr1	1527386	C	T	PASS	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.1482-309C>T	
+chr1	1527938	C	A	PASS	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.1649+76C>A	
+chr1	1527957	C	T	PASS	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.1649+95C>T	
+chr1	1527958	CTT	C	PASS	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.1649+113_1649+114del	
+chr1	1530331	T	C	PASS	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.1758+1000T>C	
+chr1	1530331	T	C	PASS	downstream_gene_variant	TMEM240	339453	NM_001114748.2		
+chr1	1530546	A	ATT	PASS	downstream_gene_variant	TMEM240	339453	NM_001114748.2		
+chr1	1530546	A	ATT	PASS	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.1758+1216_1758+1217insTT	
+chr1	1530549	G	GA	PASS	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.1758+1218_1758+1219insA	
+chr1	1530549	G	GA	PASS	downstream_gene_variant	TMEM240	339453	NM_001114748.2		
+chr1	1530550	C	A	PASS	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.1758+1219C>A	
+chr1	1530550	C	A	PASS	downstream_gene_variant	TMEM240	339453	NM_001114748.2		
+chr1	1530553	G	A	PASS	downstream_gene_variant	TMEM240	339453	NM_001114748.2		
+chr1	1530553	G	A	PASS	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.1758+1222G>A	
+chr1	1530555	C	T	PASS	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.1758+1224C>T	
+chr1	1530555	C	T	PASS	downstream_gene_variant	TMEM240	339453	NM_001114748.2		
+chr1	1530568	G	T	PASS	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.1758+1237G>T	
+chr1	1530568	G	T	PASS	downstream_gene_variant	TMEM240	339453	NM_001114748.2		
+chr1	1530585	T	G	VQSRTrancheSNP99.80to99.90	downstream_gene_variant	TMEM240	339453	NM_001114748.2		
+chr1	1530585	T	G	VQSRTrancheSNP99.80to99.90	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.1758+1254T>G	
+chr1	1531427	G	A	PASS	downstream_gene_variant	TMEM240	339453	NM_001114748.2		
+chr1	1531427	G	A	PASS	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.1758+2096G>A	
+chr1	1533178	A	G	PASS	downstream_gene_variant	TMEM240	339453	NM_001114748.2		
+chr1	1533178	A	G	PASS	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.1759-748A>G	
+chr1	1533253	C	T	PASS	regulatory_region_variant			ENSR00000918468		
+chr1	1533253	C	T	PASS	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.1759-673C>T	
+chr1	1533253	C	T	PASS	downstream_gene_variant	TMEM240	339453	NM_001114748.2		
+chr1	1533841	T	C	VQSRTrancheSNP99.95to100.00	regulatory_region_variant			ENSR00000918468		
+chr1	1533841	T	C	VQSRTrancheSNP99.95to100.00	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.1759-85T>C	
+chr1	1533841	T	C	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	TMEM240	339453	NM_001114748.2		
+chr1	1533883	G	T	VQSRTrancheSNP99.95to100.00	regulatory_region_variant			ENSR00000918468		
+chr1	1533883	G	T	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	TMEM240	339453	NM_001114748.2		
+chr1	1533883	G	T	VQSRTrancheSNP99.95to100.00	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.1759-43G>T	
+chr1	1533909	G	C	VQSRTrancheSNP99.95to100.00	regulatory_region_variant			ENSR00000918468		
+chr1	1533909	G	C	VQSRTrancheSNP99.95to100.00	intron_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.1759-17G>C	
+chr1	1533909	G	C	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	TMEM240	339453	NM_001114748.2		
+chr1	1534166	G	A	PASS	downstream_gene_variant	TMEM240	339453	NM_001114748.2		
+chr1	1534166	G	A	PASS	3_prime_UTR_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.*94G>A	
+chr1	1534218	C	G	VQSRTrancheSNP99.80to99.90	downstream_gene_variant	TMEM240	339453	NM_001114748.2		
+chr1	1534218	C	G	VQSRTrancheSNP99.80to99.90	3_prime_UTR_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.*146C>G	
+chr1	1534219	G	C	VQSRTrancheSNP99.80to99.90	downstream_gene_variant	TMEM240	339453	NM_001114748.2		
+chr1	1534219	G	C	VQSRTrancheSNP99.80to99.90	3_prime_UTR_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.*147G>C	
+chr1	1534226	C	T	VQSRTrancheSNP99.80to99.90	3_prime_UTR_variant	ATAD3A	55210	NM_018188.5	NM_018188.5:c.*154C>T	
+chr1	1534226	C	T	VQSRTrancheSNP99.80to99.90	downstream_gene_variant	TMEM240	339453	NM_001114748.2		
+chr1	1535512	G	A	PASS	downstream_gene_variant	ATAD3A	55210	NM_018188.5		
+chr1	1535512	G	A	PASS	splice_region_variant&intron_variant	TMEM240	339453	NM_001114748.2	NM_001114748.2:c.374-5C>T	
+chr1	1538787	A	G	PASS	intron_variant	TMEM240	339453	NM_001114748.2	NM_001114748.2:c.164+897T>C	
+chr1	1538787	A	G	PASS	downstream_gene_variant	ATAD3A	55210	NM_018188.5		
+chr1	1538787	A	G	PASS	downstream_gene_variant	SSU72	29101	NM_014188.3		
+chr1	1538924	C	A	PASS	regulatory_region_variant			ENSR00000000200		
+chr1	1538924	C	A	PASS	intron_variant	TMEM240	339453	NM_001114748.2	NM_001114748.2:c.164+760G>T	
+chr1	1538924	C	A	PASS	downstream_gene_variant	ATAD3A	55210	NM_018188.5		
+chr1	1538924	C	A	PASS	downstream_gene_variant	SSU72	29101	NM_014188.3		
+chr1	1541728	G	A	PASS	3_prime_UTR_variant	SSU72	29101	NM_014188.3	NM_014188.3:c.*338C>T	
+chr1	1541728	G	A	PASS	upstream_gene_variant	TMEM240	339453	NM_001114748.2		
+chr1	1541864	T	C	PASS	3_prime_UTR_variant	SSU72	29101	NM_014188.3	NM_014188.3:c.*202A>G	
+chr1	1541864	T	C	PASS	upstream_gene_variant	TMEM240	339453	NM_001114748.2		
+chr1	1541943	GCA	G	PASS	upstream_gene_variant	TMEM240	339453	NM_001114748.2		
+chr1	1541943	GCA	G	PASS	3_prime_UTR_variant	SSU72	29101	NM_014188.3	NM_014188.3:c.*121_*122del	
+chr1	1543652	TCTGTCACGGCCTCGGCCACTCCCCACTGTCACGGCCTCGGCCACTCCCCACTGTCACGGCCTCGGCCACTCCC	T	PASS	regulatory_region_variant			ENSR00000918472		
+chr1	1543652	TCTGTCACGGCCTCGGCCACTCCCCACTGTCACGGCCTCGGCCACTCCCCACTGTCACGGCCTCGGCCACTCCC	T	PASS	upstream_gene_variant	TMEM240	339453	NM_001114748.2		
+chr1	1543652	TCTGTCACGGCCTCGGCCACTCCCCACTGTCACGGCCTCGGCCACTCCCCACTGTCACGGCCTCGGCCACTCCC	T	PASS	intron_variant	SSU72	29101	NM_014188.3	NM_014188.3:c.483+144_483+216del	
+chr1	1543953	A	G	PASS	regulatory_region_variant			ENSR00000918472		
+chr1	1543953	A	G	PASS	upstream_gene_variant	TMEM240	339453	NM_001114748.2		
+chr1	1543953	A	G	PASS	synonymous_variant	SSU72	29101	NM_014188.3	NM_014188.3:c.399T>C	NP_054907.1:p.Pro133%3D
+chr1	1549590	C	G	PASS	intron_variant	SSU72	29101	NM_014188.3	NM_014188.3:c.225-4588G>C	
+chr1	1554694	A	G	PASS	regulatory_region_variant			ENSR00000918476		
+chr1	1554694	A	G	PASS	intron_variant	SSU72	29101	NM_014188.3	NM_014188.3:c.225-9692T>C	
+chr1	1554781	A	G	PASS	regulatory_region_variant			ENSR00000918476		
+chr1	1554781	A	G	PASS	intron_variant	SSU72	29101	NM_014188.3	NM_014188.3:c.225-9779T>C	
+chr1	1554852	T	C	PASS	regulatory_region_variant			ENSR00000918476		
+chr1	1554852	T	C	PASS	intron_variant	SSU72	29101	NM_014188.3	NM_014188.3:c.225-9850A>G	
+chr1	1555871	T	C	PASS	intron_variant	SSU72	29101	NM_014188.3	NM_014188.3:c.224+8902A>G	
+chr1	1557495	CAT	C	PASS	intron_variant	SSU72	29101	NM_014188.3	NM_014188.3:c.224+7276_224+7277del	
+chr1	1558726	C	CA	PASS	intron_variant	SSU72	29101	NM_014188.3	NM_014188.3:c.224+6046_224+6047insT	
+chr1	1559703	G	C	PASS	intron_variant	SSU72	29101	NM_014188.3	NM_014188.3:c.224+5070C>G	
+chr1	1559750	C	CAG	PASS	intron_variant	SSU72	29101	NM_014188.3	NM_014188.3:c.224+5021_224+5022dup	
+chr1	1559813	A	G	PASS	intron_variant	SSU72	29101	NM_014188.3	NM_014188.3:c.224+4960T>C	
+chr1	1561628	T	C	PASS	intron_variant	SSU72	29101	NM_014188.3	NM_014188.3:c.224+3145A>G	
+chr1	1562997	C	T	PASS	regulatory_region_variant			ENSR00000344666		
+chr1	1562997	C	T	PASS	intron_variant	SSU72	29101	NM_014188.3	NM_014188.3:c.224+1776G>A	
+chr1	1563537	C	CA	PASS	intron_variant	SSU72	29101	NM_014188.3	NM_014188.3:c.224+1235dup	
+chr1	1563918	A	G	PASS	intron_variant	SSU72	29101	NM_014188.3	NM_014188.3:c.224+855T>C	
+chr1	1568428	C	G	PASS	intron_variant	SSU72	29101	NM_014188.3	NM_014188.3:c.81-3512G>C	
+chr1	1570294	CA	C	PASS	intron_variant	SSU72	29101	NM_014188.3	NM_014188.3:c.80+4183del	
+chr1	1573079	A	G	PASS	regulatory_region_variant			ENSR00000000205		
+chr1	1573079	A	G	PASS	intron_variant	SSU72	29101	NM_014188.3	NM_014188.3:c.80+1399T>C	
+chr1	1573654	T	C	PASS	regulatory_region_variant			ENSR00000000205		
+chr1	1573654	T	C	PASS	intron_variant	SSU72	29101	NM_014188.3	NM_014188.3:c.80+824A>G	
+chr1	1574445	A	G	PASS	regulatory_region_variant			ENSR00000000205		
+chr1	1574445	A	G	PASS	intron_variant	SSU72	29101	NM_014188.3	NM_014188.3:c.80+33T>C	
+chr1	1574655	GGC	G	PASS	regulatory_region_variant			ENSR00000000205		
+chr1	1574655	GGC	G	PASS	5_prime_UTR_variant	SSU72	29101	NM_014188.3	NM_014188.3:c.-100_-99del	
+chr1	1575421	C	T	PASS	regulatory_region_variant			ENSR00000000205		
+chr1	1575421	C	T	PASS	upstream_gene_variant	SSU72	29101	NM_014188.3		
+chr1	1575724	G	C	PASS	regulatory_region_variant			ENSR00000000205		
+chr1	1575724	G	C	PASS	upstream_gene_variant	SSU72	29101	NM_014188.3		
+chr1	1577491	A	AC	PASS	regulatory_region_variant			ENSR00000918478		
+chr1	1577491	A	AC	PASS	upstream_gene_variant	SSU72	29101	NM_014188.3		
+chr1	1577585	G	T	PASS	regulatory_region_variant			ENSR00000918478		
+chr1	1577585	G	T	PASS	upstream_gene_variant	SSU72	29101	NM_014188.3		
+chr1	1580020	A	AT	PASS	regulatory_region_variant			ENSR00000918479		
+chr1	1580020	A	AT	PASS	intergenic_variant					
+chr1	1584235	A	AT	PASS	intergenic_variant					
+chr1	1585372	T	A	PASS	intergenic_variant					
+chr1	1592846	T	TAA	PASS	intergenic_variant					
+chr1	1593620	G	C	PASS	downstream_gene_variant	FNDC10	643988	NM_001242659.2		
+chr1	1593732	G	C	PASS	downstream_gene_variant	FNDC10	643988	NM_001242659.2		
+chr1	1594817	A	C	PASS	regulatory_region_variant			ENSR00000918483		
+chr1	1594817	A	C	PASS	TF_binding_site_variant			ENSM00263683527		
+chr1	1594817	A	C	PASS	TF_binding_site_variant			ENSM00517580364		
+chr1	1594817	A	C	PASS	TF_binding_site_variant			ENSM00498297927		
+chr1	1594817	A	C	PASS	TF_binding_site_variant			ENSM00388068601		
+chr1	1594817	A	C	PASS	TF_binding_site_variant			ENSM00322124284		
+chr1	1594817	A	C	PASS	downstream_gene_variant	FNDC10	643988	NM_001242659.2		
+chr1	1594817	A	C	PASS	upstream_gene_variant	LOC105378586	105378586	NR_147951.1		
+chr1	1594820	C	T	PASS	regulatory_region_variant			ENSR00000918483		
+chr1	1594820	C	T	PASS	TF_binding_site_variant			ENSM00498297927		
+chr1	1594820	C	T	PASS	TF_binding_site_variant			ENSM00388068601		
+chr1	1594820	C	T	PASS	TF_binding_site_variant			ENSM00322124284		
+chr1	1594820	C	T	PASS	downstream_gene_variant	FNDC10	643988	NM_001242659.2		
+chr1	1594820	C	T	PASS	upstream_gene_variant	LOC105378586	105378586	NR_147951.1		
+chr1	1594890	G	GAC	PASS	regulatory_region_variant			ENSR00000918483		
+chr1	1594890	G	GAC	PASS	downstream_gene_variant	FNDC10	643988	NM_001242659.2		
+chr1	1594890	G	GAC	PASS	upstream_gene_variant	LOC105378586	105378586	NR_147951.1		
+chr1	1595007	A	G	PASS	regulatory_region_variant			ENSR00000918483		
+chr1	1595007	A	G	PASS	upstream_gene_variant	LOC105378586	105378586	NR_147951.1		
+chr1	1595007	A	G	PASS	downstream_gene_variant	FNDC10	643988	NM_001242659.2		
+chr1	1595034	G	C	VQSRTrancheSNP99.80to99.90	regulatory_region_variant			ENSR00000918483		
+chr1	1595034	G	C	VQSRTrancheSNP99.80to99.90	upstream_gene_variant	LOC105378586	105378586	NR_147951.1		
+chr1	1595034	G	C	VQSRTrancheSNP99.80to99.90	downstream_gene_variant	FNDC10	643988	NM_001242659.2		
+chr1	1595226	C	G	PASS	downstream_gene_variant	FNDC10	643988	NM_001242659.2		
+chr1	1595226	C	G	PASS	upstream_gene_variant	LOC105378586	105378586	NR_147951.1		
+chr1	1595232	GACA	G	VQSRTrancheINDEL99.95to100.00	downstream_gene_variant	FNDC10	643988	NM_001242659.2		
+chr1	1595232	GACA	G	VQSRTrancheINDEL99.95to100.00	upstream_gene_variant	LOC105378586	105378586	NR_147951.1		
+chr1	1595236	GA	G	VQSRTrancheINDEL99.95to100.00	upstream_gene_variant	LOC105378586	105378586	NR_147951.1		
+chr1	1595236	GA	G	VQSRTrancheINDEL99.95to100.00	downstream_gene_variant	FNDC10	643988	NM_001242659.2		
+chr1	1595544	C	G	VQSRTrancheSNP99.80to99.90	downstream_gene_variant	FNDC10	643988	NM_001242659.2		
+chr1	1595544	C	G	VQSRTrancheSNP99.80to99.90	upstream_gene_variant	LOC105378586	105378586	NR_147951.1		
+chr1	1595649	A	G	PASS	downstream_gene_variant	FNDC10	643988	NM_001242659.2		
+chr1	1595649	A	G	PASS	upstream_gene_variant	LOC105378586	105378586	NR_147951.1		
+chr1	1595702	C	CAG	PASS	upstream_gene_variant	LOC105378586	105378586	NR_147951.1		
+chr1	1595702	C	CAG	PASS	downstream_gene_variant	FNDC10	643988	NM_001242659.2		
+chr1	1595740	G	GAGAGAGAC	PASS	upstream_gene_variant	LOC105378586	105378586	NR_147951.1		
+chr1	1595740	G	GAGAGAGAC	PASS	downstream_gene_variant	FNDC10	643988	NM_001242659.2		
+chr1	1595772	CACAGAG	C	PASS	upstream_gene_variant	LOC105378586	105378586	NR_147951.1		
+chr1	1595772	CACAGAG	C	PASS	downstream_gene_variant	FNDC10	643988	NM_001242659.2		
+chr1	1596162	GAGC	G	PASS	downstream_gene_variant	FNDC10	643988	NM_001242659.2		
+chr1	1596162	GAGC	G	PASS	upstream_gene_variant	LOC105378586	105378586	NR_147951.1		
+chr1	1596173	G	A	PASS	downstream_gene_variant	FNDC10	643988	NM_001242659.2		
+chr1	1596173	G	A	PASS	upstream_gene_variant	LOC105378586	105378586	NR_147951.1		
+chr1	1596449	G	A	PASS	downstream_gene_variant	FNDC10	643988	NM_001242659.2		
+chr1	1596449	G	A	PASS	upstream_gene_variant	LOC105378586	105378586	NR_147951.1		
+chr1	1596529	A	G	PASS	upstream_gene_variant	LOC105378586	105378586	NR_147951.1		
+chr1	1596529	A	G	PASS	downstream_gene_variant	FNDC10	643988	NM_001242659.2		
+chr1	1596590	GAC	G	PASS	upstream_gene_variant	LOC105378586	105378586	NR_147951.1		
+chr1	1596590	GAC	G	PASS	downstream_gene_variant	FNDC10	643988	NM_001242659.2		
+chr1	1599234	T	C	PASS	regulatory_region_variant			ENSR00000000206		
+chr1	1599234	T	C	PASS	3_prime_UTR_variant	FNDC10	643988	NM_001242659.2	NM_001242659.2:c.*101A>G	
+chr1	1599234	T	C	PASS	upstream_gene_variant	LOC105378586	105378586	NR_147951.1		
+chr1	1606012	G	A	PASS	intron_variant&non_coding_transcript_variant	LOC105378586	105378586	NR_147951.1	NR_147951.1:n.235-861G>A	
+chr1	1612186	A	G	PASS	downstream_gene_variant	LOC105378586	105378586	NR_147951.1		
+chr1	1612186	A	G	PASS	upstream_gene_variant	MIB2	142678	NM_080875.3		
+chr1	1623412	T	C	PASS	missense_variant	MIB2	142678	NM_080875.3	NM_080875.3:c.134T>C	NP_543151.3:p.Met45Thr
+chr1	1624591	C	T	PASS	intron_variant	MIB2	142678	NM_080875.3	NM_080875.3:c.594-204C>T	
+chr1	1624723	C	T	PASS	intron_variant	MIB2	142678	NM_080875.3	NM_080875.3:c.594-72C>T	
+chr1	1627057	C	G	PASS	intron_variant	MIB2	142678	NM_080875.3	NM_080875.3:c.1415-17C>G	
+chr1	1627156	G	A	PASS	synonymous_variant	MIB2	142678	NM_080875.3	NM_080875.3:c.1497G>A	NP_543151.3:p.Ala499%3D
+chr1	1627515	C	T	PASS	regulatory_region_variant			ENSR00000344687		
+chr1	1627515	C	T	PASS	intron_variant	MIB2	142678	NM_080875.3	NM_080875.3:c.1697+71C>T	
+chr1	1627515	C	T	PASS	upstream_gene_variant	MMP23B	8510	NM_006983.2		
+chr1	1630685	AG	A	PASS	regulatory_region_variant			ENSR00000344687		
+chr1	1630685	AG	A	PASS	upstream_gene_variant	MMP23B	8510	NM_006983.2		
+chr1	1630685	AG	A	PASS	downstream_gene_variant	CDK11B	984	NM_001787.3		
+chr1	1630685	AG	A	PASS	downstream_gene_variant	MIB2	142678	NM_080875.3		
+chr1	1634663	C	G	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	CDK11B	984	NM_001787.3		
+chr1	1634663	C	G	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	MIB2	142678	NM_080875.3		
+chr1	1634663	C	G	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	MMP23B	8510	NM_006983.2		
+chr1	1635543	T	C	PASS	downstream_gene_variant	MMP23B	8510	NM_006983.2		
+chr1	1635543	T	C	PASS	3_prime_UTR_variant	CDK11B	984	NM_001787.3	NM_001787.3:c.*221A>G	
+chr1	1635543	T	C	PASS	downstream_gene_variant	MIB2	142678	NM_080875.3		
+chr1	1637577	T	C	VQSRTrancheSNP99.80to99.90	intron_variant	CDK11B	984	NM_001787.3	NM_001787.3:c.1504-64A>G	
+chr1	1637577	T	C	VQSRTrancheSNP99.80to99.90	downstream_gene_variant	MMP23B	8510	NM_006983.2		
+chr1	1637582	C	A	VQSRTrancheSNP99.90to99.95	intron_variant	CDK11B	984	NM_001787.3	NM_001787.3:c.1504-69G>T	
+chr1	1637582	C	A	VQSRTrancheSNP99.90to99.95	downstream_gene_variant	MMP23B	8510	NM_006983.2		
+chr1	1645377	T	A	ExcessHet	regulatory_region_variant			ENSR00000344691		
+chr1	1645377	T	A	ExcessHet	regulatory_region_variant			ENSR00000918490		
+chr1	1645377	T	A	ExcessHet	intron_variant	CDK11B	984	NM_001787.3	NM_001787.3:c.495-115A>T	
+chr1	1646243	G	A	VQSRTrancheSNP99.90to99.95	intron_variant	CDK11B	984	NM_001787.3	NM_001787.3:c.495-981C>T	
+chr1	1646352	A	G	VQSRTrancheSNP99.95to100.00	intron_variant	CDK11B	984	NM_001787.3	NM_001787.3:c.495-1090T>C	
+chr1	1646398	G	A	ExcessHet	intron_variant	CDK11B	984	NM_001787.3	NM_001787.3:c.495-1136C>T	
+chr1	1646520	T	C	VQSRTrancheSNP99.80to99.90	intron_variant	CDK11B	984	NM_001787.3	NM_001787.3:c.495-1258A>G	
+chr1	1646565	G	T	ExcessHet	intron_variant	CDK11B	984	NM_001787.3	NM_001787.3:c.495-1303C>A	
+chr1	1646597	T	C	VQSRTrancheSNP99.80to99.90	intron_variant	CDK11B	984	NM_001787.3	NM_001787.3:c.495-1335A>G	
+chr1	1646841	C	T	ExcessHet	intron_variant	CDK11B	984	NM_001787.3	NM_001787.3:c.495-1579G>A	
+chr1	1647094	G	A	VQSRTrancheSNP99.95to100.00	intron_variant	CDK11B	984	NM_001787.3	NM_001787.3:c.495-1832C>T	
+chr1	1647255	T	C	VQSRTrancheSNP99.95to100.00	intron_variant	CDK11B	984	NM_001787.3	NM_001787.3:c.495-1993A>G	
+chr1	1647480	A	G	VQSRTrancheSNP99.90to99.95	intron_variant	CDK11B	984	NM_001787.3	NM_001787.3:c.494+2019T>C	
+chr1	1647483	G	T	VQSRTrancheSNP99.90to99.95	intron_variant	CDK11B	984	NM_001787.3	NM_001787.3:c.494+2016C>A	
+chr1	1647519	G	C	VQSRTrancheSNP99.95to100.00	intron_variant	CDK11B	984	NM_001787.3	NM_001787.3:c.494+1980C>G	
+chr1	1647915	TC	T	PASS	regulatory_region_variant			ENSR00000000214		
+chr1	1647915	TC	T	PASS	TF_binding_site_variant			ENSM00321748026		
+chr1	1647915	TC	T	PASS	TF_binding_site_variant			ENSM00401348984		
+chr1	1647915	TC	T	PASS	TF_binding_site_variant			ENSM00524677877		
+chr1	1647915	TC	T	PASS	TF_binding_site_variant			ENSM00189206823		
+chr1	1647915	TC	T	PASS	intron_variant	CDK11B	984	NM_001787.3	NM_001787.3:c.494+1583del	
+chr1	1648134	T	C	VQSRTrancheSNP99.95to100.00	regulatory_region_variant			ENSR00000000214		
+chr1	1648134	T	C	VQSRTrancheSNP99.95to100.00	TF_binding_site_variant			ENSM00388189942		
+chr1	1648134	T	C	VQSRTrancheSNP99.95to100.00	intron_variant	CDK11B	984	NM_001787.3	NM_001787.3:c.494+1365A>G	
+chr1	1649993	A	G	PASS	intron_variant	CDK11B	984	NM_001787.3	NM_001787.3:c.356-356T>C	
+chr1	1653825	T	TACACACAC	PASS	intron_variant	CDK11B	984	NM_001787.3	NM_001787.3:c.228-1267_228-1260dup	
+chr1	1657220	G	A	PASS	downstream_gene_variant	SLC35E2B	728661	NM_001110781.3		
+chr1	1657220	G	A	PASS	intron_variant	CDK11B	984	NM_001787.3	NM_001787.3:c.111+155C>T	
+chr1	1657267	G	A	PASS	downstream_gene_variant	SLC35E2B	728661	NM_001110781.3		
+chr1	1657267	G	A	PASS	5_prime_UTR_variant	CDK11B	984	NM_033489.3	NM_033489.3:c.-3C>T	
+chr1	1657287	C	T	PASS	downstream_gene_variant	SLC35E2B	728661	NM_001110781.3		
+chr1	1657287	C	T	PASS	5_prime_UTR_variant	CDK11B	984	NM_033489.3	NM_033489.3:c.-23G>A	
+chr1	1657293	A	T	PASS	downstream_gene_variant	SLC35E2B	728661	NM_001110781.3		
+chr1	1657293	A	T	PASS	5_prime_UTR_variant	CDK11B	984	NM_033489.3	NM_033489.3:c.-29T>A	
+chr1	1657294	AGCG	A	PASS	5_prime_UTR_variant	CDK11B	984	NM_033489.3	NM_033489.3:c.-33_-31del	
+chr1	1657294	AGCG	A	PASS	downstream_gene_variant	SLC35E2B	728661	NM_001110781.3		
+chr1	1663825	C	T	PASS	upstream_gene_variant	CDK11B	984	NM_001787.3		
+chr1	1663825	C	T	PASS	3_prime_UTR_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.*1957G>A	
+chr1	1664300	T	C	VQSRTrancheSNP99.90to99.95	3_prime_UTR_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.*1482A>G	
+chr1	1664417	G	A	VQSRTrancheSNP99.80to99.90	3_prime_UTR_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.*1365C>T	
+chr1	1666762	A	G	PASS	intron_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.981-743T>C	
+chr1	1668108	C	T	PASS	intron_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.980+219G>A	
+chr1	1668373	C	T	VQSRTrancheSNP99.90to99.95	missense_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.934G>A	NP_001104251.1:p.Val312Ile
+chr1	1668449	A	G	VQSRTrancheSNP99.95to100.00	synonymous_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.858T>C	NP_001104251.1:p.Ser286%3D
+chr1	1668501	C	T	VQSRTrancheSNP99.95to100.00	intron_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.835-29G>A	
+chr1	1670423	AT	A	PASS	intron_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.708-273del	
+chr1	1671348	G	T	PASS	intron_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.707+161C>A	
+chr1	1671724	C	T	PASS	intron_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.587-95G>A	
+chr1	1672155	G	A	PASS	intron_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.587-526C>T	
+chr1	1676247	A	G	VQSRTrancheSNP99.95to100.00	intron_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.323-48T>C	
+chr1	1676287	C	T	VQSRTrancheSNP99.95to100.00	intron_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.323-88G>A	
+chr1	1676955	C	T	VQSRTrancheSNP99.95to100.00	intron_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.-147-109G>A	
+chr1	1679100	A	G	PASS	regulatory_region_variant			ENSR00000344698		
+chr1	1679100	A	G	PASS	intron_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.-147-2254T>C	
+chr1	1680214	T	C	PASS	intron_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.-147-3368A>G	
+chr1	1680556	A	G	PASS	intron_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.-147-3710T>C	
+chr1	1684619	G	A	PASS	intron_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.-147-7773C>T	
+chr1	1686321	CTTT	C	PASS	TF_binding_site_variant			ENSM00205643016		
+chr1	1686321	CTTT	C	PASS	intron_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.-148+6125_-148+6127del	
+chr1	1687061	C	T	PASS	intron_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.-148+5388G>A	
+chr1	1687153	A	G	PASS	intron_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.-148+5296T>C	
+chr1	1687159	G	T	PASS	intron_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.-148+5290C>A	
+chr1	1687734	CAA	C	PASS	intron_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.-148+4713_-148+4714del	
+chr1	1688409	C	G	PASS	intron_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.-148+4040G>C	
+chr1	1688442	T	C	VQSRTrancheSNP99.80to99.90	intron_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.-148+4007A>G	
+chr1	1688457	G	A	PASS	intron_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.-148+3992C>T	
+chr1	1688786	G	A	VQSRTrancheSNP99.90to99.95	intron_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.-148+3663C>T	
+chr1	1689446	T	C	PASS	intron_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.-148+3003A>G	
+chr1	1689465	A	G	PASS	intron_variant	SLC35E2B	728661	NM_001110781.3	NM_001110781.3:c.-148+2984T>C	
+chr1	1697238	C	T	VQSRTrancheSNP99.95to100.00	regulatory_region_variant			ENSR00000918492		
+chr1	1697238	C	T	VQSRTrancheSNP99.95to100.00	upstream_gene_variant	MMP23A	8511	NR_002946.1		
+chr1	1697238	C	T	VQSRTrancheSNP99.95to100.00	upstream_gene_variant	SLC35E2B	728661	NM_001110781.3		
+chr1	1699228	T	C	VQSRTrancheSNP99.80to99.90	upstream_gene_variant	MMP23A	8511	NR_002946.1		
+chr1	1699228	T	C	VQSRTrancheSNP99.80to99.90	downstream_gene_variant	CDK11A	728642	NM_001313896.2		
+chr1	1699371	A	T	VQSRTrancheSNP99.90to99.95	upstream_gene_variant	MMP23A	8511	NR_002946.1		
+chr1	1699371	A	T	VQSRTrancheSNP99.90to99.95	downstream_gene_variant	CDK11A	728642	NM_001313896.2		
+chr1	1704770	A	G	VQSRTrancheSNP99.90to99.95	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.1468-115T>C	
+chr1	1704770	A	G	VQSRTrancheSNP99.90to99.95	downstream_gene_variant	MMP23A	8511	NR_002946.1		
+chr1	1713397	G	A	VQSRTrancheSNP99.95to100.00	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.459-997C>T	
+chr1	1713403	T	G	VQSRTrancheSNP99.95to100.00	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.459-1003A>C	
+chr1	1713469	C	T	VQSRTrancheSNP99.90to99.95	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.459-1069G>A	
+chr1	1713611	C	T	VQSRTrancheSNP99.90to99.95	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.459-1211G>A	
+chr1	1713751	T	C	VQSRTrancheSNP99.80to99.90	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.459-1351A>G	
+chr1	1714635	A	G	VQSRTrancheSNP99.80to99.90	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.458+1711T>C	
+chr1	1714638	G	T	VQSRTrancheSNP99.90to99.95	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.458+1708C>A	
+chr1	1714674	G	C	VQSRTrancheSNP99.80to99.90	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.458+1672C>G	
+chr1	1714792	T	C	VQSRTrancheSNP99.90to99.95	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.458+1554A>G	
+chr1	1714797	C	T	VQSRTrancheSNP99.90to99.95	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.458+1549G>A	
+chr1	1714988	T	G	PASS	regulatory_region_variant			ENSR00000344706		
+chr1	1714988	T	G	PASS	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.458+1358A>C	
+chr1	1715011	G	A	PASS	regulatory_region_variant			ENSR00000344706		
+chr1	1715011	G	A	PASS	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.458+1335C>T	
+chr1	1715135	T	C	VQSRTrancheSNP99.80to99.90	regulatory_region_variant			ENSR00000344706		
+chr1	1715135	T	C	VQSRTrancheSNP99.80to99.90	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.458+1211A>G	
+chr1	1715218	T	C	VQSRTrancheSNP99.80to99.90	regulatory_region_variant			ENSR00000344706		
+chr1	1715218	T	C	VQSRTrancheSNP99.80to99.90	TF_binding_site_variant			ENSM00211041917		
+chr1	1715218	T	C	VQSRTrancheSNP99.80to99.90	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.458+1128A>G	
+chr1	1715350	T	C	VQSRTrancheSNP99.95to100.00	regulatory_region_variant			ENSR00000344706		
+chr1	1715350	T	C	VQSRTrancheSNP99.95to100.00	TF_binding_site_variant			ENSM00206962361		
+chr1	1715350	T	C	VQSRTrancheSNP99.95to100.00	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.458+996A>G	
+chr1	1715541	A	C	PASS	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.458+805T>G	
+chr1	1715546	C	T	VQSRTrancheSNP99.95to100.00	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.458+800G>A	
+chr1	1715553	G	A	VQSRTrancheSNP99.90to99.95	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.458+793C>T	
+chr1	1716085	C	T	PASS	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.458+261G>A	
+chr1	1716089	G	C	PASS	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.458+257C>G	
+chr1	1716210	C	CT	PASS	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.458+135_458+136insA	
+chr1	1716247	A	C	PASS	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.458+99T>G	
+chr1	1716489	A	G	PASS	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.326-11T>C	
+chr1	1716588	T	C	PASS	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.326-110A>G	
+chr1	1716769	C	T	PASS	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.326-291G>A	
+chr1	1716796	A	C	PASS	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.326-318T>G	
+chr1	1716814	CAAAAAAAAAAAAAAA	C	PASS	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.326-351_326-337del	
+chr1	1719368	T	C	PASS	synonymous_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.315A>G	NP_001300825.1:p.Arg105%3D
+chr1	1719406	G	A	PASS	missense_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.277C>T	NP_001300825.1:p.Arg93Trp
+chr1	1719615	CT	C	PASS	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.228-161del	
+chr1	1719638	C	CTCGCTCTGTCACCCAGGCT	PASS	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.228-184_228-183insAGCCTGGGTGACAGAGCGA	
+chr1	1719827	A	G	PASS	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.228-372T>C	
+chr1	1719907	G	A	PASS	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.228-452C>T	
+chr1	1719907	G	A	PASS	downstream_gene_variant	SLC35E2A	9906	NM_001199787.1		
+chr1	1720183	C	T	PASS	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.228-728G>A	
+chr1	1720183	C	T	PASS	downstream_gene_variant	SLC35E2A	9906	NM_001199787.1		
+chr1	1720288	G	A	PASS	downstream_gene_variant	SLC35E2A	9906	NM_001199787.1		
+chr1	1720288	G	A	PASS	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.228-833C>T	
+chr1	1720309	G	C	PASS	downstream_gene_variant	SLC35E2A	9906	NM_001199787.1		
+chr1	1720309	G	C	PASS	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.228-854C>G	
+chr1	1720376	T	C	PASS	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.228-921A>G	
+chr1	1720376	T	C	PASS	downstream_gene_variant	SLC35E2A	9906	NM_001199787.1		
+chr1	1720462	T	C	PASS	downstream_gene_variant	SLC35E2A	9906	NM_001199787.1		
+chr1	1720462	T	C	PASS	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.228-1007A>G	
+chr1	1720472	C	A	PASS	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.228-1017G>T	
+chr1	1720472	C	A	PASS	downstream_gene_variant	SLC35E2A	9906	NM_001199787.1		
+chr1	1721565	T	C	VQSRTrancheSNP99.80to99.90	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.227+31A>G	
+chr1	1721565	T	C	VQSRTrancheSNP99.80to99.90	downstream_gene_variant	SLC35E2A	9906	NM_001199787.1		
+chr1	1721589	C	T	VQSRTrancheSNP99.80to99.90	splice_region_variant&intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.227+7G>A	
+chr1	1721589	C	T	VQSRTrancheSNP99.80to99.90	downstream_gene_variant	SLC35E2A	9906	NM_001199787.1		
+chr1	1721864	T	C	VQSRTrancheSNP99.80to99.90	downstream_gene_variant	SLC35E2A	9906	NM_001199787.1		
+chr1	1721864	T	C	VQSRTrancheSNP99.80to99.90	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.112-153A>G	
+chr1	1721893	GT	G	PASS	downstream_gene_variant	SLC35E2A	9906	NM_001199787.1		
+chr1	1721893	GT	G	PASS	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.112-183del	
+chr1	1721922	C	T	PASS	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.112-211G>A	
+chr1	1721922	C	T	PASS	downstream_gene_variant	SLC35E2A	9906	NM_001199787.1		
+chr1	1722446	C	A	VQSRTrancheSNP99.80to99.90	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.111+262G>T	
+chr1	1722446	C	A	VQSRTrancheSNP99.80to99.90	downstream_gene_variant	SLC35E2A	9906	NM_001199787.1		
+chr1	1722599	G	A	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	SLC35E2A	9906	NM_001199787.1		
+chr1	1722599	G	A	VQSRTrancheSNP99.95to100.00	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.111+109C>T	
+chr1	1722619	C	T	VQSRTrancheSNP99.95to100.00	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.111+89G>A	
+chr1	1722619	C	T	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	SLC35E2A	9906	NM_001199787.1		
+chr1	1722625	A	T	VQSRTrancheSNP99.95to100.00	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.111+83T>A	
+chr1	1722625	A	T	VQSRTrancheSNP99.95to100.00	downstream_gene_variant	SLC35E2A	9906	NM_001199787.1		
+chr1	1722626	AGCG	A	PASS	downstream_gene_variant	SLC35E2A	9906	NM_001199787.1		
+chr1	1722626	AGCG	A	PASS	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.111+79_111+81del	
+chr1	1722940	TAAG	T	PASS	regulatory_region_variant			ENSR00000000226		
+chr1	1722940	TAAG	T	PASS	intron_variant	CDK11A	728642	NM_001313896.2	NM_001313896.2:c.-13-112_-13-110del	
+chr1	1722940	TAAG	T	PASS	downstream_gene_variant	SLC35E2A	9906	NM_001199787.1		
+chr1	1725582	T	C	PASS	regulatory_region_variant			ENSR00000000226		
+chr1	1725582	T	C	PASS	upstream_gene_variant	CDK11A	728642	NM_001313896.2		
+chr1	1725582	T	C	PASS	intron_variant	SLC35E2A	9906	NM_001199787.1	NM_001199787.1:c.733-160A>G	
+chr1	1730265	A	G	VQSRTrancheSNP99.80to99.90	3_prime_UTR_variant	SLC35E2A	9906	NM_182838.2	NM_182838.2:c.*2190T>C	
+chr1	1732013	G	A	PASS	3_prime_UTR_variant	SLC35E2A	9906	NM_182838.2	NM_182838.2:c.*442C>T	
+chr1	1732166	A	G	PASS	3_prime_UTR_variant	SLC35E2A	9906	NM_182838.2	NM_182838.2:c.*289T>C	
+chr1	1732412	G	C	PASS	3_prime_UTR_variant	SLC35E2A	9906	NM_182838.2	NM_182838.2:c.*43C>G	
+chr1	1732422	G	A	PASS	3_prime_UTR_variant	SLC35E2A	9906	NM_182838.2	NM_182838.2:c.*33C>T	
+chr1	1732580	T	C	PASS	intron_variant	SLC35E2A	9906	NM_001199787.1	NM_001199787.1:c.732+2110A>G	
+chr1	1732685	T	C	PASS	intron_variant	SLC35E2A	9906	NM_001199787.1	NM_001199787.1:c.732+2005A>G	
+chr1	1732834	T	TATCG	PASS	intron_variant	SLC35E2A	9906	NM_001199787.1	NM_001199787.1:c.732+1855_732+1856insCGAT	
+chr1	1734736	C	T	ExcessHet	missense_variant	SLC35E2A	9906	NM_001199787.1	NM_001199787.1:c.686G>A	NP_001186716.1:p.Arg229His
+chr1	1734812	G	A	VQSRTrancheSNP99.95to100.00	missense_variant	SLC35E2A	9906	NM_001199787.1	NM_001199787.1:c.610C>T	NP_001186716.1:p.Arg204Trp
+chr1	1734899	G	A	VQSRTrancheSNP99.80to99.90	intron_variant	SLC35E2A	9906	NM_001199787.1	NM_001199787.1:c.587-64C>T	
+chr1	1735008	G	GGTTT	PASS	intron_variant	SLC35E2A	9906	NM_001199787.1	NM_001199787.1:c.587-174_587-173insAAAC	
+chr1	1736228	T	C	PASS	intron_variant	SLC35E2A	9906	NM_001199787.1	NM_001199787.1:c.587-1393A>G	
+chr1	1737789	T	C	PASS	intron_variant	SLC35E2A	9906	NM_001199787.1	NM_001199787.1:c.586+532A>G	
+chr1	1738207	ACT	A	PASS	regulatory_region_variant			ENSR00000918495		
+chr1	1738207	ACT	A	PASS	intron_variant	SLC35E2A	9906	NM_001199787.1	NM_001199787.1:c.586+112_586+113del	
+chr1	1738309	A	G	VQSRTrancheSNP99.80to99.90	regulatory_region_variant			ENSR00000918495		
+chr1	1738309	A	G	VQSRTrancheSNP99.80to99.90	intron_variant	SLC35E2A	9906	NM_001199787.1	NM_001199787.1:c.586+12T>C	
+chr1	1738525	G	A	VQSRTrancheSNP99.90to99.95	regulatory_region_variant			ENSR00000918495		
+chr1	1738525	G	A	VQSRTrancheSNP99.90to99.95	intron_variant	SLC35E2A	9906	NM_001199787.1	NM_001199787.1:c.459-77C>T	
+chr1	1739131	T	C	VQSRTrancheSNP99.95to100.00	intron_variant	SLC35E2A	9906	NM_001199787.1	NM_001199787.1:c.323-74A>G	
+chr1	1739519	C	G	VQSRTrancheSNP99.95to100.00	regulatory_region_variant			ENSR00000344709		
+chr1	1739519	C	G	VQSRTrancheSNP99.95to100.00	synonymous_variant	SLC35E2A	9906	NM_001199787.1	NM_001199787.1:c.39G>C	NP_001186716.1:p.Leu13%3D
+chr1	1739883	C	T	VQSRTrancheSNP99.90to99.95	regulatory_region_variant			ENSR00000344709		
+chr1	1739883	C	T	VQSRTrancheSNP99.90to99.95	intron_variant	SLC35E2A	9906	NM_001199787.1	NM_001199787.1:c.-147-179G>A	
+chr1	1741091	CT	C	PASS	regulatory_region_variant			ENSR00000344709		
+chr1	1741091	CT	C	PASS	intron_variant	SLC35E2A	9906	NM_001199787.1	NM_001199787.1:c.-147-1388del	
+chr1	1741276	C	T	PASS	regulatory_region_variant			ENSR00000344709		
+chr1	1741276	C	T	PASS	TF_binding_site_variant			ENSM00524746745		
+chr1	1741276	C	T	PASS	intron_variant	SLC35E2A	9906	NM_001199787.1	NM_001199787.1:c.-147-1572G>A	
+chr1	1742432	TA	T	PASS	intron_variant	SLC35E2A	9906	NM_001199787.1	NM_001199787.1:c.-148+1818del	
+chr1	1743238	G	C	PASS	intron_variant	SLC35E2A	9906	NM_001199787.1	NM_001199787.1:c.-148+1013C>G	
+chr1	1745620	G	A	VQSRTrancheSNP99.80to99.90	regulatory_region_variant			ENSR00000000229		
+chr1	1745620	G	A	VQSRTrancheSNP99.80to99.90	intron_variant	SLC35E2A	9906	NM_001199787.1	NM_001199787.1:c.-566+104C>T	
+chr1	1746440	A	G	VQSRTrancheSNP99.80to99.90	regulatory_region_variant			ENSR00000000229		
+chr1	1746440	A	G	VQSRTrancheSNP99.80to99.90	TF_binding_site_variant			ENSM00523761468		
+chr1	1746440	A	G	VQSRTrancheSNP99.80to99.90	upstream_gene_variant	SLC35E2A	9906	NM_001199787.1		
+chr1	1746440	A	G	VQSRTrancheSNP99.80to99.90	downstream_gene_variant	NADK	65220	NM_001198994.2		
+chr1	1752730	C	G	PASS	regulatory_region_variant			ENSR00000344712		
+chr1	1752730	C	G	PASS	3_prime_UTR_variant	NADK	65220	NM_001198994.2	NM_001198994.2:c.*174G>C	
+chr1	1752908	C	CCCT	PASS	regulatory_region_variant			ENSR00000344712		
+chr1	1752908	C	CCCT	PASS	inframe_insertion	NADK	65220	NM_001198994.2	NM_001198994.2:c.1769_1771dup	NP_001185923.1:p.Glu590dup
+chr1	1753033	C	T	PASS	synonymous_variant	NADK	65220	NM_001198994.2	NM_001198994.2:c.1647G>A	NP_001185923.1:p.Pro549%3D
+chr1	1753361	G	A	PASS	regulatory_region_variant			ENSR00000344713		
+chr1	1753361	G	A	PASS	intron_variant	NADK	65220	NM_001198994.2	NM_001198994.2:c.1619+206C>T	
+chr1	1753774	C	G	PASS	intron_variant	NADK	65220	NM_001198994.2	NM_001198994.2:c.1537-125G>C	
+chr1	1754482	TCCCTGGGACCGAAGTCGCCCCA	T	PASS	intron_variant	NADK	65220	NM_001198994.2	NM_001198994.2:c.1278+40_1278+61del	
+chr1	1755713	G	A	PASS	intron_variant	NADK	65220	NM_001198994.2	NM_001198994.2:c.1021-237C>T	
+chr1	1756043	G	T	PASS	intron_variant	NADK	65220	NM_001198994.2	NM_001198994.2:c.1020+215C>A	
+chr1	1756753	A	G	PASS	intron_variant	NADK	65220	NM_001198994.2	NM_001198994.2:c.780-96T>C	
+chr1	1757030	C	G	PASS	intron_variant	NADK	65220	NM_001198994.2	NM_001198994.2:c.779+77G>C	
+chr1	1758687	A	AAC	PASS	regulatory_region_variant			ENSR00000344715		
+chr1	1758687	A	AAC	PASS	TF_binding_site_variant			ENSM00182244456		
+chr1	1758687	A	AAC	PASS	TF_binding_site_variant			ENSM00155010138		
+chr1	1758687	A	AAC	PASS	intron_variant	NADK	65220	NM_001198994.2	NM_001198994.2:c.575+412_575+413dup	
+chr1	1759354	G	A	PASS	regulatory_region_variant			ENSR00000344715		
+chr1	1759354	G	A	PASS	intron_variant	NADK	65220	NM_001198994.2	NM_001198994.2:c.433-111C>T	
+chr1	1759611	C	T	PASS	regulatory_region_variant			ENSR00000344715		
+chr1	1759611	C	T	PASS	intron_variant	NADK	65220	NM_001198994.2	NM_001198994.2:c.432+123G>A	
+chr1	1762287	A	G	PASS	regulatory_region_variant			ENSR00000000232		
+chr1	1762287	A	G	PASS	intron_variant	NADK	65220	NM_001198994.2	NM_001198994.2:c.180-252T>C	
+chr1	1765220	A	G	PASS	regulatory_region_variant			ENSR00000000232		
+chr1	1765220	A	G	PASS	splice_region_variant&intron_variant	NADK	65220	NM_001198994.2	NM_001198994.2:c.179+8T>C	
+chr1	1771973	A	AT	PASS	intron_variant	NADK	65220	NM_001198994.2	NM_001198994.2:c.-40-6528dup	
+chr1	1772410	T	C	PASS	intron_variant	NADK	65220	NM_001198994.2	NM_001198994.2:c.-40-6964A>G	
+chr1	1772426	T	A	PASS	intron_variant	NADK	65220	NM_001198994.2	NM_001198994.2:c.-40-6980A>T	
+chr1	1773460	G	A	PASS	intron_variant	NADK	65220	NM_001198994.2	NM_001198994.2:c.-41+6445C>T	
+chr1	1773476	C	G	PASS	intron_variant	NADK	65220	NM_001198994.2	NM_001198994.2:c.-41+6429G>C	
+chr1	1776772	TAAA	T	PASS	regulatory_region_variant			ENSR00000000234		
+chr1	1776772	TAAA	T	PASS	intron_variant	NADK	65220	NM_001198994.2	NM_001198994.2:c.-41+3130_-41+3132del	
+chr1	1782275	T	G	PASS	regulatory_region_variant			ENSR00000344721		
+chr1	1782275	T	G	PASS	downstream_gene_variant	GNB1	2782	NM_001282539.1		
+chr1	1782275	T	G	PASS	upstream_gene_variant	NADK	65220	NM_001198994.2		
+chr1	1791592	G	A	PASS	intron_variant	GNB1	2782	NM_001282539.1	NM_001282539.1:c.498-996C>T	
+chr1	1793822	A	G	PASS	intron_variant	GNB1	2782	NM_001282539.1	NM_001282539.1:c.431-511T>C	
+chr1	1801780	A	G	PASS	intron_variant	GNB1	2782	NM_001282539.1	NM_001282539.1:c.430+2639T>C	
+chr1	1810934	C	T	PASS	regulatory_region_variant			ENSR00000918503		
+chr1	1810934	C	T	PASS	intron_variant	GNB1	2782	NM_001282539.1	NM_001282539.1:c.204-4396G>A	
+chr1	1819572	T	C	PASS	intron_variant	GNB1	2782	NM_001282539.1	NM_001282539.1:c.58-1697A>G	
+chr1	1821925	T	C	PASS	intron_variant	GNB1	2782	NM_001282539.1	NM_001282539.1:c.57+3472A>G	
+chr1	1829897	A	C	PASS	intron_variant	GNB1	2782	NM_001282539.1	NM_001282539.1:c.-46-4398T>G	
+chr1	1849439	T	C	PASS	intron_variant	GNB1	2782	NM_001282539.1	NM_001282539.1:c.-46-23940A>G	
+chr1	1860640	CA	C	PASS	intron_variant	GNB1	2782	NM_001282539.1	NM_001282539.1:c.-47+30179del	
+chr1	1860640	CAA	C	PASS	intron_variant	GNB1	2782	NM_001282539.1	NM_001282539.1:c.-47+30178_-47+30179del	
+chr1	1860718	A	C	PASS	intron_variant	GNB1	2782	NM_001282539.1	NM_001282539.1:c.-47+30102T>G	
+chr1	1861672	A	G	PASS	intron_variant	GNB1	2782	NM_001282539.1	NM_001282539.1:c.-47+29148T>C	
+chr1	1866635	T	TAAA	PASS	intron_variant	GNB1	2782	NM_001282539.1	NM_001282539.1:c.-47+24182_-47+24184dup	
+chr1	1866635	T	TAA	PASS	intron_variant	GNB1	2782	NM_001282539.1	NM_001282539.1:c.-47+24183_-47+24184dup	
+chr1	1868261	T	C	PASS	intron_variant	GNB1	2782	NM_001282539.1	NM_001282539.1:c.-47+22559A>G	
+chr1	1875208	T	C	PASS	intron_variant	GNB1	2782	NM_001282539.1	NM_001282539.1:c.-47+15612A>G	
+chr1	1879708	GA	G	PASS	intron_variant	GNB1	2782	NM_001282539.1	NM_001282539.1:c.-47+11111del	
+chr1	1881389	G	A	PASS	intron_variant	GNB1	2782	NM_001282539.1	NM_001282539.1:c.-47+9431C>T	
+chr1	1881428	C	CT	PASS	intron_variant	GNB1	2782	NM_001282539.1	NM_001282539.1:c.-47+9391dup	
+chr1	1887939	T	C	PASS	intron_variant	GNB1	2782	NM_001282539.1	NM_001282539.1:c.-47+2881A>G	
+chr1	1889585	G	T	PASS	intron_variant	GNB1	2782	NM_001282539.1	NM_001282539.1:c.-47+1235C>A	
+chr1	1889659	TA	T	PASS	intron_variant	GNB1	2782	NM_001282539.1	NM_001282539.1:c.-47+1160del	
+chr1	1890634	G	A	PASS	intron_variant	GNB1	2782	NM_001282539.1	NM_001282539.1:c.-47+186C>T	
+chr1	1891654	C	CAGAG	PASS	upstream_gene_variant	GNB1	2782	NM_001282539.1		
+chr1	1892483	A	G	PASS	upstream_gene_variant	GNB1	2782	NM_001282539.1		
+chr1	1896770	T	C	PASS	intergenic_variant					
+chr1	1904424	A	AAAATAAAT	PASS	intergenic_variant					
+chr1	1905247	C	G	PASS	intergenic_variant					
+chr1	1908599	T	C	PASS	intergenic_variant					
+chr1	1909137	T	C	PASS	intergenic_variant					
+chr1	1909234	G	A	PASS	intergenic_variant					
+chr1	1909238	G	A	PASS	intergenic_variant					
+chr1	1912607	C	T	PASS	downstream_gene_variant	TMEM52	339456	NM_178545.4		
+chr1	1912607	C	T	PASS	upstream_gene_variant	CALML6	163688	NM_138705.4		
+chr1	1913643	T	C	PASS	downstream_gene_variant	TMEM52	339456	NM_178545.4		
+chr1	1913643	T	C	PASS	upstream_gene_variant	CALML6	163688	NM_138705.4		
+chr1	1915143	A	G	PASS	regulatory_region_variant			ENSR00000918512		
+chr1	1915143	A	G	PASS	downstream_gene_variant	TMEM52	339456	NM_178545.4		
+chr1	1915143	A	G	PASS	upstream_gene_variant	CALML6	163688	NM_138705.4		
+chr1	1915326	G	A	PASS	downstream_gene_variant	TMEM52	339456	NM_178545.4		
+chr1	1915326	G	A	PASS	intron_variant	CALML6	163688	NM_138705.4	NM_138705.4:c.27+19G>A	
+chr1	1916217	C	T	PASS	intron_variant	CALML6	163688	NM_138705.4	NM_138705.4:c.79-224C>T	
+chr1	1916217	C	T	PASS	downstream_gene_variant	TMEM52	339456	NM_178545.4		
+chr1	1916417	G	T	PASS	intron_variant	CALML6	163688	NM_138705.4	NM_138705.4:c.79-24G>T	
+chr1	1916417	G	T	PASS	downstream_gene_variant	TMEM52	339456	NM_178545.4		
+chr1	1916670	G	C	PASS	intron_variant	CALML6	163688	NM_138705.4	NM_138705.4:c.253+55G>C	
+chr1	1916670	G	C	PASS	downstream_gene_variant	TMEM52	339456	NM_178545.4		
+chr1	1917295	A	G	PASS	downstream_gene_variant	TMEM52	339456	NM_178545.4		
+chr1	1917295	A	G	PASS	3_prime_UTR_variant	CALML6	163688	NM_138705.4	NM_138705.4:c.*102A>G	
+chr1	1917295	A	G	PASS	downstream_gene_variant	CFAP74	85452	NM_001304360.2		
+chr1	1918090	A	G	PASS	regulatory_region_variant			ENSR00000000255		
+chr1	1918090	A	G	PASS	missense_variant	TMEM52	339456	NM_178545.4	NM_178545.4:c.422T>C	NP_848640.1:p.Met141Thr
+chr1	1918090	A	G	PASS	downstream_gene_variant	CFAP74	85452	NM_001304360.2		
+chr1	1918090	A	G	PASS	downstream_gene_variant	CALML6	163688	NM_138705.4		
+chr1	1918989	A	G	PASS	regulatory_region_variant			ENSR00000000255		
+chr1	1918989	A	G	PASS	TF_binding_site_variant			ENSM00201722448		
+chr1	1918989	A	G	PASS	intron_variant	TMEM52	339456	NM_178545.4	NM_178545.4:c.129-55T>C	
+chr1	1918989	A	G	PASS	downstream_gene_variant	CFAP74	85452	NM_001304360.2		
+chr1	1918989	A	G	PASS	downstream_gene_variant	CALML6	163688	NM_138705.4		
+chr1	1919188	CAGCGGCAGG	C	PASS	regulatory_region_variant			ENSR00000000255		
+chr1	1919188	CAGCGGCAGG	C	PASS	TF_binding_site_variant			ENSM00200654580		
+chr1	1919188	CAGCGGCAGG	C	PASS	downstream_gene_variant	CALML6	163688	NM_138705.4		
+chr1	1919188	CAGCGGCAGG	C	PASS	downstream_gene_variant	CFAP74	85452	NM_001304360.2		
+chr1	1919188	CAGCGGCAGG	C	PASS	inframe_deletion	TMEM52	339456	NM_178545.4	NM_178545.4:c.69_77del	NP_848640.1:p.Leu24_Leu26del
+chr1	1922176	T	TCTGA	PASS	upstream_gene_variant	TMEM52	339456	NM_178545.4		
+chr1	1922176	T	TCTGA	PASS	downstream_gene_variant	CALML6	163688	NM_138705.4		
+chr1	1922176	T	TCTGA	PASS	3_prime_UTR_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.*110_*111insTCAG	
+chr1	1922670	A	G	PASS	regulatory_region_variant			ENSR00000918513		
+chr1	1922670	A	G	PASS	synonymous_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.4737T>C	NP_001291289.1:p.Ser1579%3D
+chr1	1922670	A	G	PASS	upstream_gene_variant	TMEM52	339456	NM_178545.4		
+chr1	1922882	A	G	PASS	regulatory_region_variant			ENSR00000918513		
+chr1	1922882	A	G	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.4683+103T>C	
+chr1	1922882	A	G	PASS	upstream_gene_variant	TMEM52	339456	NM_178545.4		
+chr1	1924011	A	G	PASS	upstream_gene_variant	TMEM52	339456	NM_178545.4		
+chr1	1924011	A	G	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.4235-82T>C	
+chr1	1924788	C	T	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.4105-268G>A	
+chr1	1926870	T	C	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.3662+24A>G	
+chr1	1927857	T	C	PASS	regulatory_region_variant			ENSR00000918516		
+chr1	1927857	T	C	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.3388-111A>G	
+chr1	1928648	C	T	PASS	regulatory_region_variant			ENSR00000918517		
+chr1	1928648	C	T	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.3387+136G>A	
+chr1	1930143	C	T	PASS	missense_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.3205G>A	NP_001291289.1:p.Gly1069Arg
+chr1	1933087	C	T	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.3012-2751G>A	
+chr1	1935938	T	C	PASS	regulatory_region_variant			ENSR00000344752		
+chr1	1935938	T	C	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.3011+2917A>G	
+chr1	1938771	G	A	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.3011+84C>T	
+chr1	1939978	T	C	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.2704-211A>G	
+chr1	1940540	G	A	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.2616-137C>T	
+chr1	1942014	G	A	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.2615+14C>T	
+chr1	1942075	A	G	PASS	synonymous_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.2568T>C	NP_001291289.1:p.Tyr856%3D
+chr1	1942086	T	C	PASS	missense_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.2557A>G	NP_001291289.1:p.Lys853Glu
+chr1	1942258	G	A	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.2487-102C>T	
+chr1	1942260	G	C	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.2487-104C>G	
+chr1	1944419	C	G	PASS	regulatory_region_variant			ENSR00000249825		
+chr1	1944419	C	G	PASS	missense_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.2398G>C	NP_001291289.1:p.Val800Leu
+chr1	1944420	A	G	PASS	regulatory_region_variant			ENSR00000249825		
+chr1	1944420	A	G	PASS	synonymous_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.2397T>C	NP_001291289.1:p.Asp799%3D
+chr1	1944675	C	T	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.2365-223G>A	
+chr1	1946632	C	T	PASS	regulatory_region_variant			ENSR00000918522		
+chr1	1946632	C	T	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.2242-193G>A	
+chr1	1947189	C	T	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.2177-135G>A	
+chr1	1951106	G	A	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.2177-4052C>T	
+chr1	1951134	A	G	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.2177-4080T>C	
+chr1	1951920	A	G	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.2176+3771T>C	
+chr1	1952823	TA	T	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.2176+2867del	
+chr1	1955580	A	G	PASS	regulatory_region_variant			ENSR00000249827		
+chr1	1955580	A	G	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.2176+111T>C	
+chr1	1956930	A	G	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.1852-146T>C	
+chr1	1958238	G	A	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.1851+882C>T	
+chr1	1959717	C	T	PASS	regulatory_region_variant			ENSR00000249828		
+chr1	1959717	C	T	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.1761+247G>A	
+chr1	1959824	A	T	PASS	regulatory_region_variant			ENSR00000249828		
+chr1	1959824	A	T	PASS	regulatory_region_variant			ENSR00000344756		
+chr1	1959824	A	T	PASS	TF_binding_site_variant			ENSM00055208960		
+chr1	1959824	A	T	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.1761+140T>A	
+chr1	1962222	T	C	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.1694+1527A>G	
+chr1	1968585	TG	T	PASS	regulatory_region_variant			ENSR00000918529		
+chr1	1968585	TG	T	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.1245+49del	
+chr1	1968667	T	TCTC	PASS	regulatory_region_variant			ENSR00000918529		
+chr1	1968667	T	TCTC	PASS	inframe_insertion	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.1212_1213insGAG	NP_001291289.1:p.Lys404_Lys405insGlu
+chr1	1970506	T	A	PASS	regulatory_region_variant			ENSR00000918530		
+chr1	1970506	T	A	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.1046+153A>T	
+chr1	1986432	T	A	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.395+505A>T	
+chr1	1988995	TA	T	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.68-23del	
+chr1	1990864	C	T	PASS	regulatory_region_variant			ENSR00000344767		
+chr1	1990864	C	T	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.67+26G>A	
+chr1	1991213	T	C	PASS	regulatory_region_variant			ENSR00000344767		
+chr1	1991213	T	C	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.-19-238A>G	
+chr1	1991761	T	C	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.-19-786A>G	
+chr1	1991822	G	A	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.-19-847C>T	
+chr1	1995500	GA	G	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.-19-4526del	
+chr1	1998655	G	A	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.-20+5046C>T	
+chr1	1999860	A	T	PASS	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.-20+3841T>A	
+chr1	1999962	A	G	VQSRTrancheSNP99.80to99.90	intron_variant	CFAP74	85452	NM_001304360.2	NM_001304360.2:c.-20+3739T>C	
+chr1	2003927	G	C	PASS	regulatory_region_variant			ENSR00000344770		
+chr1	2003927	G	C	PASS	TF_binding_site_variant			ENSM00525802420		
+chr1	2003927	G	C	PASS	TF_binding_site_variant			ENSM00525459987		
+chr1	2003927	G	C	PASS	upstream_gene_variant	CFAP74	85452	NM_001304360.2		
+chr1	2004049	G	C	PASS	regulatory_region_variant			ENSR00000344770		
+chr1	2004049	G	C	PASS	upstream_gene_variant	CFAP74	85452	NM_001304360.2		
+chr1	2004070	T	C	PASS	regulatory_region_variant			ENSR00000344770		
+chr1	2004070	T	C	PASS	TF_binding_site_variant			ENSM00522436919		
+chr1	2004070	T	C	PASS	upstream_gene_variant	CFAP74	85452	NM_001304360.2		
+chr1	2005903	A	ACTCT	PASS	upstream_gene_variant	CFAP74	85452	NM_001304360.2		
+chr1	2005948	A	C	PASS	upstream_gene_variant	CFAP74	85452	NM_001304360.2		
+chr1	2007034	T	G	PASS	upstream_gene_variant	CFAP74	85452	NM_001304360.2		
+chr1	2010389	T	C	PASS	intergenic_variant					
+chr1	2010394	A	G	PASS	intergenic_variant					
+chr1	2010395	T	A	PASS	intergenic_variant					
+chr1	2018105	G	T	PASS	upstream_gene_variant	GABRD	2563	NM_000815.5		
+chr1	2022997	G	A	PASS	intron_variant	GABRD	2563	NM_000815.5	NM_000815.5:c.69-1945G>A	
+chr1	2024923	G	A	PASS	intron_variant	GABRD	2563	NM_000815.5	NM_000815.5:c.69-19G>A	
+chr1	2025598	T	C	PASS	synonymous_variant	GABRD	2563	NM_000815.5	NM_000815.5:c.330T>C	NP_000806.2:p.Gly110%3D
+chr1	2025860	C	T	PASS	regulatory_region_variant			ENSR00000344776		
+chr1	2025860	C	T	PASS	intron_variant	GABRD	2563	NM_000815.5	NM_000815.5:c.470+122C>T	
+chr1	2027550	G	A	PASS	intron_variant	GABRD	2563	NM_000815.5	NM_000815.5:c.471-27G>A	
+chr1	2027822	A	G	PASS	intron_variant	GABRD	2563	NM_000815.5	NM_000815.5:c.553+163A>G	
+chr1	2028422	G	GC	PASS	intron_variant	GABRD	2563	NM_000815.5	NM_000815.5:c.691+131dup	
+chr1	2028539	C	T	PASS	intron_variant	GABRD	2563	NM_000815.5	NM_000815.5:c.691+247C>T	
+chr1	2029235	C	T	PASS	synonymous_variant	GABRD	2563	NM_000815.5	NM_000815.5:c.816C>T	NP_000806.2:p.Ser272%3D
+chr1	2029487	T	C	PASS	intron_variant	GABRD	2563	NM_000815.5	NM_000815.5:c.848-64T>C	
+chr1	2029969	C	T	PASS	intron_variant	GABRD	2563	NM_000815.5	NM_000815.5:c.1060-14C>T	
+chr1	2033988	G	A	PASS	downstream_gene_variant	GABRD	2563	NM_000815.5		
+chr1	2045412	G	T	PASS	regulatory_region_variant			ENSR00000249834		
+chr1	2045412	G	T	PASS	TF_binding_site_variant			ENSM00521390520		
+chr1	2045412	G	T	PASS	downstream_gene_variant	LOC105378591	105378591	NR_135509.1		
+chr1	2045412	G	T	PASS	upstream_gene_variant	PRKCZ	5590	NM_002744.6		
+chr1	2050397	C	T	PASS	regulatory_region_variant			ENSR00000000276		
+chr1	2050397	C	T	PASS	TF_binding_site_variant			ENSM00206344478		
+chr1	2050397	C	T	PASS	TF_binding_site_variant			ENSM00206242629		
+chr1	2050397	C	T	PASS	upstream_gene_variant	PRKCZ	5590	NM_002744.6		
+chr1	2050397	C	T	PASS	upstream_gene_variant	LOC105378591	105378591	NR_135509.1		
+chr1	2056364	G	A	PASS	regulatory_region_variant			ENSR00000344787		
+chr1	2056364	G	A	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.194-120G>A	
+chr1	2056554	T	C	PASS	synonymous_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.264T>C	NP_002735.3:p.Asp88%3D
+chr1	2056729	CTT	C	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.283+172_283+173del	
+chr1	2058306	AT	A	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.284-1212del	
+chr1	2058306	ATTTTT	A	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.284-1216_284-1212del	
+chr1	2059575	A	G	PASS	synonymous_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.318A>G	NP_002735.3:p.Pro106%3D
+chr1	2059684	G	A	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.334+93G>A	
+chr1	2059734	A	G	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.334+143A>G	
+chr1	2059802	C	G	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.334+211C>G	
+chr1	2061538	G	T	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.334+1947G>T	
+chr1	2063634	G	A	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.334+4043G>A	
+chr1	2071051	C	CACCTGGGCGTGTG	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.334+11471_334+11472insTGACCTGGGCGTG	
+chr1	2073582	T	C	PASS	regulatory_region_variant			ENSR00000344791		
+chr1	2073582	T	C	PASS	TF_binding_site_variant			ENSM00174574042		
+chr1	2073582	T	C	PASS	5_prime_UTR_variant	PRKCZ	5590	NM_001350803.1	NM_001350803.1:c.-563T>C	
+chr1	2074301	T	C	PASS	regulatory_region_variant			ENSR00000344791		
+chr1	2074301	T	C	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.334+14710T>C	
+chr1	2075942	A	G	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.334+16351A>G	
+chr1	2084002	C	T	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.334+24411C>T	
+chr1	2085858	T	C	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.334+26267T>C	
+chr1	2088267	G	C	PASS	regulatory_region_variant			ENSR00000918538		
+chr1	2088267	G	C	PASS	regulatory_region_variant			ENSR00000918539		
+chr1	2088267	G	C	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.334+28676G>C	
+chr1	2089758	A	G	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.334+30167A>G	
+chr1	2089845	T	A	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.334+30254T>A	
+chr1	2102533	T	C	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.335-32729T>C	
+chr1	2107797	G	T	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.335-27465G>T	
+chr1	2108280	G	A	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.335-26982G>A	
+chr1	2108949	G	A	PASS	regulatory_region_variant			ENSR00000249839		
+chr1	2108949	G	A	PASS	regulatory_region_variant			ENSR00000918540		
+chr1	2108949	G	A	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.335-26313G>A	
+chr1	2109014	G	A	PASS	regulatory_region_variant			ENSR00000249839		
+chr1	2109014	G	A	PASS	regulatory_region_variant			ENSR00000918540		
+chr1	2109014	G	A	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.335-26248G>A	
+chr1	2109324	G	A	PASS	regulatory_region_variant			ENSR00000249839		
+chr1	2109324	G	A	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.335-25938G>A	
+chr1	2109338	C	T	PASS	regulatory_region_variant			ENSR00000249839		
+chr1	2109338	C	T	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.335-25924C>T	
+chr1	2109346	A	G	PASS	regulatory_region_variant			ENSR00000249839		
+chr1	2109346	A	G	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.335-25916A>G	
+chr1	2110022	C	T	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.335-25240C>T	
+chr1	2111104	A	G	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.335-24158A>G	
+chr1	2112598	T	C	PASS	regulatory_region_variant			ENSR00000344802		
+chr1	2112598	T	C	PASS	TF_binding_site_variant			ENSM00524795285		
+chr1	2112598	T	C	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.335-22664T>C	
+chr1	2112615	A	C	PASS	TF_binding_site_variant			ENSM00526232221		
+chr1	2112615	A	C	PASS	TF_binding_site_variant			ENSM00522288811		
+chr1	2112615	A	C	PASS	TF_binding_site_variant			ENSM00522407649		
+chr1	2112615	A	C	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.335-22647A>C	
+chr1	2112692	T	TTGG	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.335-22569_335-22568insGGT	
+chr1	2118069	G	T	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.335-17193G>T	
+chr1	2118160	T	C	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.335-17102T>C	
+chr1	2118342	G	GT	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.335-16907dup	
+chr1	2127343	CA	C	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.335-7918del	
+chr1	2141561	A	G	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.421-2649A>G	
+chr1	2155122	A	G	PASS	regulatory_region_variant			ENSR00000918548		
+chr1	2155122	A	G	PASS	TF_binding_site_variant			ENSM00525860465		
+chr1	2155122	A	G	PASS	TF_binding_site_variant			ENSM00525423383		
+chr1	2155122	A	G	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.877-873A>G	
+chr1	2166581	T	A	PASS	regulatory_region_variant			ENSR00000344823		
+chr1	2166581	T	A	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.975-2937T>A	
+chr1	2170494	A	AAGAT	PASS	regulatory_region_variant			ENSR00000918551		
+chr1	2170494	A	AAGAT	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.1061+891_1061+892insGATA	
+chr1	2175401	T	C	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.1575+88T>C	
+chr1	2175457	T	C	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.1575+144T>C	
+chr1	2181829	C	T	PASS	splice_region_variant&intron_variant&non_coding_transcript_variant	PRKCZ	5590	NR_146911.1	NR_146911.1:n.1710-3C>T	
+chr1	2181829	C	T	PASS	downstream_gene_variant	FAAP20	199990	NM_001146310.1		
+chr1	2181829	C	T	PASS	non_coding_transcript_exon_variant	PRKCZ-AS1	100506504	NR_146290.1	NR_146290.1:n.1218G>A	
+chr1	2182151	T	G	PASS	intron_variant	PRKCZ	5590	NM_002744.6	NM_002744.6:c.1576-2432T>G	
+chr1	2182151	T	G	PASS	downstream_gene_variant	FAAP20	199990	NM_001146310.1		
+chr1	2182151	T	G	PASS	non_coding_transcript_exon_variant	PRKCZ-AS1	100506504	NR_146290.1	NR_146290.1:n.896A>C	
+chr1	2187100	T	C	PASS	downstream_gene_variant	PRKCZ	5590	NM_002744.6		
+chr1	2187100	T	C	PASS	5_prime_UTR_variant	FAAP20	199990	NM_001282671.1	NM_001282671.1:c.-301A>G	
+chr1	2187100	T	C	PASS	upstream_gene_variant	PRKCZ-AS1	100506504	NR_146290.1		
+chr1	2189186	C	A	PASS	regulatory_region_variant			ENSR00000000300		
+chr1	2189186	C	A	PASS	downstream_gene_variant	PRKCZ	5590	NM_002744.6		
+chr1	2189186	C	A	PASS	intron_variant	FAAP20	199990	NM_001146310.1	NM_001146310.1:c.458-3673G>T	
+chr1	2189679	C	T	PASS	regulatory_region_variant			ENSR00000000300		
+chr1	2189679	C	T	PASS	3_prime_UTR_variant	FAAP20	199990	NM_001282670.1	NM_001282670.1:c.*30G>A	
+chr1	2189679	C	T	PASS	downstream_gene_variant	PRKCZ	5590	NM_002744.6		
+chr1	2199057	G	A	PASS	regulatory_region_variant			ENSR00000000302		
+chr1	2199057	G	A	PASS	TF_binding_site_variant			ENSM00523058180		
+chr1	2199057	G	A	PASS	TF_binding_site_variant			ENSM00524963863		
+chr1	2199057	G	A	PASS	5_prime_UTR_variant	FAAP20	199990	NM_001282670.1	NM_001282670.1:c.-69C>T	
+chr1	2213543	G	T	PASS	regulatory_region_variant			ENSR00000344843		
+chr1	2213543	G	T	PASS	upstream_gene_variant	FAAP20	199990	NM_001282670.1		
+chr1	2214085	G	A	PASS	regulatory_region_variant			ENSR00000344843		
+chr1	2214085	G	A	PASS	regulatory_region_variant			ENSR00000344851		
+chr1	2214085	G	A	PASS	upstream_gene_variant	FAAP20	199990	NM_001282670.1		
+chr1	2215260	G	A	PASS	upstream_gene_variant	FAAP20	199990	NM_001282670.1		
+chr1	2216004	C	T	PASS	regulatory_region_variant			ENSR00000918561		
+chr1	2216004	C	T	PASS	upstream_gene_variant	FAAP20	199990	NM_001282670.1		
+chr1	2224923	A	G	PASS	upstream_gene_variant	SKI	6497	NM_003036.4		
+chr1	2235578	C	T	PASS	regulatory_region_variant			ENSR00000000307		
+chr1	2235578	C	T	PASS	intron_variant	SKI	6497	NM_003036.4	NM_003036.4:c.969+5843C>T	
+chr1	2235710	C	T	PASS	regulatory_region_variant			ENSR00000000307		
+chr1	2235710	C	T	PASS	intron_variant	SKI	6497	NM_003036.4	NM_003036.4:c.969+5975C>T	
+chr1	2240544	C	T	PASS	intron_variant	SKI	6497	NM_003036.4	NM_003036.4:c.969+10809C>T	
+chr1	2244139	G	A	PASS	intron_variant	SKI	6497	NM_003036.4	NM_003036.4:c.969+14404G>A	
+chr1	2246853	TGG	T	PASS	intron_variant	SKI	6497	NM_003036.4	NM_003036.4:c.969+17125_969+17126del	
+chr1	2246864	T	C	PASS	intron_variant	SKI	6497	NM_003036.4	NM_003036.4:c.969+17129T>C	
+chr1	2251031	G	A	PASS	intron_variant	SKI	6497	NM_003036.4	NM_003036.4:c.969+21296G>A	
+chr1	2269868	C	T	PASS	intron_variant	SKI	6497	NM_003036.4	NM_003036.4:c.970-33110C>T	
+chr1	2269886	C	G	PASS	intron_variant	SKI	6497	NM_003036.4	NM_003036.4:c.970-33092C>G	
+chr1	2279512	G	T	PASS	TF_binding_site_variant			ENSM00208382742		
+chr1	2279512	G	T	PASS	TF_binding_site_variant			ENSM00208226872		
+chr1	2279512	G	T	PASS	TF_binding_site_variant			ENSM00150851537		
+chr1	2279512	G	T	PASS	TF_binding_site_variant			ENSM00208392816		
+chr1	2279512	G	T	PASS	TF_binding_site_variant			ENSM00208547213		
+chr1	2279512	G	T	PASS	TF_binding_site_variant			ENSM00208165162		
+chr1	2279512	G	T	PASS	TF_binding_site_variant			ENSM00208351300		
+chr1	2279512	G	T	PASS	TF_binding_site_variant			ENSM00208506827		
+chr1	2279512	G	T	PASS	TF_binding_site_variant			ENSM00208155408		
+chr1	2279512	G	T	PASS	TF_binding_site_variant			ENSM00208750611		
+chr1	2279512	G	T	PASS	TF_binding_site_variant			ENSM00181615119		
+chr1	2279512	G	T	PASS	TF_binding_site_variant			ENSM00208217059		
+chr1	2279512	G	T	PASS	TF_binding_site_variant			ENSM00208403358		
+chr1	2279512	G	T	PASS	TF_binding_site_variant			ENSM00208265203		
+chr1	2279512	G	T	PASS	TF_binding_site_variant			ENSM00154580726		
+chr1	2279512	G	T	PASS	intron_variant	SKI	6497	NM_003036.4	NM_003036.4:c.970-23466G>T	
+chr1	2283374	A	G	PASS	intron_variant	SKI	6497	NM_003036.4	NM_003036.4:c.970-19604A>G	
+chr1	2283772	T	C	PASS	intron_variant	SKI	6497	NM_003036.4	NM_003036.4:c.970-19206T>C	
+chr1	2289783	A	C	PASS	intron_variant	SKI	6497	NM_003036.4	NM_003036.4:c.970-13195A>C	
+chr1	2290637	G	A	PASS	intron_variant	SKI	6497	NM_003036.4	NM_003036.4:c.970-12341G>A	
+chr1	2291121	A	G	PASS	intron_variant	SKI	6497	NM_003036.4	NM_003036.4:c.970-11857A>G	
+chr1	2291144	T	C	PASS	intron_variant	SKI	6497	NM_003036.4	NM_003036.4:c.970-11834T>C	
+chr1	2296225	C	CA	PASS	intron_variant	SKI	6497	NM_003036.4	NM_003036.4:c.970-6740dup	
+chr1	2302812	A	G	PASS	intron_variant	SKI	6497	NM_003036.4	NM_003036.4:c.970-166A>G	
+chr1	2303193	G	A	PASS	intron_variant	SKI	6497	NM_003036.4	NM_003036.4:c.1095+90G>A	
+chr1	2303464	C	T	PASS	intron_variant	SKI	6497	NM_003036.4	NM_003036.4:c.1211+64C>T	
+chr1	2304223	G	A	PASS	intron_variant	SKI	6497	NM_003036.4	NM_003036.4:c.1475-70G>A	
+chr1	2304233	C	T	PASS	intron_variant	SKI	6497	NM_003036.4	NM_003036.4:c.1475-60C>T	
+chr1	2305319	G	C	PASS	intron_variant	SKI	6497	NM_003036.4	NM_003036.4:c.1768-701G>C	
+chr1	2309937	C	CT	PASS	3_prime_UTR_variant	SKI	6497	NM_003036.4	NM_003036.4:c.*3182dup	
+chr1	2316546	T	C	PASS	regulatory_region_variant			ENSR00000344887		
+chr1	2316546	T	C	PASS	downstream_gene_variant	MORN1	79906	NM_024848.3		
+chr1	2317797	G	A	PASS	downstream_gene_variant	MORN1	79906	NM_024848.3		
+chr1	2321320	A	G	PASS	3_prime_UTR_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.*63T>C	
+chr1	2324194	G	A	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.1251-51C>T	
+chr1	2325127	C	T	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.1251-984G>A	
+chr1	2325494	G	A	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.1251-1351C>T	
+chr1	2327507	C	CA	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.1251-3365dup	
+chr1	2329783	C	A	PASS	regulatory_region_variant			ENSR00000000329		
+chr1	2329783	C	A	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.1251-5640G>T	
+chr1	2332683	C	T	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.1250+3786G>A	
+chr1	2334530	T	G	PASS	regulatory_region_variant			ENSR00000344897		
+chr1	2334530	T	G	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.1250+1939A>C	
+chr1	2335275	G	C	PASS	regulatory_region_variant			ENSR00000344897		
+chr1	2335275	G	C	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.1250+1194C>G	
+chr1	2335286	T	C	PASS	regulatory_region_variant			ENSR00000344897		
+chr1	2335286	T	C	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.1250+1183A>G	
+chr1	2338992	G	T	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.1037-2142C>A	
+chr1	2340425	C	T	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.1037-3575G>A	
+chr1	2341464	A	G	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.1037-4614T>C	
+chr1	2346801	C	T	PASS	downstream_gene_variant	LOC100129534	100129534	NR_024489.1		
+chr1	2346801	C	T	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.1037-9951G>A	
+chr1	2347542	C	T	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.1036+9890G>A	
+chr1	2347542	C	T	PASS	downstream_gene_variant	LOC100129534	100129534	NR_024489.1		
+chr1	2350539	T	G	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.1036+6893A>C	
+chr1	2350539	T	G	PASS	non_coding_transcript_exon_variant	LOC100129534	100129534	NR_024489.1	NR_024489.1:n.2123A>C	
+chr1	2350540	T	C	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.1036+6892A>G	
+chr1	2350540	T	C	PASS	non_coding_transcript_exon_variant	LOC100129534	100129534	NR_024489.1	NR_024489.1:n.2122A>G	
+chr1	2350943	C	T	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.1036+6489G>A	
+chr1	2350943	C	T	PASS	non_coding_transcript_exon_variant	LOC100129534	100129534	NR_024489.1	NR_024489.1:n.1719G>A	
+chr1	2351337	G	C	PASS	non_coding_transcript_exon_variant	LOC100129534	100129534	NR_024489.1	NR_024489.1:n.1325C>G	
+chr1	2351337	G	C	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.1036+6095C>G	
+chr1	2351827	T	C	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.1036+5605A>G	
+chr1	2351827	T	C	PASS	non_coding_transcript_exon_variant	LOC100129534	100129534	NR_024489.1	NR_024489.1:n.835A>G	
+chr1	2351874	C	G	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.1036+5558G>C	
+chr1	2351874	C	G	PASS	non_coding_transcript_exon_variant	LOC100129534	100129534	NR_024489.1	NR_024489.1:n.788G>C	
+chr1	2355508	A	G	PASS	upstream_gene_variant	LOC100129534	100129534	NR_024489.1		
+chr1	2355508	A	G	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.1036+1924T>C	
+chr1	2355671	C	T	PASS	upstream_gene_variant	LOC100129534	100129534	NR_024489.1		
+chr1	2355671	C	T	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.1036+1761G>A	
+chr1	2356078	T	C	PASS	upstream_gene_variant	LOC100129534	100129534	NR_024489.1		
+chr1	2356078	T	C	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.1036+1354A>G	
+chr1	2356110	A	C	PASS	upstream_gene_variant	LOC100129534	100129534	NR_024489.1		
+chr1	2356110	A	C	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.1036+1322T>G	
+chr1	2356158	C	T	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.1036+1274G>A	
+chr1	2356158	C	T	PASS	upstream_gene_variant	LOC100129534	100129534	NR_024489.1		
+chr1	2356177	T	C	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.1036+1255A>G	
+chr1	2356177	T	C	PASS	upstream_gene_variant	LOC100129534	100129534	NR_024489.1		
+chr1	2357308	T	C	PASS	upstream_gene_variant	LOC100129534	100129534	NR_024489.1		
+chr1	2357308	T	C	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.1036+124A>G	
+chr1	2357413	G	A	PASS	regulatory_region_variant			ENSR00000344908		
+chr1	2357413	G	A	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.1036+19C>T	
+chr1	2357413	G	A	PASS	upstream_gene_variant	LOC100129534	100129534	NR_024489.1		
+chr1	2358817	G	A	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.746-102C>T	
+chr1	2358849	T	C	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.746-134A>G	
+chr1	2361332	A	AG	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.746-2618dup	
+chr1	2371908	CA	C	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.745+572del	
+chr1	2372759	GACC	G	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.635-171_635-169del	
+chr1	2374713	C	T	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.538-156G>A	
+chr1	2375533	G	A	PASS	regulatory_region_variant			ENSR00000918575		
+chr1	2375533	G	A	PASS	regulatory_region_variant			ENSR00000918576		
+chr1	2375533	G	A	PASS	non_coding_transcript_exon_variant	MORN1	79906	NR_125361.2	NR_125361.2:n.4053C>T	
+chr1	2377078	C	G	PASS	non_coding_transcript_exon_variant	MORN1	79906	NR_125361.2	NR_125361.2:n.2508G>C	
+chr1	2377643	T	G	PASS	non_coding_transcript_exon_variant	MORN1	79906	NR_125361.2	NR_125361.2:n.1943A>C	
+chr1	2380209	G	A	PASS	regulatory_region_variant			ENSR00000918578		
+chr1	2380209	G	A	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.537+4769C>T	
+chr1	2380956	C	T	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.537+4022G>A	
+chr1	2382101	A	G	PASS	regulatory_region_variant			ENSR00000249853		
+chr1	2382101	A	G	PASS	regulatory_region_variant			ENSR00000344913		
+chr1	2382101	A	G	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.537+2877T>C	
+chr1	2383824	C	G	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.537+1154G>C	
+chr1	2384876	A	G	PASS	regulatory_region_variant			ENSR00000344916		
+chr1	2384876	A	G	PASS	regulatory_region_variant			ENSR00000918579		
+chr1	2384876	A	G	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.537+102T>C	
+chr1	2385630	A	C	PASS	regulatory_region_variant			ENSR00000918579		
+chr1	2385630	A	C	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.449+177T>G	
+chr1	2387989	A	G	PASS	regulatory_region_variant			ENSR00000918581		
+chr1	2387989	A	G	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.247+250T>C	
+chr1	2387989	A	G	PASS	upstream_gene_variant	RER1	11079	NM_007033.5		
+chr1	2391403	C	T	PASS	regulatory_region_variant			ENSR00000000337		
+chr1	2391403	C	T	PASS	TF_binding_site_variant			ENSM00139521382		
+chr1	2391403	C	T	PASS	TF_binding_site_variant			ENSM00026520240		
+chr1	2391403	C	T	PASS	TF_binding_site_variant			ENSM00207255485		
+chr1	2391403	C	T	PASS	TF_binding_site_variant			ENSM00130514134		
+chr1	2391403	C	T	PASS	upstream_gene_variant	RER1	11079	NM_007033.5		
+chr1	2391403	C	T	PASS	intron_variant	MORN1	79906	NM_024848.3	NM_024848.3:c.76+55G>A	
+chr1	2392128	T	C	PASS	regulatory_region_variant			ENSR00000000337		
+chr1	2392128	T	C	PASS	TF_binding_site_variant			ENSM00198432751		
+chr1	2392128	T	C	PASS	intron_variant	RER1	11079	NM_007033.5	NM_007033.5:c.-8+170T>C	
+chr1	2392128	T	C	PASS	upstream_gene_variant	MORN1	79906	NM_024848.3		
