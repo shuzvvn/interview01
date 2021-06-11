@@ -1,0 +1,88 @@
+/mnt/c/Users/vivia/project/test01/data/1/test.vcf.gz
+
+python3 -m pip install pyvcf
+
+
+import vcf
+vcf_reader = vcf.Reader(filename='/mnt/c/Users/vivia/project/test01/data/1/test.vcf.gz')
+
+for record in vcf_reader:
+	print(record.INFO['CSQ'])
+
+
+
+import gzip
+
+vcf_file = gzip.open('/mnt/c/Users/vivia/project/test01/data/1/test.vcf.gz', 'rb')
+reader = vcf_file.read()
+
+
+gzip -d /mnt/c/Users/vivia/project/test01/data/1/test.vcf.gz
+
+record.INFO['CSQ']
+
+
+
+python3 /mnt/c/Users/vivia/github/scripts/convert_vcfgz_to_tsv.1.py --vcf=/mnt/c/Users/vivia/project/test01/data/1/test.vcf.gz --output=/mnt/c/Users/vivia/project/test01/data/1/out.tsv
+
+
+python3 /mnt/c/Users/vivia/github/scripts/question3.1.py
+
+tar -xvf pgx_files.tar.gz
+
+
+data_tsv.df <- read.csv('C:/Users/vivia/project/test01/data/4/clinical_ann_metadata.tsv', sep="\t", header = T)
+
+# list of bed.df
+bed.df.list <- list()
+
+bed.df.list[['IDT']] <- read.csv('C:/Users/vivia/project/test01/data/4/IDT_targets.bed', sep="\t", header = F)
+bed.df.list[['roche']] <- read.csv('C:/Users/vivia/project/test01/data/4/ROCHE_KAPA_targets.bed', sep="\t", header = F)
+bed.df.list[['V6']] <- read.csv('C:/Users/vivia/project/test01/data/4/Agilent_V6_targets.bed', sep="\t", header = F)
+bed.df.list[['V7']] <- read.csv('C:/Users/vivia/project/test01/data/4/Agilent_V7_targets.bed', sep="\t", header = F)
+
+
+scp -pr /mnt/c/Users/vivia/project/test01/data/4 shu-ting@136.142.66.116:/home/shu-ting/project/test01
+
+
+
+
+data <- read.csv('C:/Users/vivia/project/test01/data/4/out_data.tsv', sep="\t", header = T)
+
+# Grouped and facet
+library(ggplot2)
+ggplot(data, aes(fill=kit, y=Counts, x=Evidence.level)) + 
+	geom_bar(position="dodge", stat="identity") + 
+	scale_x_discrete(name="Evidence level") + 
+	geom_text(aes(label=Counts), position=position_dodge(width=0.9), hjust=0, size=3, inherit.aes = TRUE) + 
+	expand_limits(y=c(0, 720)) + 
+	coord_flip() + 
+	facet_wrap(~info) + 
+	theme_classic()
+
+# write output pdf
+dev.copy(pdf, 'C:/Users/vivia/project/test01/data/4/Rplot_bar.pdf', width=8, height=5)
+dev.off() 
+
+
+
+
+# question2
+python3 question2.1.py --reference=reference.csv.gz --input=input.tped --output=output.txt
+
+
+	
+ssh -i ~/.ssh/guppy_ec2_instance_stc.pem ubuntu@13.58.177.174
+
+scp -pr -i ~/.ssh/guppy_ec2_instance_stc.pem /mnt/c/Users/vivia/project/test01/data/2/ ubuntu@13.58.177.174:~/script/
+
+
+vim Dockerfile
+# syntax=docker/dockerfile:1
+FROM python:3.8-slim-buster
+COPY . /app
+WORKDIR /app
+CMD python question2.1.py --reference=reference.csv.gz --input=input.tped --output=output.txt
+
+sudo docker build -t question2 .
+sudo docker run -v ~/2:/app question2
